@@ -2170,8 +2170,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1390355353965" FOLDED="true" ID="ID_1076970212" MODIFIED="1413353206152" TEXT="JAVA">
-<node CREATED="1406262015076" FOLDED="true" ID="ID_1197133255" MODIFIED="1411701849453" TEXT="&#x8bed;&#x6cd5;">
+<node CREATED="1390355353965" ID="ID_1076970212" MODIFIED="1414290404524" TEXT="JAVA">
+<node CREATED="1406262015076" FOLDED="true" ID="ID_1197133255" MODIFIED="1414501879063" TEXT="&#x8bed;&#x6cd5;">
 <node CREATED="1406443596966" FOLDED="true" ID="ID_789406884" MODIFIED="1411398430832" TEXT="&#x4e0a;&#x4e0b;&#x6587;">
 <node CREATED="1406773295039" FOLDED="true" ID="ID_845258216" MODIFIED="1411398429895" TEXT="&#x603b;&#x7ed3;">
 <node CREATED="1406773290965" ID="ID_1485775566" MODIFIED="1406773294258" TEXT=" &#x4e0a;&#x4e0b;&#x6587;&#x5176;&#x5b9e;&#x662f;&#x4e00;&#x4e2a;&#x62bd;&#x8c61;&#x7684;&#x6982;&#x5ff5;&#x3002;&#x6211;&#x4eec;&#x5e38;&#x89c1;&#x7684;&#x4e0a;&#x4e0b;&#x6587;&#x6709;Servlet&#x4e2d;&#x7684;pageContext&#xff0c;&#x8bbf;&#x95ee;JNDI&#x65f6;&#x5019;&#x7528;&#x7684;Context&#x3002;&#x5199;&#x8fc7;&#x8fd9;&#x4e9b;&#x4ee3;&#x7801;&#x7684;&#x4eba;&#x53ef;&#x80fd;&#x6bd4;&#x8f83;&#x5bb9;&#x6613;&#x7406;&#x89e3;&#xff0c;&#x5176;&#x5b9e;&#x4ed6;&#x4eec;&#x771f;&#x6b63;&#x7684;&#x4f5c;&#x7528;&#x5c31;&#x662f;&#x627f;&#x4e0a;&#x542f;&#x4e0b;&#x3002;&#x6bd4;&#x5982;&#x8bf4;pageContext&#x4ed6;&#x7684;&#x4e0a;&#x5c42;&#x662f;WEB&#x5bb9;&#x5668;&#xff0c;&#x4e0b;&#x5c42;&#x662f;&#x4f60;&#x5199;&#x7684;&#x90a3;&#x4e2a;Servlet&#x7c7b;&#xff0c;pageContext&#x4f5c;&#x4e3a;&#x4e2d;&#x95f4;&#x7684;&#x901a;&#x9053;&#x8ba9;Servlet &#x548c;Web&#x5bb9;&#x5668;&#x8fdb;&#x884c;&#x4ea4;&#x4e92;&#x3002;&#x518d;&#x6bd4;&#x5982;&#x8bbf;&#x95ee;JNDI&#x7684;Context&#xff0c;&#x4ed6;&#x7684;&#x4e0a;&#x5c42;&#x662f;JNDI&#x670d;&#x52a1;&#x5668;&#xff08;&#x53ef;&#x80fd;&#x662f;&#x8fdc;&#x7a0b;&#x7684;&#xff09;&#xff0c;&#x4e0b;&#x5c42;&#x662f;&#x4f60;&#x7684;&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#xff0c;&#x4ed6;&#x7684;&#x4f5c;&#x7528;&#x4e5f;&#x662f;&#x5efa;&#x7acb;&#x4e00;&#x4e2a;&#x901a;&#x9053;&#x8ba9;&#x4f60;&#x80fd;&#x8bbf;&#x95ee;JNDI&#x670d;&#x52a1;&#x5668;&#xff0c;&#x540c;&#x65f6;&#x4e5f;&#x8ba9;JNDI&#x670d;&#x52a1;&#x5668;&#x63a5;&#x53d7;&#x4f60;&#x7684;&#x8bf7;&#x6c42;&#xff0c;&#x540c;&#x6837;&#x8d77;&#x5230;&#x4ea4;&#x4e92;&#x4f5c;&#x7528;&#x3002; "/>
@@ -2205,7 +2205,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1406435894047" ID="ID_36462051" MODIFIED="1411536466174" TEXT="&#x63a5;&#x53e3;&#x548c;&#x62bd;&#x8c61;&#x7c7b;">
+<node CREATED="1406435894047" FOLDED="true" ID="ID_36462051" MODIFIED="1414291830003" TEXT="&#x63a5;&#x53e3;&#x548c;&#x62bd;&#x8c61;&#x7c7b;">
 <node CREATED="1411536563645" ID="ID_870094549" MODIFIED="1411536575487" TEXT="interface"/>
 <node CREATED="1411536617555" ID="ID_1836132054" MODIFIED="1411536622063" TEXT="AC"/>
 <node CREATED="1411536822930" FOLDED="true" ID="ID_711523865" MODIFIED="1411701844839" TEXT="&#x6bd4;&#x8f83;">
@@ -2228,7 +2228,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1406527743057" FOLDED="true" ID="ID_959133883" MODIFIED="1406797952754" TEXT="&#x589e;&#x5f3a;for&#x5faa;&#x73af;">
+<node CREATED="1406527743057" FOLDED="true" ID="ID_959133883" MODIFIED="1414291828902" TEXT="&#x589e;&#x5f3a;for&#x5faa;&#x73af;">
 <node CREATED="1406530797075" ID="ID_1234262203" MODIFIED="1406530800340" TEXT="&#x96c6;&#x5408;">
 <node CREATED="1406530801179" ID="ID_1941523096" MODIFIED="1406530802545" TEXT="  for (String str : set)"/>
 </node>
@@ -2237,8 +2237,13 @@
 </node>
 <node CREATED="1406530984625" ID="ID_177351549" MODIFIED="1406530991264" TEXT="&#x6cdb;&#x578b;"/>
 </node>
+<node CREATED="1414290727071" FOLDED="true" ID="ID_1647003013" MODIFIED="1414291833483" TEXT="&#x903b;&#x8f91;&#x8fd0;&#x7b97;">
+<node CREATED="1414290733039" ID="ID_374175577" MODIFIED="1414291832355" TEXT="&amp; vs. &amp;&amp;">
+<node CREATED="1414290744115" ID="ID_1802791741" MODIFIED="1414290746125" TEXT="&amp;&#x548c;&amp;&amp;&#x90fd;&#x662f;&#x903b;&#x8f91;&#x8fd0;&#x7b97;&#x7b26;&#xff0c;&#x90fd;&#x662f;&#x5224;&#x65ad;&#x4e24;&#x8fb9;&#x540c;&#x65f6;&#x771f;&#x5219;&#x4e3a;&#x771f;&#xff0c;&#x5426;&#x5219;&#x4e3a;&#x5047;&#xff1b;&#x4f46;&#x662f;&amp;&amp;&#x5f53;&#x7b2c;&#x4e00;&#x4e2a;&#x6761;&#x4ef6;&#x4e0d;&#x6210;&#x4e4b;&#x540e;&#xff0c;&#x540e;&#x9762;&#x7684;&#x6761;&#x4ef6;&#x90fd;&#x4e0d;&#x6267;&#x884c;&#x4e86;&#xff0c;&#x800c;&amp;&#x5219;&#x8fd8;&#x662f;&#x7ee7;&#x7eed;&#x6267;&#x884c;&#xff0c;&#x76f4;&#x5230;&#x6574;&#x4e2a;&#x6761;&#x4ef6;&#x8bed;&#x53e5;&#x6267;&#x884c;&#x5b8c;&#x4e3a;&#x6b62;&#x3002;"/>
 </node>
-<node CREATED="1411377181834" FOLDED="true" ID="ID_939165201" MODIFIED="1413176982017" TEXT="&#x673a;&#x5236;">
+</node>
+</node>
+<node CREATED="1411377181834" FOLDED="true" ID="ID_939165201" MODIFIED="1413805840572" TEXT="&#x673a;&#x5236;">
 <node CREATED="1406555064721" FOLDED="true" ID="ID_594216930" MODIFIED="1411702518479" TEXT="&#x6ce8;&#x89e3;">
 <node CREATED="1406555289844" ID="ID_863617906" MODIFIED="1406555353126" TEXT="&#x5185;&#x7f6e;&#x6ce8;&#x89e3;&#x7c7b;&#x578b;">
 <node CREATED="1406555335745" ID="ID_1519434208" MODIFIED="1406555335745" TEXT="Override">
@@ -2416,7 +2421,7 @@
 <node CREATED="1411377278089" ID="ID_1648889244" MODIFIED="1411377280698" TEXT="&#x5bb9;&#x5668;"/>
 <node CREATED="1413162323553" ID="ID_1894185362" MODIFIED="1413162329311" TEXT="GC"/>
 </node>
-<node CREATED="1408326107871" FOLDED="true" ID="ID_872824684" MODIFIED="1411366741252" TEXT="&#x6570;&#x636e;&#x5e93;&#x7f16;&#x7a0b;">
+<node CREATED="1408326107871" FOLDED="true" ID="ID_872824684" MODIFIED="1413805841908" TEXT="&#x6570;&#x636e;&#x5e93;&#x7f16;&#x7a0b;">
 <node CREATED="1390355632568" ID="ID_147784399" MODIFIED="1408325940564" TEXT="&#x64cd;&#x4f5c;&#x6570;&#x636e;&#x5e93;">
 <node CREATED="1390355638723" ID="ID_296423" MODIFIED="1390355661247" TEXT="&#x76f4;&#x63a5;&#x6570;&#x636e;&#x6e90;"/>
 <node CREATED="1390355642527" ID="ID_1931557956" MODIFIED="1390355653145" TEXT="&#x6301;&#x4e45;&#x5316;"/>
@@ -2480,10 +2485,10 @@
 </node>
 <node CREATED="1409893372045" ID="ID_1376367369" MODIFIED="1409893377472" TEXT="commons.net"/>
 </node>
-<node CREATED="1409809651135" FOLDED="true" ID="ID_1788034305" MODIFIED="1413353200528" TEXT="IO">
+<node CREATED="1409809651135" ID="ID_1788034305" MODIFIED="1414505117820" TEXT="IO">
 <node CREATED="1409809654301" ID="ID_1720988399" MODIFIED="1409809659605" TEXT="FILE">
 <node CREATED="1413351816047" ID="ID_1882243426" MODIFIED="1413351819433" TEXT="case">
-<node CREATED="1409809752513" FOLDED="true" ID="ID_489238066" MODIFIED="1413351795666" TEXT="&#x5224;&#x65ad;&#x6587;&#x4ef6;&#x662f;&#x5426;&#x5b58;&#x5728;&#xff0c;&#x4e0d;&#x5b58;&#x5728;&#x521b;&#x5efa;&#x6587;&#x4ef6;">
+<node CREATED="1409809752513" FOLDED="true" ID="ID_489238066" MODIFIED="1414290718111" TEXT="&#x5224;&#x65ad;&#x6587;&#x4ef6;&#x662f;&#x5426;&#x5b58;&#x5728;&#xff0c;&#x4e0d;&#x5b58;&#x5728;&#x521b;&#x5efa;&#x6587;&#x4ef6;">
 <node CREATED="1409809773442" ID="ID_1741563507" MODIFIED="1409809773442" TEXT="File file=new File(&quot;C:\\Users\\QPING\\Desktop\\JavaScript\\2.htm&quot;);"/>
 <node CREATED="1409809773496" ID="ID_592549945" MODIFIED="1409809773496" TEXT="if(!file.exists())"/>
 <node CREATED="1409809773497" ID="ID_692567435" MODIFIED="1409809773497" TEXT="{">
@@ -2498,7 +2503,7 @@
 </node>
 <node CREATED="1409809773499" ID="ID_1278988852" MODIFIED="1409809773499" TEXT="}"/>
 </node>
-<node CREATED="1409809760400" FOLDED="true" ID="ID_270024339" MODIFIED="1411386888155" TEXT="&#x5224;&#x65ad;&#x6587;&#x4ef6;&#x5939;&#x662f;&#x5426;&#x5b58;&#x5728;&#xff0c;&#x4e0d;&#x5b58;&#x5728;&#x521b;&#x5efa;&#x6587;&#x4ef6;&#x5939;">
+<node CREATED="1409809760400" FOLDED="true" ID="ID_270024339" MODIFIED="1414290716206" TEXT="&#x5224;&#x65ad;&#x6587;&#x4ef6;&#x5939;&#x662f;&#x5426;&#x5b58;&#x5728;&#xff0c;&#x4e0d;&#x5b58;&#x5728;&#x521b;&#x5efa;&#x6587;&#x4ef6;&#x5939;">
 <node CREATED="1409809784448" ID="ID_1200448916" MODIFIED="1409809784448" TEXT="File file =new File(&quot;C:\\Users\\QPING\\Desktop\\JavaScript&quot;);"/>
 <node CREATED="1409809784451" ID="ID_1138226704" MODIFIED="1409809784451" TEXT="//&#x5982;&#x679c;&#x6587;&#x4ef6;&#x5939;&#x4e0d;&#x5b58;&#x5728;&#x5219;&#x521b;&#x5efa;"/>
 <node CREATED="1409809784453" ID="ID_1107934743" MODIFIED="1409809784453" TEXT="if  (!file .exists()  &amp;&amp; !file .isDirectory())"/>
@@ -2513,19 +2518,22 @@
 <node CREATED="1409809784455" ID="ID_1019101466" MODIFIED="1409809784455" TEXT="}"/>
 </node>
 </node>
-<node CREATED="1413351824479" FOLDED="true" ID="ID_1502494782" MODIFIED="1413352551950" TEXT="method">
-<node CREATED="1413351881223" ID="ID_183342624" MODIFIED="1413351884257" TEXT="test">
+<node CREATED="1413351824479" ID="ID_1502494782" MODIFIED="1414504169336" TEXT="method">
+<node CREATED="1413351881223" FOLDED="true" ID="ID_183342624" MODIFIED="1414505121447" TEXT="test">
 <node CREATED="1413351884558" ID="ID_752867324" MODIFIED="1413351890209" TEXT="canRead()"/>
 <node CREATED="1413351890461" ID="ID_1080991512" MODIFIED="1413351899193" TEXT="canWrite()"/>
 <node CREATED="1413352043557" ID="ID_676427443" MODIFIED="1413352055918" TEXT="exists()"/>
-<node CREATED="1413352350954" ID="ID_690996335" MODIFIED="1413352352849" TEXT="is">
+<node CREATED="1413352350954" ID="ID_690996335" MODIFIED="1414504185088" TEXT="is">
 <node CREATED="1413352353274" ID="ID_844463488" MODIFIED="1413352361996" TEXT="isAbsolute()"/>
 <node CREATED="1413352362274" ID="ID_549884112" MODIFIED="1413352370389" TEXT="isDirecorty()"/>
 <node CREATED="1413352370633" ID="ID_966255327" MODIFIED="1413352375067" TEXT="isFile()"/>
 </node>
 </node>
-<node CREATED="1413351901597" ID="ID_1177140336" MODIFIED="1413352387600" TEXT="RIDU">
+<node CREATED="1413351901597" ID="ID_1177140336" MODIFIED="1414505122795" TEXT="RIDU">
 <node CREATED="1413352022661" ID="ID_1400127149" MODIFIED="1413352260309" TEXT="delete()"/>
+<node CREATED="1414505128744" ID="ID_228028582" MODIFIED="1414505139438" TEXT="deleteOnExit()">
+<node CREATED="1414505139439" ID="ID_1032738279" MODIFIED="1414505139440" TEXT="&#x865a;&#x62df;&#x673a;&#x7ec8;&#x6b62;&#x65f6;&#x624d;&#x8fdb;&#x884c;&#x5220;&#x9664;"/>
+</node>
 <node CREATED="1413352028045" ID="ID_446485110" MODIFIED="1413352284091" TEXT="mkdir()"/>
 <node CREATED="1413352284386" ID="ID_300397113" MODIFIED="1413352299462" TEXT="mkdirs()"/>
 <node CREATED="1413352299851" ID="ID_106077936" MODIFIED="1413352321100" TEXT="renameTo(File)"/>
@@ -2534,21 +2542,21 @@
 <node CREATED="1413352519985" ID="ID_1851570132" MODIFIED="1413352524003" TEXT="list()"/>
 <node CREATED="1413352524288" ID="ID_962202567" MODIFIED="1413352541149" TEXT="list(FilenameFilter)"/>
 </node>
-<node CREATED="1413352066012" ID="ID_922151558" MODIFIED="1413352068359" TEXT="get">
+<node CREATED="1413352066012" FOLDED="true" ID="ID_922151558" MODIFIED="1414504175215" TEXT="get">
 <node CREATED="1413352069396" ID="ID_1273865807" MODIFIED="1413352082585" TEXT="getAbsolutePath()"/>
 <node CREATED="1413352082884" ID="ID_717651898" MODIFIED="1413352098260" TEXT="getCannonicalPath()"/>
 <node CREATED="1413352100860" ID="ID_786168699" MODIFIED="1413352120686" TEXT="getPath()"/>
 <node CREATED="1413352121035" ID="ID_596617870" MODIFIED="1413352128749" TEXT="getName()"/>
 <node CREATED="1413352132580" ID="ID_299632403" MODIFIED="1413352137219" TEXT="getParent()"/>
 </node>
-<node CREATED="1413352145787" ID="ID_1820621555" MODIFIED="1413352184782" TEXT="operation">
+<node CREATED="1413352145787" FOLDED="true" ID="ID_1820621555" MODIFIED="1414504173655" TEXT="operation">
 <node CREATED="1413352185996" ID="ID_1627294597" MODIFIED="1413352200397" TEXT="hashCode()"/>
 <node CREATED="1413352264546" ID="ID_1006723994" MODIFIED="1413352271304" TEXT="equals()"/>
 </node>
 </node>
 </node>
 <node CREATED="1409903526608" ID="ID_881737140" MODIFIED="1409903541441" TEXT="Stream">
-<node CREATED="1413351770789" FOLDED="true" ID="ID_695476965" MODIFIED="1413352951282" TEXT="&#x5b57;&#x7b26;&#x6d41;">
+<node CREATED="1413351770789" FOLDED="true" ID="ID_695476965" MODIFIED="1414290411599" TEXT="&#x5b57;&#x7b26;&#x6d41;">
 <node CREATED="1413352411266" ID="ID_591388099" MODIFIED="1413352415186" TEXT="Reader">
 <node CREATED="1413352415642" ID="ID_1090407307" MODIFIED="1413352436613" TEXT="BufferedReader"/>
 <node CREATED="1413352439497" ID="ID_1413008713" MODIFIED="1413352447843" TEXT="InputStreamReader">
@@ -2573,7 +2581,7 @@
 <node CREATED="1413352645496" ID="ID_1816861886" MODIFIED="1413352653711" TEXT="FilerWriter"/>
 </node>
 </node>
-<node CREATED="1413351782519" FOLDED="true" ID="ID_238747865" MODIFIED="1413352950258" TEXT="&#x5b57;&#x8282;&#x6d41;">
+<node CREATED="1413351782519" FOLDED="true" ID="ID_238747865" MODIFIED="1414290410687" TEXT="&#x5b57;&#x8282;&#x6d41;">
 <node CREATED="1413352657872" ID="ID_1820411393" MODIFIED="1413352667088" TEXT="InputSteam">
 <node CREATED="1413352667090" ID="ID_568994542" MODIFIED="1413352676738" TEXT="FileInputStream"/>
 <node CREATED="1413352677032" ID="ID_46675147" MODIFIED="1413352703298" TEXT="FilterInputStream">
@@ -2709,7 +2717,7 @@
 </node>
 <node CREATED="1413178967771" ID="ID_311648979" MODIFIED="1413178969549" TEXT="http://www.blogjava.net/xylz/archive/2010/07/08/325587.html"/>
 </node>
-<node CREATED="1406436368548" FOLDED="true" ID="ID_657160362" MODIFIED="1411377142220" TEXT="&#x7ecf;&#x9a8c;">
+<node CREATED="1406436368548" FOLDED="true" ID="ID_657160362" MODIFIED="1414501877327" TEXT="&#x7ecf;&#x9a8c;">
 <node CREATED="1406436374581" ID="ID_1627805620" MODIFIED="1406436383964" TEXT="javac -d . *.java"/>
 <node CREATED="1406437140704" ID="ID_1348017837" MODIFIED="1406437154601" TEXT="java &#x547d;&#x4ee4;&#x53c2;&#x6570;"/>
 <node CREATED="1390802731351" FOLDED="true" ID="ID_673680164" MODIFIED="1410421425083" TEXT="java vs. python">
@@ -2737,7 +2745,7 @@
 <node CREATED="1390816036380" ID="ID_1425355889" MODIFIED="1390816038665" TEXT="java&#x4f18;&#x52bf;&#x5728;&#x4e8e;&#x5927;&#x578b;&#x5206;&#x5e03;&#x5f0f;"/>
 </node>
 </node>
-<node CREATED="1410421426446" FOLDED="true" ID="ID_1642248194" MODIFIED="1410421516119" TEXT="&#x53d6;&#x5f97;&#x672c;&#x673a;IP">
+<node CREATED="1410421426446" FOLDED="true" ID="ID_1642248194" MODIFIED="1414291848660" TEXT="&#x53d6;&#x5f97;&#x672c;&#x673a;IP">
 <node CREATED="1410421500313" ID="ID_747190905" MODIFIED="1410421512785" TEXT="Import java.net.InetAddress;"/>
 <node CREATED="1410421500315" ID="ID_519230516" MODIFIED="1410421500315" TEXT="import java.net.UnknownHostException;"/>
 <node CREATED="1410421500316" ID="ID_1814995372" MODIFIED="1410421500316" TEXT="class Demo {">
@@ -2750,7 +2758,7 @@
 </node>
 <node CREATED="1410421500329" ID="ID_748956094" MODIFIED="1410421500329" TEXT="}"/>
 </node>
-<node CREATED="1410421517005" ID="ID_1481174665" MODIFIED="1410421522938" TEXT="&#x5237;&#x65b0;">
+<node CREATED="1410421517005" FOLDED="true" ID="ID_1481174665" MODIFIED="1414291849388" TEXT="&#x5237;&#x65b0;">
 <node CREATED="1410508193798" ID="ID_294566053" MODIFIED="1410508197893" TEXT="timer">
 <node CREATED="1410427865561" ID="ID_1657264662" LINK="http://www.2cto.com/kf/201210/164940.html" MODIFIED="1410427865561" TEXT="2cto.com &gt; Kf &gt; 201210 &gt; 164940"/>
 </node>
@@ -2758,10 +2766,25 @@
 <node CREATED="1410508927720" ID="ID_1541083748" MODIFIED="1410508930938" TEXT="ScheduledExecutorService"/>
 <node CREATED="1410509844159" ID="ID_1539044090" MODIFIED="1410509849853" TEXT="&#x7f13;&#x51b2;&#x533a;"/>
 </node>
+<node CREATED="1414291850756" FOLDED="true" ID="ID_1044415285" MODIFIED="1414292080443" TEXT="&#x53bb;&#x6389;&#x6587;&#x4ef6;&#x6269;&#x5c55;&#x540d;">
+<node CREATED="1414291894709" FOLDED="true" ID="ID_1395569433" MODIFIED="1414292079820" TEXT="str.substring(0, str.lastIndexOf(&quot;.&quot;))">
+<node CREATED="1414292013220" ID="ID_780324413" MODIFIED="1414292027042" TEXT="str.lastIndexOf(&quot;.&quot;)">
+<node CREATED="1414292028223" ID="ID_1160412105" MODIFIED="1414292046113" TEXT="&#x53d6;&#x5f97;.&#x7684;&#x4f4d;&#x7f6e;"/>
+<node CREATED="1414292060122" ID="ID_427068486" MODIFIED="1414292066269" TEXT="&#x8fd4;&#x56de;int"/>
+</node>
+<node CREATED="1414292049068" ID="ID_352961787" MODIFIED="1414292074363" TEXT="&#x4ece;0&#x5230;int"/>
+</node>
+</node>
 </node>
 <node CREATED="1408424011495" FOLDED="true" ID="ID_1553067888" MODIFIED="1409794604013" TEXT="Error">
 <node CREATED="1408424019671" ID="ID_1132913738" MODIFIED="1408424045496" TEXT="NoClassDefFoundError"/>
 <node CREATED="1408424524660" ID="ID_780558221" MODIFIED="1408424526724" TEXT="Unresolved compilation problem"/>
+</node>
+<node CREATED="1414504546044" ID="ID_55842526" MODIFIED="1414504699920" TEXT="Runtime">
+<node CREATED="1414504654319" ID="ID_530112017" MODIFIED="1414504654319" TEXT="Runtime run = Runtime.getRuntime();"/>
+<node CREATED="1414504701336" ID="ID_35846870" MODIFIED="1414504701336" TEXT="String cmd = &quot;del &quot;+&#x4f60;&#x7684;&#x6587;&#x4ef6;&#x8def;&#x5f84;&#x4ee5;&#x53ca;&#x6587;&#x4ef6;&#x540d;;"/>
+<node CREATED="1414504685037" ID="ID_1993614860" MODIFIED="1414504685037" TEXT="Process p = run.exec(cmd)"/>
+<node CREATED="1414504701339" ID="ID_678815271" MODIFIED="1414504701339" TEXT="p.waitFor();"/>
 </node>
 </node>
 <node CREATED="1408326898750" FOLDED="true" ID="ID_1511678021" MODIFIED="1411703574292" TEXT="SQL">
@@ -4826,7 +4849,7 @@
 </node>
 <node CREATED="1407208276255" ID="ID_1503684365" MODIFIED="1413615404901" POSITION="right" TEXT="&#x8f6f;&#x4ef6;">
 <node CREATED="1405906360871" ID="ID_327039784" MODIFIED="1405906377080" TEXT="&#x5de5;&#x4f5c;&#x6d41;"/>
-<node CREATED="1405906279671" ID="ID_1998911343" MODIFIED="1413754005961" TEXT="GUI">
+<node CREATED="1405906279671" FOLDED="true" ID="ID_1998911343" MODIFIED="1414290400974" TEXT="GUI">
 <node CREATED="1390372805836" FOLDED="true" ID="ID_1887321393" MODIFIED="1413754013578" TEXT="&#x6982;&#x5ff5;">
 <node CREATED="1390372808602" ID="ID_922235252" MODIFIED="1390372823644" TEXT="Handle Graphics">
 <node CREATED="1390372892483" ID="ID_1133211633" MODIFIED="1390372898436" TEXT="&#x5bf9;&#x8c61;"/>
@@ -4855,10 +4878,6 @@
 <node CREATED="1410361818740" FOLDED="true" ID="ID_1172203979" MODIFIED="1413754011695" TEXT="JS">
 <node CREATED="1410361823372" ID="ID_450239522" MODIFIED="1410361823372" TEXT="SVG&#x4e0e;Canvas"/>
 <node CREATED="1410361843639" ID="ID_1069615562" MODIFIED="1410361846165" TEXT="Flash"/>
-</node>
-<node CREATED="1413615448057" FOLDED="true" ID="ID_1513317102" MODIFIED="1413754009791" TEXT="refer">
-<node CREATED="1413615451547" ID="ID_27160525" MODIFIED="1413615461087" TEXT="pdf From Google"/>
-<node CREATED="1413615461580" ID="ID_1155060228" MODIFIED="1413615463368" TEXT="https://www.google.com/#q=gui+design+filetype:pdf&amp;start=30"/>
 </node>
 <node CREATED="1413754016034" ID="ID_978232313" MODIFIED="1413754019866" TEXT="Swing">
 <node CREATED="1413755355674" FOLDED="true" ID="ID_1383015980" MODIFIED="1413755974123" TEXT="&#x7ed3;&#x6784;">
@@ -4905,6 +4924,14 @@
 <node CREATED="1413755987597" ID="ID_991013323" LINK="http://www.open-open.com/61.htm" MODIFIED="1413755987597" TEXT="open-open.com &gt; 61"/>
 <node CREATED="1413756333562" ID="ID_1166854042" MODIFIED="1413756355169" TEXT="L&amp;F">
 <node CREATED="1413756356017" ID="ID_1608397915" MODIFIED="1413756362934" TEXT="&#x8bbe;&#x7f6e;"/>
+</node>
+</node>
+<node CREATED="1413615448057" ID="ID_1513317102" MODIFIED="1414288426709" TEXT="refer">
+<node CREATED="1413615451547" ID="ID_27160525" MODIFIED="1413615461087" TEXT="pdf From Google">
+<node CREATED="1413615461580" ID="ID_1155060228" MODIFIED="1413615463368" TEXT="https://www.google.com/#q=gui+design+filetype:pdf&amp;start=30"/>
+</node>
+<node CREATED="1414288488601" ID="ID_288699617" MODIFIED="1414288573611" TEXT="&#x201c;Usability, GUI Design and Principles&#x201d;">
+<node CREATED="1414288465443" ID="ID_1219277690" MODIFIED="1414288490634" TEXT="Dragutin Petkovic at San Francisco State University "/>
 </node>
 </node>
 </node>
@@ -6618,13 +6645,13 @@
 </node>
 </node>
 </node>
-<node CREATED="1406180675309" FOLDED="true" ID="ID_899276002" MODIFIED="1413167205566" POSITION="right" TEXT="&#x6846;&#x67b6;">
+<node CREATED="1406180675309" ID="ID_899276002" MODIFIED="1413805862701" POSITION="right" TEXT="&#x6846;&#x67b6;">
 <node CREATED="1406180682716" FOLDED="true" ID="ID_930216868" MODIFIED="1412586887140" TEXT="RPC">
 <node CREATED="1406180705804" ID="ID_688771872" MODIFIED="1406180707325" TEXT="  RPC(Remote Procedure Call protoco) &#x662f;&#x5206;&#x5e03;&#x5f0f;&#x662f;&#x7cfb;&#x7edf;&#x7684;&#x57fa;&#x7840;&#xff0c;&#x6bd4;&#x5982;Hadoop&#xff0c;Hbase&#xff0c;&#x7b49;&#xff0c;&#x4ed6;&#x4eec;&#x7684;&#x8282;&#x70b9;&#x4e4b;&#x95f4;&#x901a;&#x4fe1;&#x90fd;&#x662f;&#x901a;&#x8fc7;RPC&#x8c03;&#x7528;&#xff0c;&#x5373;&#x5e95;&#x5c42;&#x662f;socket tcp&#x534f;&#x8bae;&#xff0c;&#x901a;&#x8fc7;RPC&#xff0c;&#x5e94;&#x7528;&#x5c42;&#x53ef;&#x4ee5;&#x4e0d;&#x7ba1;&#x5e95;&#x5c42;&#x5b9e;&#x73b0;&#xff0c;&#x5728;&#x5ba2;&#x6237;&#x7aef;&#x901a;&#x8fc7;&#x8c03;&#x7528;&#x672c;&#x5730;&#x63a5;&#x53e3;&#xff0c;&#x5c31;&#x76f8;&#x5f53;&#x4e8e;&#x8c03;&#x7528;&#x4e86;&#x8fdc;&#x7a0b;&#x7684;&#x670d;&#x52a1;(&#x8fdc;&#x7a0b;&#x7684;&#x63a5;&#x53e3;&#x662f;&#x4e00;&#x4e2a;&#x670d;&#x52a1;)&#x3002;&#x4e00;&#x4e2a;&#x7b80;&#x5355;&#x7684;&#x8fc7;&#x7a0b;&#x5982;&#x4e0b;:  1 &#x5ba2;&#x6237;&#x7aef;&#x7aef;&#x53d1;&#x8d77;&#x8c03;&#x7528;&#xff0c;&#x628a;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#x653e;&#x5165;&#x53d1;&#x9001;&#x961f;&#x5217;&#xff0c;Block&#x4f4f;&#x5f53;&#x524d;&#x7ebf;&#x7a0b;&#xff0c;&#x4fdd;&#x5b58;&#x4e0a;&#x4e0b;&#x6587;&#x3002;  2 RPC&#x6846;&#x67b6;&#x4ece;&#x961f;&#x5217;&#x53d6;&#x51fa;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#xff0c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x5230;&#x670d;&#x52a1;&#x7aef;&#x3002;  3 &#x670d;&#x52a1;&#x7aef;&#x63a5;&#x6536;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x8c03;&#x7528;&#x5bf9;&#x4e8e;&#x7684;&#x65b9;&#x6cd5;&#x3002;&#x628a;&#x8fd4;&#x56de;&#x7ed3;&#x679c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x7ed9;&#x5ba2;&#x6237;&#x7aef;&#x3002;  4 &#x5ba2;&#x6237;&#x7aef;&#x63a5;&#x6536;&#x5230;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x6839;&#x636e;&#x8bf7;&#x6c42;&#x552f;&#x4e00;&#x6807;&#x8bc6;&#xff0c;&#x627e;&#x5230;Block&#x4f4f;&#x7ebf;&#x7a0b;&#x7684;&#x4e0a;&#x4e0b;&#x6587;&#xff0c;&#x91ca;&#x653e;&#x8be5;&#x7ebf;&#x7a0b;&#x3002;  5 &#x5ba2;&#x6237;&#x7aef;&#x62ff;&#x5230;&#x7ed3;&#x679c;&#x3002;  Bison &#x662f;&#x4e00;&#x4e2a;JAVA &#x7a0b;&#x95f4;&#x7684;&#x901a;&#x4fe1;&#x6846;&#x67b6;&#xff0c;&#x57fa;&#x4e8e;apache mina &#x5b9e;&#x73b0;&#xff0c;&#x5bf9;mina&#x8fdb;&#x884c;&#x4e86;byteBuffer &#x7f13;&#x51b2;&#x533a;&#x91cd;&#x7528;&#x4ee5;&#x53ca;&#x534a;&#x5305;&#x51fa;&#x5904;&#x65f6;&#x51cf;&#x5c11;&#x62f7;&#x8d1d;&#x3002;  &#x5ba2;&#x6237;&#x7aef;(bison-client) &#x529f;&#x80fd;&#x70b9;  1 &#x4e1a;&#x52a1;&#x5206;&#x7ec4;&#x3002;  2 &#x652f;&#x6301;&#x5206;&#x7ec4;&#x5185;&#x8d1f;&#x8f7d;&#x5747;&#x8861;&#x3002;  3 &#x652f;&#x6301;&#x6a2a;&#x5411;&#x6269;&#x5c55;&#x3002;  &#x670d;&#x52a1;&#x7aef;(bison)  1 &#x652f;&#x6301;&#x70ed;&#x90e8;&#x7f72;  2 &#x652f;&#x6301;&#x9ad8;&#x7528;&#x6027;&#xff1a;&#x9ad8;&#x53ef;&#x7528;&#x7684;&#x4e00;&#x4e2a;&#x57fa;&#x672c;&#x539f;&#x5219;&#xff0c;&#x53ef;&#x4ee5;&#x63a5;&#x53d7;&#x5feb;&#x901f;&#x7684;&#x5931;&#x8d25;&#xff0c;&#x4f46;&#x4e0d;&#x80fd;&#x63a5;&#x53d7;&#x957f;&#x65f6;&#x95f4;&#x7684;&#x7b49;&#x5f85;&#x3002;  3 &#x8d44;&#x6e90;&#x7edf;&#x4e00;&#x7ba1;&#x7406;&#x3002;&#x6570;&#x636e;&#x5e93;&#x8fde;&#x63a5;&#x6c60;&#xff0c;&#x5de5;&#x4f5c;&#x7ebf;&#x7a0b;,&#x7b49;&#x3002;  4 &#x652f;&#x6301;&#x767d;&#x540d;&#x5355;&#xff0c;&#x9ed1;&#x540d;&#x5355;&#x3002;   Githup&#x5730;&#x5740;:https://github.com/gavenpeng/Bison  &#x5206;&#x4eab;&#x7684;&#x76ee;&#x7684;  bison &#x7b80;&#x5355;&#x6613;&#x7528;&#x7684;RPC&#x6846;&#x67b6;&#xff0c;&#x5bf9;&#x5916;&#x5c31;&#x4f9d;&#x8d56;mina&#xff0c;&#x6ca1;&#x6709;&#x592a;&#x591a;&#x7684;&#x914d;&#x7f6e;&#xff0c;&#x5f88;&#x5bb9;&#x6613;&#x90e8;&#x7f72;&#xff0c;&#x5206;&#x4eab;&#x5728;&#x8fd9;&#x91cc;&#x5b8c;&#x5168;&#x662f;&#x4e3a;&#x4e86;&#x76f8;&#x4e92;&#x5b66;&#x4e60;&#x3002;&#x5982;&#x679c;&#x4f60;&#x6709;&#x4ec0;&#x4e48;&#x95ee;&#x9898;&#xff0c;&#x53ef;&#x4ee5;&#x5728;&#x65b0;&#x6d6a;&#x5fae;&#x535a;@&#x6df1;&#x6d77;&#x4e4b;&#x501a;&#x5929;&#x5251;"/>
 </node>
-<node CREATED="1412586835397" ID="ID_1540365725" MODIFIED="1413167193844" TEXT="Intro">
+<node CREATED="1412586835397" FOLDED="true" ID="ID_1540365725" MODIFIED="1413805878780" TEXT="Intro">
 <node CREATED="1406182293420" ID="ID_1534261447" MODIFIED="1412588120697" TEXT="&#x76ee;&#x5f55;">
-<node CREATED="1412588156445" ID="ID_1954547691" MODIFIED="1412588199052" TEXT="&#x5f00;&#x6e90;">
+<node CREATED="1412588156445" FOLDED="true" ID="ID_1954547691" MODIFIED="1413805871887" TEXT="&#x5f00;&#x6e90;">
 <node CREATED="1406182309189" ID="ID_48933424" MODIFIED="1406182309189" TEXT="&#x8d1f;&#x8f7d;&#x5747;&#x8861;:lvs,haproxy,nginx"/>
 <node CREATED="1406182309189" ID="ID_159049544" MODIFIED="1406182309189" TEXT="&#x524d;&#x7aef;&#x7f13;&#x5b58;&#x4ee3;&#x7406;:squid"/>
 <node CREATED="1406182309190" ID="ID_552458084" MODIFIED="1406182309190" TEXT="web server :apache,nginx"/>
@@ -7291,6 +7318,19 @@
 </node>
 </node>
 <node CREATED="1412586387225" ID="ID_850606156" MODIFIED="1413167189543" TEXT="&#x5f00;&#x53d1;&#x5de5;&#x5177;">
+<node CREATED="1413805882424" ID="ID_887561340" MODIFIED="1413805885380" TEXT="ANT">
+<node CREATED="1413806327135" ID="ID_277765515" MODIFIED="1413806327135" TEXT="History">
+<node CREATED="1413806344843" ID="ID_1996824722" MODIFIED="1413806344843" TEXT="to build Tomcat">
+<node CREATED="1413806393462" ID="ID_1095300418" MODIFIED="1413806393462" TEXT="2000"/>
+</node>
+</node>
+<node CREATED="1413806265671" ID="ID_1736768061" MODIFIED="1413806265671" TEXT="build.xml">
+<node CREATED="1413806499875" ID="ID_104401007" MODIFIED="1413806508507" TEXT="clean"/>
+<node CREATED="1413806508508" ID="ID_1639029602" MODIFIED="1413806515499" TEXT="clobber"/>
+<node CREATED="1413806515499" ID="ID_1499426720" MODIFIED="1413806522915" TEXT="compile"/>
+<node CREATED="1413806522916" ID="ID_1061926361" MODIFIED="1413806522917" TEXT="jar"/>
+</node>
+</node>
 <node CREATED="1412586430543" FOLDED="true" ID="ID_1443923806" MODIFIED="1413167191356" TEXT="Maven">
 <node CREATED="1412681520343" ID="ID_359980369" MODIFIED="1412681549253" TEXT="Goal">
 <node CREATED="1412681524590" ID="ID_1777489298" MODIFIED="1412681537571" TEXT="how software is built"/>
@@ -7421,7 +7461,7 @@
 <node CREATED="1406170223084" ID="ID_991623269" MODIFIED="1406170229523" TEXT="Appendices"/>
 </node>
 </node>
-<node CREATED="1405906946833" ID="ID_1024837653" MODIFIED="1411117035342" POSITION="right" TEXT="&#x540d;&#x8bcd;">
+<node CREATED="1405906946833" FOLDED="true" ID="ID_1024837653" MODIFIED="1413805819260" POSITION="right" TEXT="&#x540d;&#x8bcd;">
 <node CREATED="1405906959622" ID="ID_777493707" MODIFIED="1405906964760" TEXT="&#x9ad8;&#x53ef;&#x7528;&#x6027;"/>
 <node CREATED="1405907363452" FOLDED="true" ID="ID_380005450" MODIFIED="1411108818774" TEXT="&#x5e76;&#x884c;vs.&#x5206;&#x5e03;&#x5f0f;">
 <node CREATED="1405907377532" ID="ID_1473399237" MODIFIED="1405907378932" TEXT=" &#x5206;&#x5e03;&#x5f0f;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x4e0e;&#x5e76;&#x884c;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x6709;&#x8bb8;&#x591a;&#x76f8;&#x4f3c;&#x70b9;&#xff0c;&#x5982;&#x90fd;&#x6709;&#x7528;&#x7f51;&#x7edc;&#x8fde;&#x63a5;&#x5404;&#x4e2a;&#x6570;&#x636e;&#x5904;&#x7406;&#x7ed3;&#x70b9;&#x7684;&#x7279;&#x70b9;&#x3002;&#x7f51;&#x7edc;&#x4e2d;&#x7684;&#x6240;&#x6709;&#x7ed3;&#x70b9;&#x6784;&#x6210;&#x4e00;&#x4e2a;&#x903b;&#x8f91;&#x4e0a;&#x7684;&#x7edf;&#x4e00;&#x6574;&#x4f53;&#xff0c;&#x7528;&#x6237;&#x53ef;&#x4ee5;&#x5bf9;&#x5404;&#x4e2a;&#x7ed3;&#x70b9;&#x4e0a;&#x7684;&#x6570;&#x636e;&#x8fdb;&#x884c;&#x900f;&#x660e;&#x5b58;&#x53d6;&#x7b49;&#x7b49;&#x3002; &#x7531;&#x4e8e;&#x5206;&#x5e03;&#x5f0f;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x548c;&#x5e76;&#x884c;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x7684;&#x5e94;&#x7528;&#x76ee;&#x6807;&#x548c;&#x5177;&#x4f53;&#x5b9e;&#x73b0;&#x65b9;&#x6cd5;&#x4e0d;&#x540c;&#xff0c;&#x56e0;&#x4e3a;&#x5b83;&#x4eec;&#x4e4b;&#x95f4;&#x4e5f;&#x5177;&#x6709;&#x5f88;&#x5927;&#x7684;&#x4e0d;&#x540c;&#xff0c;&#x4e3b;&#x8981;&#x6709;&#x4ee5;&#x4e0b;&#x51e0;&#x70b9;&#xff1a; &#xff08;1&#xff09; &#x5e94;&#x7528;&#x76ee;&#x6807;&#x4e0d;&#x540c;&#x3002;&#x5e76;&#x884c;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x7684;&#x76ee;&#x6807;&#x662f;&#x5145;&#x5206;&#x53d1;&#x6325;&#x5e76;&#x884c;&#x8ba1;&#x7b97;&#x673a;&#x7684;&#x4f18;&#x52bf;&#xff0c;&#x5229;&#x7528;&#x7cfb;&#x7edf;&#x4e2d;&#x7684;&#x5404;&#x4e2a;&#x5904;&#x7406;&#x673a;&#x7ed3;&#x70b9;&#x5e76;&#x884c;&#x5b8c;&#x6210;&#x6570;&#x636e;&#x5e93;&#x4efb;&#x52a1;&#xff0c;&#x63d0;&#x9ad8;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x7684;&#x6574;&#x4f53;&#x6027;&#x80fd;&#x3002;&#x5206;&#x5e03;&#x5f0f;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x4e3b;&#x8981;&#x76ee;&#x7684;&#x5728;&#x4e8e;&#x5b9e;&#x73b0;&#x573a;&#x5730;&#x81ea;&#x6cbb;&#x548c;&#x6570;&#x636e;&#x7684;&#x5168;&#x5c40;&#x900f;&#x660e;&#x5171;&#x4eab;&#xff0c;&#x800c;&#x4e0d;&#x8981;&#x6c42;&#x5229;&#x7528;&#x7f51;&#x7edc;&#x4e2d;&#x7684;&#x5404;&#x4e2a;&#x7ed3;&#x70b9;&#x6765;&#x63d0;&#x9ad8;&#x7cfb;&#x7edf;&#x5904;&#x7406;&#x6027;&#x80fd;&#x3002; &#xff08;2&#xff09; &#x5b9e;&#x73b0;&#x65b9;&#x5f0f;&#x4e0d;&#x540c;&#x3002;&#x5728;&#x5177;&#x4f53;&#x5b9e;&#x73b0;&#x65b9;&#x6cd5;&#x4e0a;&#xff0c;&#x5e76;&#x884c;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x4e0e;&#x5206;&#x5e03;&#x5f0f;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x4e5f;&#x6709;&#x7740;&#x8f83;&#x5927;&#x7684;&#x4e0d;&#x540c;&#x3002;&#x5728;&#x5e76;&#x884c;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x4e2d;&#xff0c;&#x4e3a;&#x4e86;&#x5145;&#x5206;&#x5229;&#x7528;&#x5404;&#x4e2a;&#x7ed3;&#x70b9;&#x7684;&#x5904;&#x7406;&#x80fd;&#x529b;&#xff0c;&#x5404;&#x7ed3;&#x70b9;&#x95f4;&#x53ef;&#x4ee5;&#x91c7;&#x7528;&#x9ad8;&#x901f;&#x7f51;&#x7edc;&#x8fde;&#x63a5;&#x3002;&#x7ed3;&#x70b9;&#x952e;&#x7684;&#x6570;&#x636e;&#x4f20;&#x8f93;&#x4ee3;&#x4ef7;&#x76f8;&#x5bf9;&#x8f83;&#x4f4e;&#xff0c;&#x5f53;&#x67d0;&#x4e9b;&#x7ed3;&#x70b9;&#x5904;&#x4e8e;&#x7a7a;&#x95f2;&#x72b6;&#x6001;&#x65f6;&#xff0c;&#x53ef;&#x4ee5;&#x5c06;&#x5de5;&#x4f5c;&#x8d1f;&#x8f7d;&#x8fc7;&#x5927;&#x7684;&#x7ed3;&#x70b9;&#x4e0a;&#x7684;&#x90e8;&#x5206;&#x4efb;&#x52a1;&#x901a;&#x8fc7;&#x9ad8;&#x901f;&#x7f51;&#x4f20;&#x9001;&#x7ed9;&#x7a7a;&#x95f2;&#x7ed3;&#x70b9;&#x5904;&#x7406;&#xff0c;&#x4ece;&#x800c;&#x5b9e;&#x73b0;&#x7cfb;&#x7edf;&#x7684;&#x8d1f;&#x8f7d;&#x5e73;&#x8861;&#x3002; &#x4f46;&#x662f;&#x5728;&#x5206;&#x5e03;&#x5f0f;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x4e2d;&#xff0c;&#x4e3a;&#x4e86;&#x9002;&#x5e94;&#x5e94;&#x7528;&#x7684;&#x9700;&#x8981;&#xff0c;&#x6ee1;&#x8db3;&#x90e8;&#x95e8;&#x5206;&#x5e03;&#x7279;&#x70b9;&#x7684;&#x9700;&#x8981;&#xff0c;&#x5404;&#x7ed3;&#x70b9;&#x95f4;&#x4e00;&#x822c;&#x91c7;&#x7528;&#x5c40;&#x57df;&#x7f51;&#x6216;&#x5e7f;&#x57df;&#x7f51;&#x76f8;&#x8fde;&#xff0c;&#x7f51;&#x7edc;&#x5e26;&#x5bbd;&#x8f83;&#x4f4e;&#xff0c;&#x98a0;&#x5012;&#x70b9;&#x7684;&#x901a;&#x4fe1;&#x5f00;&#x9500;&#x8f83;&#x5927;&#x3002;&#x56e0;&#x6b64;&#xff0c;&#x5728;&#x67e5;&#x8be2;&#x5904;&#x7406;&#x65f6;&#x4e00;&#x822c;&#x5e94;&#x5c3d;&#x91cf;&#x51cf;&#x5c11;&#x7ed3;&#x70b9;&#x95f4;&#x7684;&#x6570;&#x636e;&#x4f20;&#x8f93;&#x91cf;&#x3002; &#xff08;3&#xff09; &#x5404;&#x7ed3;&#x70b9;&#x7684;&#x5730;&#x4f4d;&#x4e0d;&#x540c;&#x3002;&#x5728;&#x5e76;&#x884c;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x4e2d;&#xff0c;&#x5404;&#x7ed3;&#x70b9;&#x662f;&#x5b8c;&#x5168;&#x975e;&#x72ec;&#x7acb;&#x7684;&#xff0c;&#x4e0d;&#x5b58;&#x5728;&#x5168;&#x5c40;&#x5e94;&#x7528;&#x548c;&#x5c40;&#x90e8;&#x5e94;&#x7528;&#x7684;&#x6982;&#x5ff5;&#xff0c;&#x5728;&#x6570;&#x636e;&#x5904;&#x7406;&#x4e2d;&#x53ea;&#x80fd;&#x53d1;&#x6325;&#x534f;&#x540c;&#x4f5c;&#x7528;&#xff0c;&#x800c;&#x4e0d;&#x80fd;&#x6709;&#x5c40;&#x90e8;&#x5e94;&#x7528;&#x3002;&#x5728;&#x5206;&#x5e03;&#x5f0f;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x4e2d;&#xff0c;&#x5404;&#x7ed3;&#x70b9;&#x9664;&#x4e86;&#x80fd;&#x901a;&#x8fc7;&#x7f51;&#x7edc;&#x534f;&#x540c;&#x5b8c;&#x6210;&#x5168;&#x5c40;&#x4e8b;&#x52a1;&#x5916;&#xff0c;&#x5404;&#x7ed3;&#x70b9;&#x5177;&#x6709;&#x573a;&#x5730;&#x81ea;&#x6cbb;&#x6027;&#xff0c;&#x6bcf;&#x4e2a;&#x573a;&#x5730;&#x4f7f;&#x72ec;&#x7acb;&#x7684;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x3002;&#x6bcf;&#x4e2a;&#x573a;&#x5730;&#x6709;&#x81ea;&#x5df1;&#x7684;&#x6570;&#x636e;&#x5e93;&#x3001;&#x5ba2;&#x6237;&#x3001;CPU&#x7b49;&#x8d44;&#x6e90;&#xff0c;&#x8fd0;&#x884c;&#x81ea;&#x5df1;&#x7684;DBMS&#xff0c;&#x6267;&#x884c;&#x5c40;&#x90e8;&#x5e94;&#x7528;&#xff0c;&#x5177;&#x6709;&#x9ad8;&#x5ea6;&#x7684;&#x81ea;&#x6cbb;&#x6027;&#x3002;  Oracle&#x5e76;&#x884c;&#x67e5;&#x8be2;&#x80fd;&#x529b; Oracle&#x7cfb;&#x7edf;&#x53ef;&#x5229;&#x7528;&#x591a;CPU&#x8ba1;&#x7b97;&#x673a;&#x7684;&#x591a;CPU&#x7279;&#x6027;&#xff0c;&#x63d0;&#x9ad8;Oracle&#x5e76;&#x884c;&#x67e5;&#x8be2;&#x80fd;&#x529b;&#xff0c;&#x4f7f;&#x7528;&#x5e76;&#x884c;&#x67e5;&#x8be2;&#x6280;&#x672f;&#xff0c;Oracle&#x53ef;&#x5e76;&#x884c;&#x5904;&#x7406;&#x591a;&#x4e2a;&#x64cd;&#x4f5c;&#x3002;&#x4f8b;&#x5982;&#xff0c;Oracle8i&#x670d;&#x52a1;&#x5668;&#x80fd;&#x5e76;&#x884c;&#x5904;&#x7406;&#x5206;&#x7c7b;&#x3001;&#x8fde;&#x63a5;&#x3001;&#x8868;&#x641c;&#x7d22;&#x3001;&#x8868;&#x5bc6;&#x5ea6;&#x548c;&#x521b;&#x5efa;&#x7d22;&#x5f15;&#x64cd;&#x4f5c;&#x3002;&#x5e76;&#x884c;&#x67e5;&#x8be2;&#xff08;PQO&#xff09;&#x7684;&#x4f7f;&#x7528;&#x6700;&#x9002;&#x5408;&#x4ee5;&#x4e0b;&#x60c5;&#x51b5;&#xff1a; &#xff08;1&#xff09; &#x901a;&#x8fc7;&#x641c;&#x7d22;&#x975e;&#x5e38;&#x5927;&#x7684;&#x8868;&#xff08;&#x901a;&#x5e38;&#x8d85;&#x8fc7;1000000&#x884c;&#xff09;&#x6765;&#x5904;&#x7406;&#x8bbf;&#x95ee;&#x5927;&#x91cf;&#x6570;&#x636e;&#x7684;&#x67e5;&#x8be2;&#x3002; &#xff08;2&#xff09; &#x5904;&#x7406;&#x5efa;&#x7acb;&#x5927;&#x7d22;&#x5f15;&#x3001;&#x5927;&#x5bb9;&#x91cf;&#x6570;&#x636e;&#x88c5;&#x8f7d;&#x3001;&#x6c47;&#x603b;&#x8fd0;&#x7b97;&#x4ee5;&#x53ca;&#x5bf9;Oracle8i&#x5bf9;&#x8c61;&#x95f4;&#x5927;&#x91cf;&#x6570;&#x636e;&#x62f7;&#x8d1d;&#x7b49;&#x4f5c;&#x4e1a;&#x3002; &#xff08;3&#xff09;  &#x5904;&#x7406;&#x5728;SMP(&#x5bf9;&#x79f0;&#x591a;&#x5904;&#x7406;&#x5668;)&#x6216;MPP&#xff08;&#x5927;&#x89c4;&#x6a21;&#x5e76;&#x884c;&#x5904;&#x7406;&#xff09;&#x805a;&#x5408;&#xff08;&#x591a;&#x4e2a;&#x673a;&#x5668;&#x4e00;&#x8d77;&#x5de5;&#x4f5c;&#xff0c;&#x8bbf;&#x95ee;&#x540c;&#x4e00;&#x7ec4;&#x76d8;&#x548c;&#x4e3b;&#x6570;&#x636e;&#x5e93;&#xff09;&#x7684;&#x673a;&#x5668;&#x4e0a;&#x7684;&#x67e5;&#x8be2;&#x3002; &#xff08;4&#xff09;  &#x5904;&#x7406;&#x5b58;&#x653e;&#x5728;&#x591a;&#x4e2a;&#x6570;&#x636e;&#x6587;&#x4ef6;&#x4e14;&#x5728;&#x4e0d;&#x540c;&#x9a71;&#x52a8;&#x4e0a;&#x7684;&#x6570;&#x636e;&#x67e5;&#x8be2;&#x3002; &#xff08;5&#xff09;  &#x5bf9;&#x4e8e;CPU&#x5de5;&#x4f5c;&#x660e;&#x663e;&#x4e0d;&#x8db3;&#x6216;&#x95f4;&#x65ad;&#x4f7f;&#x7528;CPU&#x7684;&#x673a;&#x5668;&#x4e0a;&#x7684;&#x5904;&#x7406;&#x3002;&#x4e00;&#x822c;&#x662f;&#x6309;&#x5e73;&#x5747;&#x5229;&#x7528;&#x7387;&#x4e0d;&#x4f4e;&#x4e8e;40%&#x6765;&#x68c0;&#x6d4b;CPU&#x7684;&#x4f7f;&#x7528;&#x6548;&#x7387;&#x7684;&#x3002; &#xff08;6&#xff09;   &#x5904;&#x7406;&#x9700;&#x8981;&#x5927;&#x91cf;&#x8f85;&#x52a9;&#x5185;&#x5b58;&#x7684;&#x5de5;&#x4f5c;&#xff0c;&#x6bd4;&#x5982;&#x5206;&#x7c7b;&#x8fd9;&#x6837;&#x7684;&#x67e5;&#x8be2;&#x3002; &#xff08;7&#xff09;   &#x5e94;&#x7528;&#x7cfb;&#x7edf;&#x5f00;&#x53d1;&#x4eba;&#x5458;&#x5e94;&#x4e0e;&#x6570;&#x636e;&#x5e93;&#x7ba1;&#x7406;&#x5458;&#x534f;&#x540c;&#x5de5;&#x4f5c;&#xff0c;&#x5408;&#x7406;&#x5229;&#x7528;&#x8d44;&#x6e90;&#xff0c;&#x4ee5;&#x4fdd;&#x8bc1;&#x5e76;&#x884c;&#x5904;&#x7406;&#x5f97;&#x8fdb;&#x884c;&#x3002; "/>
