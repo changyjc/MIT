@@ -1616,7 +1616,338 @@
 </node>
 </node>
 <node CREATED="1415615295064" ID="ID_794965427" MODIFIED="1415615728918" TEXT="LeetCode">
-<node CREATED="1415615455279" ID="ID_1242013920" MODIFIED="1415615862509" TEXT="classification"/>
+<node CREATED="1415615455279" FOLDED="true" ID="ID_1242013920" MODIFIED="1415617518673" TEXT="classification">
+<node CREATED="1415616783356" FOLDED="true" ID="ID_101315593" MODIFIED="1415616848781" TEXT="52 Array">
+<node CREATED="1415616824111" ID="ID_1290951167" MODIFIED="1415616824111" TEXT="Best Time to Buy and Sell Stock II        2012-10-30        36.7%        Medium"/>
+<node CREATED="1415616824112" ID="ID_1134352646" MODIFIED="1415616824112" TEXT="Search Insert Position        2012-03-03        34.9%        Medium"/>
+<node CREATED="1415616824113" ID="ID_98794583" MODIFIED="1415616824113" TEXT="Maximum Subarray        2012-03-21        34.0%        Medium"/>
+<node CREATED="1415616824114" ID="ID_490175528" MODIFIED="1415616824114" TEXT="Remove Element        2012-02-16        32.8%        Easy"/>
+<node CREATED="1415616824114" ID="ID_1804316518" MODIFIED="1415616824114" TEXT="Sort Colors        2012-04-08        32.2%        Medium"/>
+<node CREATED="1415616824115" ID="ID_597231341" MODIFIED="1415616824115" TEXT="Remove Duplicates from Sorted Array        2012-02-16        32.1%        Easy"/>
+<node CREATED="1415616824116" ID="ID_905995643" MODIFIED="1415616824116" TEXT="Unique Paths        2012-03-28        31.8%        Medium"/>
+<node CREATED="1415616824116" ID="ID_226849798" MODIFIED="1415616824116" TEXT="Find Minimum in Rotated Sorted Array        2014-10-15        31.7%        Medium"/>
+<node CREATED="1415616824117" ID="ID_254023389" MODIFIED="1415616824117" TEXT="Merge Sorted Array        2012-05-20        31.5%        Easy"/>
+<node CREATED="1415616824117" ID="ID_334338833" MODIFIED="1415616824117" TEXT="Container With Most Water        2012-01-08        31.4%        Medium"/>
+<node CREATED="1415616824118" ID="ID_705354121" MODIFIED="1415616824118" TEXT="Rotate Image        2012-03-17        31.3%        Medium"/>
+<node CREATED="1415616824118" ID="ID_547032274" MODIFIED="1415616824118" TEXT="Plus One        2012-04-02        31.3%        Easy"/>
+<node CREATED="1415616824119" ID="ID_655045446" MODIFIED="1415616824119" TEXT="Best Time to Buy and Sell Stock        2012-10-30        31.3%        Medium"/>
+<node CREATED="1415616824119" ID="ID_464226309" MODIFIED="1415616824119" TEXT="Search a 2D Matrix        2012-04-06        31.2%        Medium"/>
+<node CREATED="1415616824120" ID="ID_806295512" MODIFIED="1415616824120" TEXT="Minimum Path Sum        2012-03-28        31.1%        Medium"/>
+<node CREATED="1415616824120" ID="ID_1521620363" MODIFIED="1415616824120" TEXT="Pascal&apos;s Triangle        2012-10-28        31.0%        Easy"/>
+<node CREATED="1415616824121" ID="ID_1024476313" MODIFIED="1415616824121" TEXT="Search in Rotated Sorted Array II        2012-04-19        30.9%        Medium"/>
+<node CREATED="1415616824122" ID="ID_570648204" MODIFIED="1415616824122" TEXT="Spiral Matrix II        2012-03-27        30.8%        Medium"/>
+<node CREATED="1415616824122" ID="ID_1257489015" MODIFIED="1415616824122" TEXT="Set Matrix Zeroes        2012-04-05        30.8%        Medium"/>
+<node CREATED="1415616824123" ID="ID_511943479" MODIFIED="1415616824123" TEXT="Remove Duplicates from Sorted Array II        2012-04-19        30.6%        Medium"/>
+<node CREATED="1415616824123" ID="ID_727460097" MODIFIED="1415616824123" TEXT="Pascal&apos;s Triangle II        2012-10-28        30.0%        Easy"/>
+<node CREATED="1415616824124" ID="ID_1117903360" MODIFIED="1415616824124" TEXT="Trapping Rain Water        2012-03-10        28.9%        Hard"/>
+<node CREATED="1415616824125" ID="ID_8320327" MODIFIED="1415616824125" TEXT="Search in Rotated Sorted Array        2012-03-02        28.6%        Hard"/>
+<node CREATED="1415616824125" ID="ID_1649976988" MODIFIED="1415616824125" TEXT="Find Minimum in Rotated Sorted Array II        2014-10-20        28.5%        Hard"/>
+<node CREATED="1415616824126" ID="ID_551489666" MODIFIED="1415616824126" TEXT="Longest Consecutive Sequence        2013-02-13        28.2%        Hard"/>
+<node CREATED="1415616824127" ID="ID_1630753647" MODIFIED="1415616824127" TEXT="Unique Paths II        2012-03-28        27.8%        Medium"/>
+<node CREATED="1415616824127" ID="ID_56645326" MODIFIED="1415616824127" TEXT="Subsets        2012-04-18        27.8%        Medium"/>
+<node CREATED="1415616824128" ID="ID_1427166283" MODIFIED="1415616824128" TEXT="Search for a Range        2012-03-02        27.4%        Medium"/>
+<node CREATED="1415616824128" ID="ID_413924073" MODIFIED="1415616824128" TEXT="Jump Game        2012-03-24        27.2%        Medium"/>
+<node CREATED="1415616824129" ID="ID_545829270" MODIFIED="1415616824129" TEXT="Subsets II        2012-06-25        27.0%        Medium"/>
+<node CREATED="1415616824130" ID="ID_943435074" MODIFIED="1415616824130" TEXT="3Sum Closest        2012-01-18        27.0%        Medium"/>
+<node CREATED="1415616824130" ID="ID_998449185" MODIFIED="1415616824130" TEXT="Combination Sum        2012-03-06        26.8%        Medium"/>
+<node CREATED="1415616824131" ID="ID_1655127405" MODIFIED="1415616824131" TEXT="Triangle        2012-10-29        26.6%        Medium"/>
+<node CREATED="1415616824131" ID="ID_133979131" MODIFIED="1415616824131" TEXT="Construct Binary Tree from Inorder and Postorder Traversal        2012-09-30        26.6%        Medium"/>
+<node CREATED="1415616824135" ID="ID_1358771326" MODIFIED="1415616824135" TEXT="Construct Binary Tree from Preorder and Inorder Traversal        2012-09-30        26.5%        Medium"/>
+<node CREATED="1415616824139" ID="ID_1940408550" MODIFIED="1415616824139" TEXT="Next Permutation        2012-02-25        25.3%        Medium"/>
+<node CREATED="1415616824140" ID="ID_18543463" MODIFIED="1415616824140" TEXT="Jump Game II        2012-03-16        24.7%        Hard"/>
+<node CREATED="1415616824141" ID="ID_403071669" MODIFIED="1415616824141" TEXT="Combination Sum II        2012-03-06        24.6%        Medium"/>
+<node CREATED="1415616824141" ID="ID_886107723" MODIFIED="1415616824141" TEXT="First Missing Positive        2012-03-08        22.6%        Hard"/>
+<node CREATED="1415616824142" ID="ID_1267361335" MODIFIED="1415616824142" TEXT="Best Time to Buy and Sell Stock III        2012-11-06        22.4%        Hard"/>
+<node CREATED="1415616824143" ID="ID_1620046182" MODIFIED="1415616824143" TEXT="Maximal Rectangle        2012-04-23        21.5%        Hard"/>
+<node CREATED="1415616824143" ID="ID_1243792573" MODIFIED="1415616824143" TEXT="Largest Rectangle in Histogram        2012-04-22        21.5%        Hard"/>
+<node CREATED="1415616824144" ID="ID_1296893089" MODIFIED="1415616824144" TEXT="4Sum        2012-01-26        21.3%        Medium"/>
+<node CREATED="1415616824145" ID="ID_679619222" MODIFIED="1415616824145" TEXT="Merge Intervals        2012-03-26        21.0%        Hard"/>
+<node CREATED="1415616824145" ID="ID_1618359557" MODIFIED="1415616824145" TEXT="Spiral Matrix        2012-03-24        20.7%        Medium"/>
+<node CREATED="1415616824146" ID="ID_1459178828" MODIFIED="1415616824146" TEXT="Insert Interval        2012-03-27        20.7%        Hard"/>
+<node CREATED="1415616824146" ID="ID_609905104" MODIFIED="1415616824146" TEXT="Word Search        2012-04-18        19.7%        Medium"/>
+<node CREATED="1415616824147" ID="ID_1696004000" MODIFIED="1415616824147" TEXT="Two Sum        2011-03-13        18.4%        Medium"/>
+<node CREATED="1415616824148" ID="ID_620160802" MODIFIED="1415616824148" TEXT="Median of Two Sorted Arrays        2011-03-27        17.6%        Hard"/>
+<node CREATED="1415616824148" ID="ID_1037850192" MODIFIED="1415616824148" TEXT="3Sum        2012-01-17        16.7%        Medium"/>
+<node CREATED="1415616824149" ID="ID_836150402" MODIFIED="1415616824149" TEXT="Maximum Product Subarray        2014-09-23        16.1%        Medium"/>
+<node CREATED="1415616824150" ID="ID_1156254534" MODIFIED="1415616824150" TEXT="Word Ladder II        2013-02-10        11.6%        Hard"/>
+</node>
+<node CREATED="1415616783364" FOLDED="true" ID="ID_1987715596" MODIFIED="1415616970848" TEXT="13 Hash Table">
+<node CREATED="1415616970345" ID="ID_1196831429" MODIFIED="1415616970345" TEXT="Single Number        2013-10-01        45.7%        Medium"/>
+<node CREATED="1415616970346" ID="ID_506912541" MODIFIED="1415616970346" TEXT="Binary Tree Inorder Traversal        2012-08-27        35.6%        Medium"/>
+<node CREATED="1415616970347" ID="ID_795351120" MODIFIED="1415616970347" TEXT="Valid Sudoku        2012-03-03        27.6%        Easy"/>
+<node CREATED="1415616970348" ID="ID_1295128564" MODIFIED="1415616970348" TEXT="Anagrams        2012-03-19        23.9%        Medium"/>
+<node CREATED="1415616970350" ID="ID_1860644212" MODIFIED="1415616970350" TEXT="Copy List with Random Pointer        2013-10-03        23.5%        Hard"/>
+<node CREATED="1415616970351" ID="ID_845474836" MODIFIED="1415616970351" TEXT="Longest Substring Without Repeating Characters        2011-05-15        22.1%        Medium"/>
+<node CREATED="1415616970352" ID="ID_1657267010" MODIFIED="1415616970352" TEXT="Maximal Rectangle        2012-04-23        21.5%        Hard"/>
+<node CREATED="1415616970357" ID="ID_524144596" MODIFIED="1415616970357" TEXT="4Sum        2012-01-26        21.3%        Medium"/>
+<node CREATED="1415616970357" ID="ID_664285069" MODIFIED="1415616970357" TEXT="Sudoku Solver        2012-03-04        20.8%        Hard"/>
+<node CREATED="1415616970357" ID="ID_741304104" MODIFIED="1415616970357" TEXT="Two Sum        2011-03-13        18.4%        Medium"/>
+<node CREATED="1415616970358" ID="ID_740416387" MODIFIED="1415616970358" TEXT="Substring with Concatenation of All Words        2012-02-23        18.1%        Hard"/>
+<node CREATED="1415616970358" ID="ID_1653992969" MODIFIED="1415616970358" TEXT="Minimum Window Substring        2012-04-15        18.1%        Hard"/>
+<node CREATED="1415616970359" ID="ID_1291633385" MODIFIED="1415616970359" TEXT="Max Points on a Line        2013-11-22        11.2%        Hard"/>
+</node>
+<node CREATED="1415616783364" FOLDED="true" ID="ID_1863124609" MODIFIED="1415616990449" TEXT="18 Linked List">
+<node CREATED="1415616989912" ID="ID_1312337513" MODIFIED="1415616989912" TEXT="Linked List Cycle        2013-10-28        35.8%        Medium"/>
+<node CREATED="1415616989913" ID="ID_1050730620" MODIFIED="1415616989913" TEXT="Remove Duplicates from Sorted List        2012-04-22        34.7%        Easy"/>
+<node CREATED="1415616989914" ID="ID_88434405" MODIFIED="1415616989914" TEXT="Merge Two Sorted Lists        2012-03-30        33.1%        Easy"/>
+<node CREATED="1415616989916" ID="ID_873949246" MODIFIED="1415616989916" TEXT="Swap Nodes in Pairs        2012-02-14        32.4%        Medium"/>
+<node CREATED="1415616989917" ID="ID_1545987757" MODIFIED="1415616989917" TEXT="Linked List Cycle II        2013-10-30        30.8%        Medium"/>
+<node CREATED="1415616989918" ID="ID_870889593" MODIFIED="1415616989918" TEXT="Remove Nth Node From End of List        2012-01-27        29.1%        Easy"/>
+<node CREATED="1415616989919" ID="ID_434519624" MODIFIED="1415616989919" TEXT="Convert Sorted List to Binary Search Tree        2012-10-02        27.4%        Medium"/>
+<node CREATED="1415616989920" ID="ID_1828618983" MODIFIED="1415616989920" TEXT="Partition List        2012-04-30        26.9%        Medium"/>
+<node CREATED="1415616989920" ID="ID_33298604" MODIFIED="1415616989920" TEXT="Reverse Linked List II        2012-06-27        26.2%        Medium"/>
+<node CREATED="1415616989922" ID="ID_522975812" MODIFIED="1415616989922" TEXT="Insertion Sort List        2013-11-12        25.3%        Medium"/>
+<node CREATED="1415616989923" ID="ID_522805609" MODIFIED="1415616989923" TEXT="Reverse Nodes in k-Group        2012-02-15        24.9%        Hard"/>
+<node CREATED="1415616989924" ID="ID_585974925" MODIFIED="1415616989924" TEXT="Remove Duplicates from Sorted List II        2012-04-22        24.8%        Medium"/>
+<node CREATED="1415616989925" ID="ID_1951111819" MODIFIED="1415616989925" TEXT="Copy List with Random Pointer        2013-10-03        23.5%        Hard"/>
+<node CREATED="1415616989925" ID="ID_1974488487" MODIFIED="1415616989925" TEXT="Add Two Numbers        2011-11-01        22.8%        Medium"/>
+<node CREATED="1415616989926" ID="ID_753048084" MODIFIED="1415616989926" TEXT="Rotate List        2012-03-27        21.9%        Medium"/>
+<node CREATED="1415616989926" ID="ID_421067544" MODIFIED="1415616989926" TEXT="Merge k Sorted Lists        2012-02-13        21.1%        Hard"/>
+<node CREATED="1415616989927" ID="ID_875308909" MODIFIED="1415616989927" TEXT="Sort List        2013-11-16        20.6%        Medium"/>
+<node CREATED="1415616989927" ID="ID_273526730" MODIFIED="1415616989927" TEXT="Reorder List        2013-11-02        20.4%        Medium"/>
+</node>
+<node CREATED="1415616783365" FOLDED="true" ID="ID_1450215429" MODIFIED="1415617016656" TEXT="15 Math">
+<node CREATED="1415617016145" ID="ID_953398711" MODIFIED="1415617016145" TEXT="Reverse Integer        2011-12-25        39.8%        Easy"/>
+<node CREATED="1415617016146" ID="ID_763154080" MODIFIED="1415617016146" TEXT="Roman to Integer        2012-01-15        33.9%        Easy"/>
+<node CREATED="1415617016146" ID="ID_1014178641" MODIFIED="1415617016146" TEXT="Integer to Roman        2012-01-15        33.7%        Medium"/>
+<node CREATED="1415617016147" ID="ID_1273444569" MODIFIED="1415617016147" TEXT="Plus One        2012-04-02        31.3%        Easy"/>
+<node CREATED="1415617016147" ID="ID_1232235116" MODIFIED="1415617016147" TEXT="Palindrome Number        2012-01-04        28.8%        Easy"/>
+<node CREATED="1415617016147" ID="ID_1962676313" MODIFIED="1415617016147" TEXT="Pow(x, n)        2012-03-19        25.9%        Medium"/>
+<node CREATED="1415617016148" ID="ID_70445879" MODIFIED="1415617016148" TEXT="Add Binary        2012-04-02        25.4%        Easy"/>
+<node CREATED="1415617016148" ID="ID_1784681984" MODIFIED="1415617016148" TEXT="Add Two Numbers        2011-11-01        22.8%        Medium"/>
+<node CREATED="1415617016149" ID="ID_212637130" MODIFIED="1415617016149" TEXT="Sqrt(x)        2012-04-03        22.3%        Medium"/>
+<node CREATED="1415617016149" ID="ID_979425644" MODIFIED="1415617016149" TEXT="Permutation Sequence        2012-03-27        22.3%        Medium"/>
+<node CREATED="1415617016150" ID="ID_1500323976" MODIFIED="1415617016150" TEXT="Multiply Strings        2012-03-12        20.5%        Medium"/>
+<node CREATED="1415617016150" ID="ID_1375658389" MODIFIED="1415617016150" TEXT="Divide Two Integers        2012-02-18        16.7%        Medium"/>
+<node CREATED="1415617016151" ID="ID_1371230056" MODIFIED="1415617016151" TEXT="String to Integer (atoi)        2011-12-26        14.1%        Easy"/>
+<node CREATED="1415617016151" ID="ID_1414300898" MODIFIED="1415617016151" TEXT="Max Points on a Line        2013-11-22        11.2%        Hard"/>
+<node CREATED="1415617016151" ID="ID_1293812003" MODIFIED="1415617016151" TEXT="Valid Number        2012-04-02        10.9%        Easy"/>
+</node>
+<node CREATED="1415616783365" FOLDED="true" ID="ID_824987531" MODIFIED="1415617034425" TEXT="20 Two Pointers">
+<node CREATED="1415617033729" ID="ID_345185110" MODIFIED="1415617033729" TEXT="Linked List Cycle        2013-10-28        35.8%        Medium"/>
+<node CREATED="1415617033730" ID="ID_1459251440" MODIFIED="1415617033730" TEXT="Remove Element        2012-02-16        32.8%        Easy"/>
+<node CREATED="1415617033731" ID="ID_185112253" MODIFIED="1415617033731" TEXT="Sort Colors        2012-04-08        32.2%        Medium"/>
+<node CREATED="1415617033732" ID="ID_1566635525" MODIFIED="1415617033732" TEXT="Remove Duplicates from Sorted Array        2012-02-16        32.1%        Easy"/>
+<node CREATED="1415617033733" ID="ID_703242951" MODIFIED="1415617033733" TEXT="Merge Sorted Array        2012-05-20        31.5%        Easy"/>
+<node CREATED="1415617033734" ID="ID_137991643" MODIFIED="1415617033734" TEXT="Container With Most Water        2012-01-08        31.4%        Medium"/>
+<node CREATED="1415617033734" ID="ID_1983758881" MODIFIED="1415617033734" TEXT="Linked List Cycle II        2013-10-30        30.8%        Medium"/>
+<node CREATED="1415617033735" ID="ID_1577525908" MODIFIED="1415617033735" TEXT="Remove Duplicates from Sorted Array II        2012-04-19        30.6%        Medium"/>
+<node CREATED="1415617033736" ID="ID_14759358" MODIFIED="1415617033736" TEXT="Remove Nth Node From End of List        2012-01-27        29.1%        Easy"/>
+<node CREATED="1415617033737" ID="ID_165024974" MODIFIED="1415617033737" TEXT="Trapping Rain Water        2012-03-10        28.9%        Hard"/>
+<node CREATED="1415617033738" ID="ID_1879040175" MODIFIED="1415617033738" TEXT="3Sum Closest        2012-01-18        27.0%        Medium"/>
+<node CREATED="1415617033738" ID="ID_1350262408" MODIFIED="1415617033738" TEXT="Partition List        2012-04-30        26.9%        Medium"/>
+<node CREATED="1415617033739" ID="ID_229774586" MODIFIED="1415617033739" TEXT="Valid Palindrome        2013-01-12        22.1%        Easy"/>
+<node CREATED="1415617033739" ID="ID_1824478353" MODIFIED="1415617033739" TEXT="Longest Substring Without Repeating Characters        2011-05-15        22.1%        Medium"/>
+<node CREATED="1415617033740" ID="ID_1232653555" MODIFIED="1415617033740" TEXT="Rotate List        2012-03-27        21.9%        Medium"/>
+<node CREATED="1415617033740" ID="ID_232498295" MODIFIED="1415617033740" TEXT="Implement strStr()        2012-02-18        21.8%        Easy"/>
+<node CREATED="1415617033740" ID="ID_592711917" MODIFIED="1415617033740" TEXT="4Sum        2012-01-26        21.3%        Medium"/>
+<node CREATED="1415617033741" ID="ID_1828105896" MODIFIED="1415617033741" TEXT="Substring with Concatenation of All Words        2012-02-23        18.1%        Hard"/>
+<node CREATED="1415617033741" ID="ID_988361203" MODIFIED="1415617033741" TEXT="Minimum Window Substring        2012-04-15        18.1%        Hard"/>
+<node CREATED="1415617033742" ID="ID_677814011" MODIFIED="1415617033742" TEXT="3Sum        2012-01-17        16.7%        Medium"/>
+</node>
+<node CREATED="1415616783366" FOLDED="true" ID="ID_1128280623" MODIFIED="1415617054482" TEXT="33 String">
+<node CREATED="1415617053955" ID="ID_1789550746" MODIFIED="1415617053955" TEXT="Roman to Integer        2012-01-15        33.9%        Easy"/>
+<node CREATED="1415617053956" ID="ID_650244496" MODIFIED="1415617053956" TEXT="Integer to Roman        2012-01-15        33.7%        Medium"/>
+<node CREATED="1415617053957" ID="ID_735412712" MODIFIED="1415617053957" TEXT="Generate Parentheses        2012-02-12        31.5%        Medium"/>
+<node CREATED="1415617053958" ID="ID_1415356034" MODIFIED="1415617053958" TEXT="Length of Last Word        2012-03-27        29.0%        Easy"/>
+<node CREATED="1415617053959" ID="ID_1767425177" MODIFIED="1415617053959" TEXT="Valid Parentheses        2012-01-30        28.1%        Easy"/>
+<node CREATED="1415617053960" ID="ID_407508119" MODIFIED="1415617053960" TEXT="Longest Common Prefix        2012-01-17        26.8%        Easy"/>
+<node CREATED="1415617053961" ID="ID_1378248201" MODIFIED="1415617053961" TEXT="Letter Combinations of a Phone Number        2012-01-26        26.5%        Medium"/>
+<node CREATED="1415617053962" ID="ID_556767288" MODIFIED="1415617053962" TEXT="Count and Say        2012-03-05        26.3%        Easy"/>
+<node CREATED="1415617053963" ID="ID_1633357656" MODIFIED="1415617053963" TEXT="Edit Distance        2012-04-04        25.5%        Hard"/>
+<node CREATED="1415617053964" ID="ID_585570690" MODIFIED="1415617053964" TEXT="Add Binary        2012-04-02        25.4%        Easy"/>
+<node CREATED="1415617053965" ID="ID_130333302" MODIFIED="1415617053965" TEXT="Distinct Subsequences        2012-10-18        25.1%        Hard"/>
+<node CREATED="1415617053966" ID="ID_9212604" MODIFIED="1415617053966" TEXT="Anagrams        2012-03-19        23.9%        Medium"/>
+<node CREATED="1415617053967" ID="ID_1863282386" MODIFIED="1415617053967" TEXT="ZigZag Conversion        2011-12-05        23.3%        Easy"/>
+<node CREATED="1415617053968" ID="ID_306266500" MODIFIED="1415617053968" TEXT="Scramble String        2012-04-30        22.9%        Hard"/>
+<node CREATED="1415617053969" ID="ID_278444457" MODIFIED="1415617053969" TEXT="Valid Palindrome        2013-01-12        22.1%        Easy"/>
+<node CREATED="1415617053970" ID="ID_634854085" MODIFIED="1415617053970" TEXT="Longest Substring Without Repeating Characters        2011-05-15        22.1%        Medium"/>
+<node CREATED="1415617053970" ID="ID_1157751333" MODIFIED="1415617053970" TEXT="Implement strStr()        2012-02-18        21.8%        Easy"/>
+<node CREATED="1415617053971" ID="ID_1232925814" MODIFIED="1415617053971" TEXT="Longest Palindromic Substring        2011-11-11        20.6%        Medium"/>
+<node CREATED="1415617053971" ID="ID_1619733967" MODIFIED="1415617053971" TEXT="Restore IP Addresses        2012-08-07        20.5%        Medium"/>
+<node CREATED="1415617053972" ID="ID_1657313512" MODIFIED="1415617053972" TEXT="Multiply Strings        2012-03-12        20.5%        Medium"/>
+<node CREATED="1415617053972" ID="ID_977584713" MODIFIED="1415617053972" TEXT="Regular Expression Matching        2012-01-08        20.3%        Hard"/>
+<node CREATED="1415617053973" ID="ID_409718217" MODIFIED="1415617053973" TEXT="Simplify Path        2012-04-03        19.9%        Medium"/>
+<node CREATED="1415617053973" ID="ID_120847828" MODIFIED="1415617053973" TEXT="Longest Valid Parentheses        2012-02-29        19.8%        Hard"/>
+<node CREATED="1415617053974" ID="ID_1453452585" MODIFIED="1415617053974" TEXT="Interleaving String        2012-08-30        19.6%        Hard"/>
+<node CREATED="1415617053974" ID="ID_827895785" MODIFIED="1415617053974" TEXT="Substring with Concatenation of All Words        2012-02-23        18.1%        Hard"/>
+<node CREATED="1415617053975" ID="ID_1845972174" MODIFIED="1415617053975" TEXT="Minimum Window Substring        2012-04-15        18.1%        Hard"/>
+<node CREATED="1415617053975" ID="ID_325551887" MODIFIED="1415617053975" TEXT="Decode Ways        2012-06-25        16.2%        Medium"/>
+<node CREATED="1415617053976" ID="ID_894973903" MODIFIED="1415617053976" TEXT="Wildcard Matching        2012-03-15        14.4%        Hard"/>
+<node CREATED="1415617053976" ID="ID_1494985765" MODIFIED="1415617053976" TEXT="String to Integer (atoi)        2011-12-26        14.1%        Easy"/>
+<node CREATED="1415617053977" ID="ID_1164345308" MODIFIED="1415617053977" TEXT="Text Justification        2012-04-03        14.0%        Hard"/>
+<node CREATED="1415617053978" ID="ID_1934895060" MODIFIED="1415617053978" TEXT="Reverse Words in a String        2014-03-05        14.0%        Medium"/>
+<node CREATED="1415617053978" ID="ID_1064993203" MODIFIED="1415617053978" TEXT="Word Ladder II        2013-02-10        11.6%        Hard"/>
+<node CREATED="1415617053979" ID="ID_1459513895" MODIFIED="1415617053979" TEXT="Valid Number        2012-04-02        10.9%        Easy"/>
+</node>
+<node CREATED="1415616783366" FOLDED="true" ID="ID_483209182" MODIFIED="1415617068615" TEXT="11 Binary Search">
+<node CREATED="1415617068163" ID="ID_613950652" MODIFIED="1415617068163" TEXT="Search Insert Position        2012-03-03        34.9%        Medium"/>
+<node CREATED="1415617068164" ID="ID_1748769571" MODIFIED="1415617068164" TEXT="Find Minimum in Rotated Sorted Array        2014-10-15        31.7%        Medium"/>
+<node CREATED="1415617068165" ID="ID_755835743" MODIFIED="1415617068165" TEXT="Search a 2D Matrix        2012-04-06        31.2%        Medium"/>
+<node CREATED="1415617068166" ID="ID_452904247" MODIFIED="1415617068166" TEXT="Search in Rotated Sorted Array II        2012-04-19        30.9%        Medium"/>
+<node CREATED="1415617068166" ID="ID_1993310836" MODIFIED="1415617068166" TEXT="Search in Rotated Sorted Array        2012-03-02        28.6%        Hard"/>
+<node CREATED="1415617068167" ID="ID_1671400206" MODIFIED="1415617068167" TEXT="Find Minimum in Rotated Sorted Array II        2014-10-20        28.5%        Hard"/>
+<node CREATED="1415617068167" ID="ID_344251551" MODIFIED="1415617068167" TEXT="Search for a Range        2012-03-02        27.4%        Medium"/>
+<node CREATED="1415617068168" ID="ID_1853435343" MODIFIED="1415617068168" TEXT="Pow(x, n)        2012-03-19        25.9%        Medium"/>
+<node CREATED="1415617068168" ID="ID_1849688148" MODIFIED="1415617068168" TEXT="Sqrt(x)        2012-04-03        22.3%        Medium"/>
+<node CREATED="1415617068169" ID="ID_1191775849" MODIFIED="1415617068169" TEXT="Median of Two Sorted Arrays        2011-03-27        17.6%        Hard"/>
+<node CREATED="1415617068169" ID="ID_1827725396" MODIFIED="1415617068169" TEXT="Divide Two Integers        2012-02-18        16.7%        Medium"/>
+</node>
+<node CREATED="1415616783367" FOLDED="true" ID="ID_1050884073" MODIFIED="1415617085919" TEXT="3 Divide and Conquer">
+<node CREATED="1415617085428" ID="ID_153849638" MODIFIED="1415617085428" TEXT="Maximum Subarray        2012-03-21        34.0%        Medium"/>
+<node CREATED="1415617085429" ID="ID_1734413461" MODIFIED="1415617085429" TEXT="Merge k Sorted Lists        2012-02-13        21.1%        Hard"/>
+<node CREATED="1415617085430" ID="ID_415630969" MODIFIED="1415617085430" TEXT="Median of Two Sorted Arrays        2011-03-27        17.6%        Hard"/>
+</node>
+<node CREATED="1415616783368" FOLDED="true" ID="ID_1813011627" MODIFIED="1415617105481" TEXT="23 Dynamic Programming">
+<node CREATED="1415617104964" ID="ID_1641569448" MODIFIED="1415617104964" TEXT="Unique Binary Search Trees        2012-08-27        36.6%        Medium"/>
+<node CREATED="1415617104965" ID="ID_956119163" MODIFIED="1415617104965" TEXT="Maximum Subarray        2012-03-21        34.0%        Medium"/>
+<node CREATED="1415617104966" ID="ID_819784924" MODIFIED="1415617104966" TEXT="Climbing Stairs        2012-04-03        33.9%        Easy"/>
+<node CREATED="1415617104967" ID="ID_667038283" MODIFIED="1415617104967" TEXT="Unique Paths        2012-03-28        31.8%        Medium"/>
+<node CREATED="1415617104968" ID="ID_1091769436" MODIFIED="1415617104968" TEXT="Best Time to Buy and Sell Stock        2012-10-30        31.3%        Medium"/>
+<node CREATED="1415617104969" ID="ID_881840385" MODIFIED="1415617104969" TEXT="Minimum Path Sum        2012-03-28        31.1%        Medium"/>
+<node CREATED="1415617104970" ID="ID_908383451" MODIFIED="1415617104970" TEXT="Unique Paths II        2012-03-28        27.8%        Medium"/>
+<node CREATED="1415617104970" ID="ID_306372017" MODIFIED="1415617104970" TEXT="Unique Binary Search Trees II        2012-08-27        27.3%        Medium"/>
+<node CREATED="1415617104970" ID="ID_522779454" MODIFIED="1415617104970" TEXT="Triangle        2012-10-29        26.6%        Medium"/>
+<node CREATED="1415617104971" ID="ID_328949863" MODIFIED="1415617104971" TEXT="Edit Distance        2012-04-04        25.5%        Hard"/>
+<node CREATED="1415617104971" ID="ID_508684214" MODIFIED="1415617104971" TEXT="Distinct Subsequences        2012-10-18        25.1%        Hard"/>
+<node CREATED="1415617104972" ID="ID_300815875" MODIFIED="1415617104972" TEXT="Scramble String        2012-04-30        22.9%        Hard"/>
+<node CREATED="1415617104972" ID="ID_1857147844" MODIFIED="1415617104972" TEXT="Best Time to Buy and Sell Stock III        2012-11-06        22.4%        Hard"/>
+<node CREATED="1415617104973" ID="ID_692022669" MODIFIED="1415617104973" TEXT="Maximal Rectangle        2012-04-23        21.5%        Hard"/>
+<node CREATED="1415617104973" ID="ID_1802341246" MODIFIED="1415617104973" TEXT="Word Break        2013-10-04        21.3%        Medium"/>
+<node CREATED="1415617104973" ID="ID_780736666" MODIFIED="1415617104973" TEXT="Regular Expression Matching        2012-01-08        20.3%        Hard"/>
+<node CREATED="1415617104974" ID="ID_1459134924" MODIFIED="1415617104974" TEXT="Longest Valid Parentheses        2012-02-29        19.8%        Hard"/>
+<node CREATED="1415617104974" ID="ID_3029762" MODIFIED="1415617104974" TEXT="Interleaving String        2012-08-30        19.6%        Hard"/>
+<node CREATED="1415617104975" ID="ID_207422834" MODIFIED="1415617104975" TEXT="Palindrome Partitioning II        2013-02-28        18.4%        Hard"/>
+<node CREATED="1415617104975" ID="ID_173951182" MODIFIED="1415617104975" TEXT="Word Break II        2013-10-05        16.6%        Hard"/>
+<node CREATED="1415617104976" ID="ID_980016622" MODIFIED="1415617104976" TEXT="Decode Ways        2012-06-25        16.2%        Medium"/>
+<node CREATED="1415617104976" ID="ID_325278045" MODIFIED="1415617104976" TEXT="Maximum Product Subarray        2014-09-23        16.1%        Medium"/>
+<node CREATED="1415617104976" ID="ID_1313308709" MODIFIED="1415617104976" TEXT="Wildcard Matching        2012-03-15        14.4%        Hard"/>
+</node>
+<node CREATED="1415616783368" FOLDED="true" ID="ID_313975363" MODIFIED="1415617119976" TEXT="21 Backtracking">
+<node CREATED="1415617118790" ID="ID_1039947779" MODIFIED="1415617118790" TEXT="N-Queens II        2012-03-20        34.0%        Hard"/>
+<node CREATED="1415617118791" ID="ID_1574172616" MODIFIED="1415617118791" TEXT="Gray Code        2012-05-20        32.2%        Medium"/>
+<node CREATED="1415617118792" ID="ID_1988125619" MODIFIED="1415617118792" TEXT="Generate Parentheses        2012-02-12        31.5%        Medium"/>
+<node CREATED="1415617118793" ID="ID_747534002" MODIFIED="1415617118793" TEXT="Permutations        2012-03-16        31.2%        Medium"/>
+<node CREATED="1415617118794" ID="ID_125322844" MODIFIED="1415617118794" TEXT="Combinations        2012-04-18        30.0%        Medium"/>
+<node CREATED="1415617118794" ID="ID_1443176491" MODIFIED="1415617118794" TEXT="Subsets        2012-04-18        27.8%        Medium"/>
+<node CREATED="1415617118795" ID="ID_1966665597" MODIFIED="1415617118795" TEXT="Subsets II        2012-06-25        27.0%        Medium"/>
+<node CREATED="1415617118795" ID="ID_1751456098" MODIFIED="1415617118795" TEXT="Combination Sum        2012-03-06        26.8%        Medium"/>
+<node CREATED="1415617118795" ID="ID_1098022728" MODIFIED="1415617118795" TEXT="Letter Combinations of a Phone Number        2012-01-26        26.5%        Medium"/>
+<node CREATED="1415617118796" ID="ID_361103243" MODIFIED="1415617118796" TEXT="Palindrome Partitioning        2013-02-27        25.9%        Medium"/>
+<node CREATED="1415617118796" ID="ID_963105775" MODIFIED="1415617118796" TEXT="N-Queens        2012-03-19        25.9%        Hard"/>
+<node CREATED="1415617118797" ID="ID_933280485" MODIFIED="1415617118797" TEXT="Permutations II        2012-03-16        25.0%        Hard"/>
+<node CREATED="1415617118797" ID="ID_1772783794" MODIFIED="1415617118797" TEXT="Combination Sum II        2012-03-06        24.6%        Medium"/>
+<node CREATED="1415617118798" ID="ID_509614588" MODIFIED="1415617118798" TEXT="Permutation Sequence        2012-03-27        22.3%        Medium"/>
+<node CREATED="1415617118798" ID="ID_1380644918" MODIFIED="1415617118798" TEXT="Sudoku Solver        2012-03-04        20.8%        Hard"/>
+<node CREATED="1415617118798" ID="ID_1703356726" MODIFIED="1415617118798" TEXT="Restore IP Addresses        2012-08-07        20.5%        Medium"/>
+<node CREATED="1415617118799" ID="ID_1794031590" MODIFIED="1415617118799" TEXT="Regular Expression Matching        2012-01-08        20.3%        Hard"/>
+<node CREATED="1415617118799" ID="ID_1070367812" MODIFIED="1415617118799" TEXT="Word Search        2012-04-18        19.7%        Medium"/>
+<node CREATED="1415617118800" ID="ID_388190665" MODIFIED="1415617118800" TEXT="Word Break II        2013-10-05        16.6%        Hard"/>
+<node CREATED="1415617118800" ID="ID_56359796" MODIFIED="1415617118800" TEXT="Wildcard Matching        2012-03-15        14.4%        Hard"/>
+<node CREATED="1415617118801" ID="ID_51698958" MODIFIED="1415617118801" TEXT="Word Ladder II        2013-02-10        11.6%        Hard"/>
+</node>
+<node CREATED="1415616783369" FOLDED="true" ID="ID_413179098" MODIFIED="1415617141952" TEXT="11 Stack">
+<node CREATED="1415617140794" ID="ID_445533454" MODIFIED="1415617140794" TEXT="Binary Tree Preorder Traversal        2013-11-05        35.6%        Medium"/>
+<node CREATED="1415617140795" ID="ID_209856813" MODIFIED="1415617140795" TEXT="Binary Tree Inorder Traversal        2012-08-27        35.6%        Medium"/>
+<node CREATED="1415617140796" ID="ID_788029384" MODIFIED="1415617140796" TEXT="Binary Tree Postorder Traversal        2013-11-07        31.1%        Hard"/>
+<node CREATED="1415617140805" ID="ID_68964933" MODIFIED="1415617140805" TEXT="Trapping Rain Water        2012-03-10        28.9%        Hard"/>
+<node CREATED="1415617140806" ID="ID_1926072907" MODIFIED="1415617140806" TEXT="Valid Parentheses        2012-01-30        28.1%        Easy"/>
+<node CREATED="1415617140806" ID="ID_383322905" MODIFIED="1415617140806" TEXT="Binary Tree Zigzag Level Order Traversal        2012-09-28        26.5%        Medium"/>
+<node CREATED="1415617140816" ID="ID_1877877088" MODIFIED="1415617140816" TEXT="Maximal Rectangle        2012-04-23        21.5%        Hard"/>
+<node CREATED="1415617140817" ID="ID_722821226" MODIFIED="1415617140817" TEXT="Largest Rectangle in Histogram        2012-04-22        21.5%        Hard"/>
+<node CREATED="1415617140817" ID="ID_1420578733" MODIFIED="1415617140817" TEXT="Simplify Path        2012-04-03        19.9%        Medium"/>
+<node CREATED="1415617140831" ID="ID_1895462146" MODIFIED="1415617140831" TEXT="Evaluate Reverse Polish Notation        2013-11-27        19.9%        Medium"/>
+<node CREATED="1415617140835" ID="ID_1137659427" MODIFIED="1415617140835" TEXT="Min Stack        2014-11-09        16.3%        Easy"/>
+</node>
+<node CREATED="1415616783369" FOLDED="true" ID="ID_1290106125" MODIFIED="1415617158631" TEXT="1 Heap">
+<node CREATED="1415617158023" ID="ID_1994300031" MODIFIED="1415617158023" TEXT="Merge k Sorted Lists        2012-02-13        21.1%        Hard"/>
+</node>
+<node CREATED="1415616783370" FOLDED="true" ID="ID_1485370203" MODIFIED="1415617209831" TEXT="6 Greedy">
+<node CREATED="1415617194418" ID="ID_1809548944" MODIFIED="1415617194418" TEXT="Best Time to Buy and Sell Stock II        2012-10-30        36.7%        Medium"/>
+<node CREATED="1415617194419" ID="ID_580211641" MODIFIED="1415617194419" TEXT="Jump Game        2012-03-24        27.2%        Medium"/>
+<node CREATED="1415617194420" ID="ID_182544261" MODIFIED="1415617194420" TEXT="Gas Station        2013-09-28        25.9%        Medium"/>
+<node CREATED="1415617194421" ID="ID_1098511224" MODIFIED="1415617194421" TEXT="Jump Game II        2012-03-16        24.7%        Hard"/>
+<node CREATED="1415617194422" ID="ID_533592379" MODIFIED="1415617194422" TEXT="Candy        2013-09-30        19.3%        Hard"/>
+<node CREATED="1415617194423" ID="ID_605767719" MODIFIED="1415617194423" TEXT="Wildcard Matching        2012-03-15        14.4%        Hard"/>
+</node>
+<node CREATED="1415616783371" FOLDED="true" ID="ID_525495839" MODIFIED="1415617316215" TEXT="5 Sort">
+<node CREATED="1415617315331" ID="ID_1348151805" MODIFIED="1415617315331" TEXT="Sort Colors        2012-04-08        32.2%        Medium"/>
+<node CREATED="1415617315332" ID="ID_855773151" MODIFIED="1415617315332" TEXT="Insertion Sort List        2013-11-12        25.3%        Medium"/>
+<node CREATED="1415617315333" ID="ID_1349640725" MODIFIED="1415617315333" TEXT="Merge Intervals        2012-03-26        21.0%        Hard"/>
+<node CREATED="1415617315334" ID="ID_1930033967" MODIFIED="1415617315334" TEXT="Insert Interval        2012-03-27        20.7%        Hard"/>
+<node CREATED="1415617315335" ID="ID_1207578211" MODIFIED="1415617315335" TEXT="Sort List        2013-11-16        20.6%        Medium"/>
+</node>
+<node CREATED="1415616783371" FOLDED="true" ID="ID_18282961" MODIFIED="1415617328775" TEXT="3 Bit Manipulation">
+<node CREATED="1415617328291" ID="ID_418030932" MODIFIED="1415617328291" TEXT="Single Number        2013-10-01        45.7%        Medium"/>
+<node CREATED="1415617328291" ID="ID_1971109304" MODIFIED="1415617328291" TEXT="Single Number II        2013-10-02        33.8%        Medium"/>
+<node CREATED="1415617328292" ID="ID_1174896299" MODIFIED="1415617328292" TEXT="Subsets        2012-04-18        27.8%        Medium"/>
+</node>
+<node CREATED="1415616783372" FOLDED="true" ID="ID_819888199" MODIFIED="1415617348546" TEXT="25 Tree">
+<node CREATED="1415617347978" ID="ID_29706924" MODIFIED="1415617347978" TEXT="Maximum Depth of Binary Tree        2012-09-29        44.0%        Easy"/>
+<node CREATED="1415617347979" ID="ID_664446502" MODIFIED="1415617347979" TEXT="Same Tree        2012-09-03        41.8%        Easy"/>
+<node CREATED="1415617347980" ID="ID_923580861" MODIFIED="1415617347980" TEXT="Unique Binary Search Trees        2012-08-27        36.6%        Medium"/>
+<node CREATED="1415617347981" ID="ID_559098436" MODIFIED="1415617347981" TEXT="Binary Tree Preorder Traversal        2013-11-05        35.6%        Medium"/>
+<node CREATED="1415617347982" ID="ID_1842597640" MODIFIED="1415617347982" TEXT="Binary Tree Inorder Traversal        2012-08-27        35.6%        Medium"/>
+<node CREATED="1415617347982" ID="ID_580952542" MODIFIED="1415617347982" TEXT="Populating Next Right Pointers in Each Node        2012-10-28        35.3%        Medium"/>
+<node CREATED="1415617347982" ID="ID_123255040" MODIFIED="1415617347982" TEXT="Convert Sorted Array to Binary Search Tree        2012-10-02        33.0%        Medium"/>
+<node CREATED="1415617347983" ID="ID_713427245" MODIFIED="1415617347983" TEXT="Balanced Binary Tree        2012-10-08        32.4%        Easy"/>
+<node CREATED="1415617347983" ID="ID_446192013" MODIFIED="1415617347983" TEXT="Symmetric Tree        2012-09-23        31.2%        Easy"/>
+<node CREATED="1415617347984" ID="ID_1831798675" MODIFIED="1415617347984" TEXT="Binary Tree Postorder Traversal        2013-11-07        31.1%        Hard"/>
+<node CREATED="1415617347984" ID="ID_786390837" MODIFIED="1415617347984" TEXT="Binary Tree Level Order Traversal II        2012-10-01        30.9%        Easy"/>
+<node CREATED="1415617347985" ID="ID_762931756" MODIFIED="1415617347985" TEXT="Populating Next Right Pointers in Each Node II        2012-10-28        30.8%        Hard"/>
+<node CREATED="1415617347985" ID="ID_1273279530" MODIFIED="1415617347985" TEXT="Binary Tree Level Order Traversal        2012-09-28        30.4%        Easy"/>
+<node CREATED="1415617347985" ID="ID_1413369539" MODIFIED="1415617347985" TEXT="Path Sum        2012-10-13        30.3%        Easy"/>
+<node CREATED="1415617347986" ID="ID_575943776" MODIFIED="1415617347986" TEXT="Sum Root to Leaf Numbers        2013-02-18        29.8%        Medium"/>
+<node CREATED="1415617347986" ID="ID_791137019" MODIFIED="1415617347986" TEXT="Minimum Depth of Binary Tree        2012-10-09        29.2%        Easy"/>
+<node CREATED="1415617347987" ID="ID_1421009439" MODIFIED="1415617347987" TEXT="Flatten Binary Tree to Linked List        2012-10-14        28.2%        Medium"/>
+<node CREATED="1415617347987" ID="ID_820577881" MODIFIED="1415617347987" TEXT="Unique Binary Search Trees II        2012-08-27        27.3%        Medium"/>
+<node CREATED="1415617347987" ID="ID_1255954895" MODIFIED="1415617347987" TEXT="Path Sum II        2012-10-14        26.8%        Medium"/>
+<node CREATED="1415617347988" ID="ID_130019825" MODIFIED="1415617347988" TEXT="Construct Binary Tree from Inorder and Postorder Traversal        2012-09-30        26.6%        Medium"/>
+<node CREATED="1415617347991" ID="ID_1127983521" MODIFIED="1415617347991" TEXT="Construct Binary Tree from Preorder and Inorder Traversal        2012-09-30        26.5%        Medium"/>
+<node CREATED="1415617347994" ID="ID_876388220" MODIFIED="1415617347994" TEXT="Binary Tree Zigzag Level Order Traversal        2012-09-28        26.5%        Medium"/>
+<node CREATED="1415617347995" ID="ID_1828055904" MODIFIED="1415617347995" TEXT="Validate Binary Search Tree        2012-08-31        25.8%        Medium"/>
+<node CREATED="1415617347995" ID="ID_708880173" MODIFIED="1415617347995" TEXT="Recover Binary Search Tree        2012-09-01        23.8%        Hard"/>
+<node CREATED="1415617347996" ID="ID_511718469" MODIFIED="1415617347996" TEXT="Binary Tree Maximum Path Sum        2012-11-07        20.2%        Hard"/>
+</node>
+<node CREATED="1415616783372" FOLDED="true" ID="ID_103334904" MODIFIED="1415617364977" TEXT="19 Depth-first Search">
+<node CREATED="1415617364233" ID="ID_592710000" MODIFIED="1415617364233" TEXT="Maximum Depth of Binary Tree        2012-09-29        44.0%        Easy"/>
+<node CREATED="1415617364235" ID="ID_1109670430" MODIFIED="1415617364235" TEXT="Same Tree        2012-09-03        41.8%        Easy"/>
+<node CREATED="1415617364236" ID="ID_638078170" MODIFIED="1415617364236" TEXT="Populating Next Right Pointers in Each Node        2012-10-28        35.3%        Medium"/>
+<node CREATED="1415617364237" ID="ID_599796928" MODIFIED="1415617364237" TEXT="Convert Sorted Array to Binary Search Tree        2012-10-02        33.0%        Medium"/>
+<node CREATED="1415617364239" ID="ID_1225147578" MODIFIED="1415617364239" TEXT="Balanced Binary Tree        2012-10-08        32.4%        Easy"/>
+<node CREATED="1415617364240" ID="ID_1915725962" MODIFIED="1415617364240" TEXT="Symmetric Tree        2012-09-23        31.2%        Easy"/>
+<node CREATED="1415617364240" ID="ID_253670229" MODIFIED="1415617364240" TEXT="Populating Next Right Pointers in Each Node II        2012-10-28        30.8%        Hard"/>
+<node CREATED="1415617364241" ID="ID_1762236021" MODIFIED="1415617364241" TEXT="Path Sum        2012-10-13        30.3%        Easy"/>
+<node CREATED="1415617364242" ID="ID_882892351" MODIFIED="1415617364242" TEXT="Sum Root to Leaf Numbers        2013-02-18        29.8%        Medium"/>
+<node CREATED="1415617364242" ID="ID_81034809" MODIFIED="1415617364242" TEXT="Minimum Depth of Binary Tree        2012-10-09        29.2%        Easy"/>
+<node CREATED="1415617364243" ID="ID_1643789866" MODIFIED="1415617364243" TEXT="Flatten Binary Tree to Linked List        2012-10-14        28.2%        Medium"/>
+<node CREATED="1415617364244" ID="ID_767896903" MODIFIED="1415617364244" TEXT="Convert Sorted List to Binary Search Tree        2012-10-02        27.4%        Medium"/>
+<node CREATED="1415617364244" ID="ID_1498691731" MODIFIED="1415617364244" TEXT="Path Sum II        2012-10-14        26.8%        Medium"/>
+<node CREATED="1415617364245" ID="ID_743620736" MODIFIED="1415617364245" TEXT="Construct Binary Tree from Inorder and Postorder Traversal        2012-09-30        26.6%        Medium"/>
+<node CREATED="1415617364249" ID="ID_1863669083" MODIFIED="1415617364249" TEXT="Construct Binary Tree from Preorder and Inorder Traversal        2012-09-30        26.5%        Medium"/>
+<node CREATED="1415617364253" ID="ID_1025522762" MODIFIED="1415617364253" TEXT="Validate Binary Search Tree        2012-08-31        25.8%        Medium"/>
+<node CREATED="1415617364253" ID="ID_1823609265" MODIFIED="1415617364253" TEXT="Recover Binary Search Tree        2012-09-01        23.8%        Hard"/>
+<node CREATED="1415617364254" ID="ID_982118117" MODIFIED="1415617364254" TEXT="Clone Graph        2013-09-24        23.1%        Medium"/>
+<node CREATED="1415617364254" ID="ID_439335105" MODIFIED="1415617364254" TEXT="Binary Tree Maximum Path Sum        2012-11-07        20.2%        Hard"/>
+</node>
+<node CREATED="1415616783373" FOLDED="true" ID="ID_558733187" MODIFIED="1415617411376" TEXT="7 Breadth-first Search">
+<node CREATED="1415617380948" ID="ID_426157426" MODIFIED="1415617380948" TEXT="Binary Tree Level Order Traversal II        2012-10-01        30.9%        Easy"/>
+<node CREATED="1415617380949" ID="ID_177054545" MODIFIED="1415617380949" TEXT="Binary Tree Level Order Traversal        2012-09-28        30.4%        Easy"/>
+<node CREATED="1415617380950" ID="ID_904316082" MODIFIED="1415617380950" TEXT="Binary Tree Zigzag Level Order Traversal        2012-09-28        26.5%        Medium"/>
+<node CREATED="1415617380951" ID="ID_1357026879" MODIFIED="1415617380951" TEXT="Clone Graph        2013-09-24        23.1%        Medium"/>
+<node CREATED="1415617380952" ID="ID_1967838152" MODIFIED="1415617380952" TEXT="Word Ladder        2013-02-10        18.4%        Medium"/>
+<node CREATED="1415617380953" ID="ID_1686065561" MODIFIED="1415617380953" TEXT="Surrounded Regions        2013-02-21        14.2%        Medium"/>
+<node CREATED="1415617380954" ID="ID_1536958846" MODIFIED="1415617380954" TEXT="Word Ladder II        2013-02-10        11.6%        Hard"/>
+</node>
+<node CREATED="1415616783378" FOLDED="true" ID="ID_1231896990" MODIFIED="1415617412215" TEXT="1 Graph">
+<node CREATED="1415617396218" ID="ID_797458874" MODIFIED="1415617396218" TEXT="Clone Graph        2013-09-24        23.1%        Medium"/>
+</node>
+<node CREATED="1415616783382" FOLDED="true" ID="ID_863261627" MODIFIED="1415617413287" TEXT="2 Data Structure">
+<node CREATED="1415617409004" ID="ID_1140532122" MODIFIED="1415617409004" TEXT="Min Stack        2014-11-09        16.3%        Easy"/>
+<node CREATED="1415617409005" ID="ID_850410604" MODIFIED="1415617409005" TEXT="LRU Cache        2013-11-09        14.2%        Hard"/>
+</node>
+</node>
+<node CREATED="1415617431748" ID="ID_30133233" MODIFIED="1415617440395" TEXT="&#x7ecf;&#x5178;&#x9898;&#x76ee;"/>
 </node>
 <node CREATED="1390197766798" FOLDED="true" ID="ID_1636061549" MODIFIED="1415615158860" TEXT="DataBase">
 <node CREATED="1408326898758" ID="ID_1407594936" MODIFIED="1408519446900" TEXT="&#x5386;&#x53f2;/&#x5206;&#x7c7b;">
