@@ -1251,7 +1251,7 @@
 <node CREATED="1411027499958" ID="ID_1356182089" MODIFIED="1411027509744" TEXT="merge"/>
 </node>
 </node>
-<node CREATED="1415948836607" ID="ID_1475711027" MODIFIED="1415948842887" TEXT="&#x6d4b;&#x8bd5;&#x5de5;&#x5177;">
+<node CREATED="1415948836607" FOLDED="true" ID="ID_1475711027" MODIFIED="1416013958352" TEXT="&#x6d4b;&#x8bd5;&#x5de5;&#x5177;">
 <node CREATED="1415948843288" ID="ID_743952848" MODIFIED="1415948847910" TEXT="Junit"/>
 </node>
 </node>
@@ -1471,7 +1471,7 @@
 </node>
 </node>
 <node CREATED="1408326594571" ID="ID_230003120" MODIFIED="1415948860622" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x6280;&#x672f;&#x57fa;&#x7840;">
-<node CREATED="1408327531850" FOLDED="true" ID="ID_1859435901" MODIFIED="1415948866593" TEXT="Algorithms">
+<node CREATED="1408327531850" FOLDED="true" ID="ID_1859435901" MODIFIED="1416013965767" TEXT="Algorithms">
 <node CREATED="1390131947938" FOLDED="true" ID="ID_1305563799" MODIFIED="1415799171196" TEXT="&#x67e5;&#x627e;">
 <node CREATED="1390194191678" ID="ID_978185749" MODIFIED="1390194195784" TEXT="&#x987a;&#x5e8f;"/>
 <node CREATED="1390194362854" ID="ID_1468007095" MODIFIED="1390194369429" TEXT="&#x8df3;&#x8868;"/>
@@ -1753,8 +1753,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1415615295064" FOLDED="true" ID="ID_794965427" MODIFIED="1415935178930" TEXT="LeetCode">
-<node CREATED="1415615455279" FOLDED="true" ID="ID_1242013920" MODIFIED="1415928699952" TEXT="classification">
+<node CREATED="1415615295064" FOLDED="true" ID="ID_794965427" MODIFIED="1416037169428" TEXT="LeetCode">
+<node CREATED="1415615455279" ID="ID_1242013920" MODIFIED="1416013967418" TEXT="classification">
 <node CREATED="1415616783356" FOLDED="true" ID="ID_101315593" MODIFIED="1415758493161" TEXT="52 Array">
 <node CREATED="1415616824111" ID="ID_1290951167" MODIFIED="1415616824111" TEXT="Best Time to Buy and Sell Stock II        2012-10-30        36.7%        Medium"/>
 <node CREATED="1415616824112" ID="ID_1134352646" MODIFIED="1415616824112" TEXT="Search Insert Position        2012-03-03        34.9%        Medium"/>
@@ -2085,7 +2085,7 @@
 <node CREATED="1415617409005" ID="ID_850410604" MODIFIED="1415617409005" TEXT="LRU Cache        2013-11-09        14.2%        Hard"/>
 </node>
 </node>
-<node CREATED="1415617431748" FOLDED="true" ID="ID_30133233" MODIFIED="1415929698606" TEXT="Classic Problems ">
+<node CREATED="1415617431748" FOLDED="true" ID="ID_30133233" MODIFIED="1416013972488" TEXT="Classic Problems ">
 <node CREATED="1415758453715" ID="ID_259467250" MODIFIED="1415799738818" TEXT="Array">
 <node CREATED="1415758569812" ID="ID_1871536401" MODIFIED="1415758628717" TEXT="Single Number">
 <node CREATED="1415758593814" ID="ID_1328841178" MODIFIED="1415758616234" TEXT="1 in 2">
@@ -2708,7 +2708,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1390355353965" FOLDED="true" ID="ID_1076970212" MODIFIED="1415928471964" TEXT="JAVA">
+<node CREATED="1390355353965" ID="ID_1076970212" MODIFIED="1416037170528" TEXT="JAVA">
 <node CREATED="1406262015076" ID="ID_1197133255" MODIFIED="1415798105266" TEXT="&#x8bed;&#x6cd5;">
 <node CREATED="1406443596966" FOLDED="true" ID="ID_789406884" MODIFIED="1415259659069" TEXT="&#x4e0a;&#x4e0b;&#x6587;">
 <node CREATED="1406773295039" FOLDED="true" ID="ID_845258216" MODIFIED="1411398429895" TEXT="&#x603b;&#x7ed3;">
@@ -2721,7 +2721,7 @@
 <node CREATED="1406773898492" MODIFIED="1406773898492" TEXT="servletContext&#x5c31;&#x662f;&#x5305;&#x542b;&#x4e86;&#x8be5;servlet&#x76f8;&#x5173;&#x7684;&#x5404;&#x79cd;&#x8bbe;&#x7f6e;&#x963f;"/>
 </node>
 </node>
-<node CREATED="1415259661634" ID="ID_597728835" MODIFIED="1415259674683" TEXT="basis">
+<node CREATED="1415259661634" FOLDED="true" ID="ID_597728835" MODIFIED="1416037177473" TEXT="basis">
 <node CREATED="1415259694610" ID="ID_651364303" MODIFIED="1415259713715" TEXT="main(String[] args)">
 <node CREATED="1415259761417" ID="ID_356565795" MODIFIED="1415259780858" TEXT="args[0]"/>
 <node CREATED="1415259767538" ID="ID_459278730" MODIFIED="1415259774623" TEXT="args[1]"/>
@@ -3112,7 +3112,7 @@
 </node>
 <node CREATED="1409893372045" ID="ID_1376367369" MODIFIED="1409893377472" TEXT="commons.net"/>
 </node>
-<node CREATED="1409809651135" FOLDED="true" ID="ID_1788034305" MODIFIED="1415613410302" TEXT="IO">
+<node CREATED="1409809651135" ID="ID_1788034305" MODIFIED="1416037181743" TEXT="IO">
 <node CREATED="1409809654301" ID="ID_1720988399" MODIFIED="1415613388124" TEXT="FILE">
 <node CREATED="1413351816047" ID="ID_1882243426" MODIFIED="1413351819433" TEXT="case">
 <node CREATED="1409809752513" FOLDED="true" ID="ID_489238066" MODIFIED="1414290718111" TEXT="&#x5224;&#x65ad;&#x6587;&#x4ef6;&#x662f;&#x5426;&#x5b58;&#x5728;&#xff0c;&#x4e0d;&#x5b58;&#x5728;&#x521b;&#x5efa;&#x6587;&#x4ef6;">
@@ -3321,13 +3321,13 @@
 <node CREATED="1414940459372" ID="ID_569357304" MODIFIED="1414940470669" TEXT="hibernate &#x89c6;&#x56fe;"/>
 </node>
 </node>
-<node CREATED="1409794623862" FOLDED="true" ID="ID_1087306090" MODIFIED="1415613448189" TEXT="System">
+<node CREATED="1409794623862" ID="ID_1087306090" MODIFIED="1416037447363" TEXT="System">
 <node CREATED="1409799417550" ID="ID_490599901" MODIFIED="1409799421596" TEXT="&#x6210;&#x5458;">
 <node CREATED="1409799427244" ID="ID_581235999" MODIFIED="1409799432431" TEXT="in"/>
 <node CREATED="1409799432431" ID="ID_521544536" MODIFIED="1409799441191" TEXT="out"/>
 <node CREATED="1409799441191" ID="ID_905188670" MODIFIED="1409799441191" TEXT="err"/>
 </node>
-<node CREATED="1409799337414" FOLDED="true" ID="ID_760852857" MODIFIED="1409809638872" TEXT="getProperty">
+<node CREATED="1409799337414" ID="ID_760852857" MODIFIED="1416037448440" TEXT="getProperty">
 <node CREATED="1409799345073" ID="ID_76230872" MODIFIED="1409799345073" TEXT="java.version">
 <node CREATED="1409799345074" ID="ID_1398043762" MODIFIED="1409799345074" TEXT="Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x7248;&#x672c;"/>
 </node>
@@ -3349,8 +3349,35 @@
 <node CREATED="1409799345099" ID="ID_147845142" MODIFIED="1409799345099" TEXT="user.dir">
 <node CREATED="1409799345099" ID="ID_1521096757" MODIFIED="1409799345099" TEXT="&#x7528;&#x6237;&#x7684;&#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x76ee;&#x5f55;"/>
 </node>
-<node CREATED="1409800376073" FOLDED="true" ID="ID_232147219" MODIFIED="1409800391062" TEXT="&#x66f4;&#x4e3a;&#x8be6;&#x7ec6;">
-<node CREATED="1409800388085" ID="ID_960491984" MODIFIED="1409800389389" TEXT="java.version &#x9;Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x7248;&#x672c; java.vendor &#x9;Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x4f9b;&#x5e94;&#x5546; java.vendor.url &#x9;Java &#x4f9b;&#x5e94;&#x5546;&#x7684; URL java.home &#x9;Java &#x5b89;&#x88c5;&#x76ee;&#x5f55; java.vm.specification.version &#x9;Java &#x865a;&#x62df;&#x673a;&#x89c4;&#x8303;&#x7248;&#x672c; java.vm.specification.vendor &#x9;Java &#x865a;&#x62df;&#x673a;&#x89c4;&#x8303;&#x4f9b;&#x5e94;&#x5546; java.vm.specification.name &#x9;Java &#x865a;&#x62df;&#x673a;&#x89c4;&#x8303;&#x540d;&#x79f0; java.vm.version &#x9;Java &#x865a;&#x62df;&#x673a;&#x5b9e;&#x73b0;&#x7248;&#x672c; java.vm.vendor &#x9;Java &#x865a;&#x62df;&#x673a;&#x5b9e;&#x73b0;&#x4f9b;&#x5e94;&#x5546; java.vm.name &#x9;Java &#x865a;&#x62df;&#x673a;&#x5b9e;&#x73b0;&#x540d;&#x79f0; java.specification.version &#x9;Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x89c4;&#x8303;&#x7248;&#x672c; java.specification.vendor &#x9;Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x89c4;&#x8303;&#x4f9b;&#x5e94;&#x5546; java.specification.name &#x9;Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x89c4;&#x8303;&#x540d;&#x79f0; java.class.version &#x9;Java &#x7c7b;&#x683c;&#x5f0f;&#x7248;&#x672c;&#x53f7; java.class.path &#x9;Java &#x7c7b;&#x8def;&#x5f84; java.library.path &#x9;&#x52a0;&#x8f7d;&#x5e93;&#x65f6;&#x641c;&#x7d22;&#x7684;&#x8def;&#x5f84;&#x5217;&#x8868; java.io.tmpdir &#x9;&#x9ed8;&#x8ba4;&#x7684;&#x4e34;&#x65f6;&#x6587;&#x4ef6;&#x8def;&#x5f84; java.compiler &#x9;&#x8981;&#x4f7f;&#x7528;&#x7684; JIT &#x7f16;&#x8bd1;&#x5668;&#x7684;&#x540d;&#x79f0; java.ext.dirs &#x9;&#x4e00;&#x4e2a;&#x6216;&#x591a;&#x4e2a;&#x6269;&#x5c55;&#x76ee;&#x5f55;&#x7684;&#x8def;&#x5f84; os.name &#x9;&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x7684;&#x540d;&#x79f0; os.arch &#x9;&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x7684;&#x67b6;&#x6784; os.version &#x9;&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x7684;&#x7248;&#x672c; file.separator &#x9;&#x6587;&#x4ef6;&#x5206;&#x9694;&#x7b26;&#xff08;&#x5728; UNIX &#x7cfb;&#x7edf;&#x4e2d;&#x662f;&#x201c;/&#x201d;&#xff09; path.separator &#x9;&#x8def;&#x5f84;&#x5206;&#x9694;&#x7b26;&#xff08;&#x5728; UNIX &#x7cfb;&#x7edf;&#x4e2d;&#x662f;&#x201c;:&#x201d;&#xff09; line.separator &#x9;&#x884c;&#x5206;&#x9694;&#x7b26;&#xff08;&#x5728; UNIX &#x7cfb;&#x7edf;&#x4e2d;&#x662f;&#x201c;/n&#x201d;&#xff09; user.name &#x9;&#x7528;&#x6237;&#x7684;&#x8d26;&#x6237;&#x540d;&#x79f0; user.home &#x9;&#x7528;&#x6237;&#x7684;&#x4e3b;&#x76ee;&#x5f55; user.dir &#x9;&#x7528;&#x6237;&#x7684;&#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x76ee;&#x5f55;"/>
+<node CREATED="1409800376073" FOLDED="true" ID="ID_232147219" MODIFIED="1416037728238" TEXT="&#x66f4;&#x4e3a;&#x8be6;&#x7ec6;">
+<node CREATED="1409800388085" ID="ID_960491984" MODIFIED="1416037593972" TEXT="java.version &#x9;Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x7248;&#x672c;"/>
+<node CREATED="1416037593972" ID="ID_491797075" MODIFIED="1416037598844" TEXT=" java.vendor &#x9;Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x4f9b;&#x5e94;&#x5546;"/>
+<node CREATED="1416037598844" ID="ID_72711412" MODIFIED="1416037608748" TEXT=" java.vendor.url &#x9;Java &#x4f9b;&#x5e94;&#x5546;&#x7684; URL"/>
+<node CREATED="1416037608749" ID="ID_650894248" MODIFIED="1416037614244" TEXT=" java.home &#x9;Java &#x5b89;&#x88c5;&#x76ee;&#x5f55;"/>
+<node CREATED="1416037614244" ID="ID_1976656107" MODIFIED="1416037618932" TEXT=" java.vm.specification.version &#x9;Java &#x865a;&#x62df;&#x673a;&#x89c4;&#x8303;&#x7248;&#x672c;"/>
+<node CREATED="1416037618932" ID="ID_1738927697" MODIFIED="1416037622300" TEXT=" java.vm.specification.vendor &#x9;Java &#x865a;&#x62df;&#x673a;&#x89c4;&#x8303;&#x4f9b;&#x5e94;&#x5546;"/>
+<node CREATED="1416037622300" ID="ID_930847197" MODIFIED="1416037622301" TEXT=" java.vm.specification.name &#x9;Java &#x865a;&#x62df;&#x673a;&#x89c4;&#x8303;&#x540d;&#x79f0;"/>
+<node CREATED="1416037583340" ID="ID_1313686006" MODIFIED="1416037626100" TEXT=" java.vm.version &#x9;Java &#x865a;&#x62df;&#x673a;&#x5b9e;&#x73b0;&#x7248;&#x672c;"/>
+<node CREATED="1416037626100" ID="ID_1176071165" MODIFIED="1416037629356" TEXT=" java.vm.vendor &#x9;Java &#x865a;&#x62df;&#x673a;&#x5b9e;&#x73b0;&#x4f9b;&#x5e94;&#x5546;"/>
+<node CREATED="1416037629356" ID="ID_1450369433" MODIFIED="1416037631900" TEXT=" java.vm.name &#x9;Java &#x865a;&#x62df;&#x673a;&#x5b9e;&#x73b0;&#x540d;&#x79f0;"/>
+<node CREATED="1416037631900" ID="ID_1163089473" MODIFIED="1416037636220" TEXT=" java.specification.version &#x9;Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x89c4;&#x8303;&#x7248;&#x672c;"/>
+<node CREATED="1416037636220" ID="ID_1680739567" MODIFIED="1416037642548" TEXT=" java.specification.vendor &#x9;Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x89c4;&#x8303;&#x4f9b;&#x5e94;&#x5546;"/>
+<node CREATED="1416037642548" ID="ID_287674694" MODIFIED="1416037645244" TEXT=" java.specification.name &#x9;Java &#x8fd0;&#x884c;&#x65f6;&#x73af;&#x5883;&#x89c4;&#x8303;&#x540d;&#x79f0;"/>
+<node CREATED="1416037645244" ID="ID_319980350" MODIFIED="1416037647844" TEXT=" java.class.version &#x9;Java &#x7c7b;&#x683c;&#x5f0f;&#x7248;&#x672c;&#x53f7;"/>
+<node CREATED="1416037647844" ID="ID_196590106" MODIFIED="1416037647845" TEXT=" java.class.path &#x9;Java &#x7c7b;&#x8def;&#x5f84;"/>
+<node CREATED="1416037639169" ID="ID_292703729" MODIFIED="1416037651036" TEXT=" java.library.path &#x9;&#x52a0;&#x8f7d;&#x5e93;&#x65f6;&#x641c;&#x7d22;&#x7684;&#x8def;&#x5f84;&#x5217;&#x8868;"/>
+<node CREATED="1416037651036" ID="ID_106784251" MODIFIED="1416037655428" TEXT=" java.io.tmpdir &#x9;&#x9ed8;&#x8ba4;&#x7684;&#x4e34;&#x65f6;&#x6587;&#x4ef6;&#x8def;&#x5f84;"/>
+<node CREATED="1416037655428" ID="ID_726429918" MODIFIED="1416037658932" TEXT=" java.compiler &#x9;&#x8981;&#x4f7f;&#x7528;&#x7684; JIT &#x7f16;&#x8bd1;&#x5668;&#x7684;&#x540d;&#x79f0;"/>
+<node CREATED="1416037658932" ID="ID_731046977" MODIFIED="1416037663668" TEXT=" java.ext.dirs &#x9;&#x4e00;&#x4e2a;&#x6216;&#x591a;&#x4e2a;&#x6269;&#x5c55;&#x76ee;&#x5f55;&#x7684;&#x8def;&#x5f84;"/>
+<node CREATED="1416037663668" ID="ID_189198716" MODIFIED="1416037673220" TEXT=" os.name &#x9;&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x7684;&#x540d;&#x79f0;"/>
+<node CREATED="1416037673220" ID="ID_699615593" MODIFIED="1416037677027" TEXT=" os.arch &#x9;&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x7684;&#x67b6;&#x6784;"/>
+<node CREATED="1416037677028" ID="ID_158639369" MODIFIED="1416037681011" TEXT=" os.version &#x9;&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x7684;&#x7248;&#x672c;"/>
+<node CREATED="1416037681012" ID="ID_336020268" MODIFIED="1416037685675" TEXT=" file.separator &#x9;&#x6587;&#x4ef6;&#x5206;&#x9694;&#x7b26;&#xff08;&#x5728; UNIX &#x7cfb;&#x7edf;&#x4e2d;&#x662f;&#x201c;/&#x201d;&#xff09;"/>
+<node CREATED="1416037685676" ID="ID_960365905" MODIFIED="1416037692891" TEXT=" path.separator &#x9;&#x8def;&#x5f84;&#x5206;&#x9694;&#x7b26;&#xff08;&#x5728; UNIX &#x7cfb;&#x7edf;&#x4e2d;&#x662f;&#x201c;:&#x201d;&#xff09;"/>
+<node CREATED="1416037692892" ID="ID_1840472281" MODIFIED="1416037698667" TEXT=" line.separator &#x9;&#x884c;&#x5206;&#x9694;&#x7b26;&#xff08;&#x5728; UNIX &#x7cfb;&#x7edf;&#x4e2d;&#x662f;&#x201c;/n&#x201d;&#xff09;"/>
+<node CREATED="1416037698668" ID="ID_1702172978" MODIFIED="1416037703339" TEXT=" user.name &#x9;&#x7528;&#x6237;&#x7684;&#x8d26;&#x6237;&#x540d;&#x79f0;"/>
+<node CREATED="1416037703340" ID="ID_464870691" MODIFIED="1416037719923" TEXT=" user.home &#x9;&#x7528;&#x6237;&#x7684;&#x4e3b;&#x76ee;&#x5f55;"/>
+<node CREATED="1416037719924" ID="ID_211771560" MODIFIED="1416037719924" TEXT=" user.dir &#x9;&#x7528;&#x6237;&#x7684;&#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x76ee;&#x5f55;"/>
 </node>
 </node>
 <node CREATED="1409799479141" ID="ID_713188012" MODIFIED="1409799479141" TEXT="arraycopy"/>
@@ -3420,7 +3447,7 @@
 </node>
 <node CREATED="1413178967771" ID="ID_311648979" MODIFIED="1413178969549" TEXT="http://www.blogjava.net/xylz/archive/2010/07/08/325587.html"/>
 </node>
-<node CREATED="1406436368548" FOLDED="true" ID="ID_657160362" MODIFIED="1415798103447" TEXT="&#x7ecf;&#x9a8c;">
+<node CREATED="1406436368548" FOLDED="true" ID="ID_657160362" MODIFIED="1416037191137" TEXT="&#x7ecf;&#x9a8c;">
 <node CREATED="1406436374581" ID="ID_1627805620" MODIFIED="1406436383964" TEXT="javac -d . *.java"/>
 <node CREATED="1406437140704" ID="ID_1348017837" MODIFIED="1406437154601" TEXT="java &#x547d;&#x4ee4;&#x53c2;&#x6570;"/>
 <node CREATED="1390802731351" FOLDED="true" ID="ID_673680164" MODIFIED="1410421425083" TEXT="java vs. python">
