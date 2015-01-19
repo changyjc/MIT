@@ -7273,9 +7273,9 @@
 </node>
 <node CREATED="1414480914958" ID="ID_1838783876" MODIFIED="1414481412193" TEXT="&#x8d22;&#x52a1;&#x5ba1;&#x8ba1;"/>
 </node>
-<node CREATED="1407208280903" ID="ID_1364751861" MODIFIED="1421401277594" POSITION="right" TEXT="&#x89e3;&#x51b3;&#x65b9;&#x6848;">
+<node CREATED="1407208280903" ID="ID_1364751861" MODIFIED="1421655408372" POSITION="right" TEXT="&#x89e3;&#x51b3;&#x65b9;&#x6848;">
 <node CREATED="1405906028234" ID="ID_106122721" MODIFIED="1405906032105" TEXT="&#x5206;&#x5e03;&#x5f0f;"/>
-<node CREATED="1406178651993" FOLDED="true" ID="ID_316630170" MODIFIED="1421401282926" TEXT="&#x5927;&#x6570;&#x636e;">
+<node CREATED="1406178651993" ID="ID_316630170" MODIFIED="1421655410819" TEXT="&#x5927;&#x6570;&#x636e;">
 <node CREATED="1413359362663" FOLDED="true" ID="ID_431455222" MODIFIED="1421396742148" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x670d;&#x52a1;">
 <node CREATED="1403507591357" ID="ID_1943673110" MODIFIED="1421307351090" TEXT="hadoop">
 <node CREATED="1405462850431" ID="ID_169441191" MODIFIED="1405691201669" TEXT="&#x6982;&#x8ff0;">
@@ -8117,7 +8117,6 @@
 <node CREATED="1421396819986" ID="ID_1495496672" MODIFIED="1421396827664" TEXT="Variety&#xff08;&#x591a;&#x6837;&#xff09;"/>
 <node CREATED="1421396827665" ID="ID_1412081684" MODIFIED="1421396827665" TEXT="Value&#xff08;&#x4ef7;&#x503c;&#xff09;"/>
 </node>
-<node CREATED="1421396805551" ID="ID_1041119050" MODIFIED="1421396805551" TEXT=""/>
 </node>
 <node CREATED="1421396851295" ID="ID_1683975587" MODIFIED="1421396867064" TEXT="&#x89e3;&#x51b3;&#x65b9;&#x6848;">
 <node CREATED="1421396867295" ID="ID_790260451" MODIFIED="1421396873500" TEXT="&#x91cf;">
@@ -8132,6 +8131,15 @@
 <node CREATED="1421396994422" ID="ID_1786177192" MODIFIED="1421397000823" TEXT="&#x65f6;&#x6548;&#x6027;"/>
 </node>
 </node>
+</node>
+</node>
+<node CREATED="1421655432804" ID="ID_431668879" MODIFIED="1421655440169" TEXT="&#x7269;&#x8054;&#x7f51;">
+<node CREATED="1421655440171" FOLDED="true" ID="ID_875623706" MODIFIED="1421655873090" TEXT="&#x5173;&#x952e;&#x6280;&#x672f;">
+<node CREATED="1421655447363" ID="ID_220997077" MODIFIED="1421655473470" TEXT="&#x4fe1;&#x606f;&#x611f;&#x77e5;&#x6280;&#x672f;"/>
+<node CREATED="1421655473699" ID="ID_117548917" MODIFIED="1421655483012" TEXT="&#x4fe1;&#x606f;&#x4f20;&#x8f93;&#x6280;&#x672f;"/>
+<node CREATED="1421655483251" ID="ID_1929446776" MODIFIED="1421655489092" TEXT="&#x4fe1;&#x606f;&#x5b89;&#x5168;&#x6280;&#x672f;"/>
+<node CREATED="1421655490114" ID="ID_222891061" MODIFIED="1421655498317" TEXT="&#x4fe1;&#x606f;&#x5904;&#x7406;&#x6280;&#x672f;"/>
+<node CREATED="1421655870271" ID="ID_731293242" MODIFIED="1421655871752" TEXT="http://news.xinhuanet.com/fortune/2012-02/14/c_111523632.htm"/>
 </node>
 </node>
 <node CREATED="1412581487891" FOLDED="true" ID="ID_1245964341" MODIFIED="1421307556616" TEXT="&#x865a;&#x62df;&#x5316;">
@@ -8848,8 +8856,8 @@
 <node CREATED="1412581018902" ID="ID_19261508" MODIFIED="1412581033447" TEXT="???&#x56fd;&#x5916;&#x6587;&#x732e;"/>
 </node>
 <node CREATED="1413359532951" ID="ID_1987354743" MODIFIED="1413359538540" TEXT="&#x5e76;&#x884c;&#x8ba1;&#x7b97;"/>
-<node CREATED="1413359420024" FOLDED="true" ID="ID_1298480805" MODIFIED="1421307570240" TEXT="&#x6570;&#x636e;&#x7406;&#x89e3;">
-<node CREATED="1403509775584" FOLDED="true" ID="ID_1783698802" MODIFIED="1421307568424" TEXT="mahout">
+<node CREATED="1413359420024" ID="ID_1298480805" MODIFIED="1421655890539" TEXT="&#x6570;&#x636e;&#x7406;&#x89e3;">
+<node CREATED="1403509775584" FOLDED="true" ID="ID_1783698802" MODIFIED="1421655893146" TEXT="mahout">
 <node CREATED="1403510953893" ID="ID_724244302" MODIFIED="1403510959052" TEXT="&#x53d1;&#x97f3;">
 <node CREATED="1403510963797" ID="ID_1838538944" MODIFIED="1403510966508" TEXT="trout"/>
 </node>
@@ -8870,10 +8878,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1412905959309" FOLDED="true" ID="ID_794980337" MODIFIED="1421307569384" TEXT="&#x884c;&#x4e1a;&#x5e94;&#x7528;">
+<node CREATED="1412905959309" FOLDED="true" ID="ID_794980337" MODIFIED="1421655894562" TEXT="&#x884c;&#x4e1a;&#x5e94;&#x7528;">
 <node CREATED="1412905967626" ID="ID_1254951306" MODIFIED="1412905980400" TEXT="&#x536b;&#x751f;"/>
 </node>
-<node CREATED="1405906808530" FOLDED="true" ID="ID_1880169951" MODIFIED="1421307333482" TEXT="&#x6570;&#x636e;&#x6316;&#x6398;">
+<node CREATED="1405906808530" ID="ID_1880169951" MODIFIED="1421655895438" TEXT="&#x6570;&#x636e;&#x6316;&#x6398;">
 <node CREATED="1406178540607" ID="ID_522402647" MODIFIED="1406178552118" TEXT="Cross-Industry Standard Process for Data Mining&#x8de8;&#x884c;&#x4e1a;&#x6570;&#x636e;&#x6316;&#x6398;&#x6807;&#x51c6;&#x8fc7;&#x7a0b;(CRISP)">
 <node CREATED="1406178583509" ID="ID_1114675273" MODIFIED="1406178583509" TEXT="&#x4efb;&#x52a1;&#x96c6;&#x5408;">
 <node CREATED="1406178598024" ID="ID_1001185923" MODIFIED="1406178598024" TEXT="&#x9636;&#x6bb5;(phase )"/>
@@ -8921,6 +8929,14 @@
 <node CREATED="1411224160854" ID="ID_1934256401" MODIFIED="1411224160854" TEXT="&#x6570;&#x636e;&#x6316;&#x6398;&#xff1a;&#x6bd4;&#x8f83;"/>
 <node CREATED="1411224160856" ID="ID_1244748152" MODIFIED="1411224160856" TEXT="&#x6539;&#x53d8;&#x4ee5;&#x5173;&#x952e;&#x8bcd;&#x4f5c;&#x4e3a;&#x94fe;&#x63a5;&#x70b9;&#x68c0;&#x7d22;&#x65b9;&#x5f0f;&#xff0c;&#x5e94;&#x8fdb;&#x884c;&#x7ed3;&#x6784;&#x68c0;&#x7d22;&#x3002;"/>
 <node CREATED="1411224160862" ID="ID_270967766" MODIFIED="1411224160862" TEXT="&#x7ed3;&#x6784;&#x5c31;&#x662f;&#x529f;&#x80fd;"/>
+</node>
+</node>
+<node CREATED="1421655904983" ID="ID_857061296" MODIFIED="1421655911525" TEXT="&#x56db;&#x79cd;&#x8303;&#x5f0f;">
+<node CREATED="1421655911526" ID="ID_101786478" MODIFIED="1421655917740" TEXT="&#x5b9e;&#x9a8c;"/>
+<node CREATED="1421655917943" ID="ID_169153374" MODIFIED="1421655922122" TEXT="&#x7406;&#x8bba;"/>
+<node CREATED="1421655922359" ID="ID_108419450" MODIFIED="1421655926376" TEXT="&#x8ba1;&#x7b97;"/>
+<node CREATED="1421655926606" ID="ID_1161947531" MODIFIED="1421655932136" TEXT="&#x6570;&#x636e;&#x63a2;&#x7d22;">
+<node CREATED="1421656095477" ID="ID_488603047" MODIFIED="1421656446827" TEXT="Tony H.Steward T.Kristin T. &#x7b2c;&#x56db;&#x8303;&#x5f0f;&#xff1b;&#x6570;&#x636e;&#x5bc6;&#x96c6;&#x578b;&#x79d1;&#x5b66;&#x53d1;&#x73b0;[M]"/>
 </node>
 </node>
 </node>
@@ -9042,7 +9058,7 @@
 </node>
 </node>
 <node CREATED="1420643799650" ID="ID_566982720" MODIFIED="1420643804969" POSITION="right" TEXT="&#x6570;&#x636e;&#x79d1;&#x5b66;"/>
-<node CREATED="1406180675309" FOLDED="true" ID="ID_899276002" MODIFIED="1421395459294" POSITION="right" TEXT="&#x6846;&#x67b6;">
+<node CREATED="1406180675309" FOLDED="true" ID="ID_899276002" MODIFIED="1421655409807" POSITION="right" TEXT="&#x6846;&#x67b6;">
 <node CREATED="1406180682716" FOLDED="true" ID="ID_930216868" MODIFIED="1418076187989" TEXT="RPC">
 <node CREATED="1406180705804" ID="ID_688771872" MODIFIED="1406180707325" TEXT="  RPC(Remote Procedure Call protoco) &#x662f;&#x5206;&#x5e03;&#x5f0f;&#x662f;&#x7cfb;&#x7edf;&#x7684;&#x57fa;&#x7840;&#xff0c;&#x6bd4;&#x5982;Hadoop&#xff0c;Hbase&#xff0c;&#x7b49;&#xff0c;&#x4ed6;&#x4eec;&#x7684;&#x8282;&#x70b9;&#x4e4b;&#x95f4;&#x901a;&#x4fe1;&#x90fd;&#x662f;&#x901a;&#x8fc7;RPC&#x8c03;&#x7528;&#xff0c;&#x5373;&#x5e95;&#x5c42;&#x662f;socket tcp&#x534f;&#x8bae;&#xff0c;&#x901a;&#x8fc7;RPC&#xff0c;&#x5e94;&#x7528;&#x5c42;&#x53ef;&#x4ee5;&#x4e0d;&#x7ba1;&#x5e95;&#x5c42;&#x5b9e;&#x73b0;&#xff0c;&#x5728;&#x5ba2;&#x6237;&#x7aef;&#x901a;&#x8fc7;&#x8c03;&#x7528;&#x672c;&#x5730;&#x63a5;&#x53e3;&#xff0c;&#x5c31;&#x76f8;&#x5f53;&#x4e8e;&#x8c03;&#x7528;&#x4e86;&#x8fdc;&#x7a0b;&#x7684;&#x670d;&#x52a1;(&#x8fdc;&#x7a0b;&#x7684;&#x63a5;&#x53e3;&#x662f;&#x4e00;&#x4e2a;&#x670d;&#x52a1;)&#x3002;&#x4e00;&#x4e2a;&#x7b80;&#x5355;&#x7684;&#x8fc7;&#x7a0b;&#x5982;&#x4e0b;:  1 &#x5ba2;&#x6237;&#x7aef;&#x7aef;&#x53d1;&#x8d77;&#x8c03;&#x7528;&#xff0c;&#x628a;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#x653e;&#x5165;&#x53d1;&#x9001;&#x961f;&#x5217;&#xff0c;Block&#x4f4f;&#x5f53;&#x524d;&#x7ebf;&#x7a0b;&#xff0c;&#x4fdd;&#x5b58;&#x4e0a;&#x4e0b;&#x6587;&#x3002;  2 RPC&#x6846;&#x67b6;&#x4ece;&#x961f;&#x5217;&#x53d6;&#x51fa;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#xff0c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x5230;&#x670d;&#x52a1;&#x7aef;&#x3002;  3 &#x670d;&#x52a1;&#x7aef;&#x63a5;&#x6536;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x8c03;&#x7528;&#x5bf9;&#x4e8e;&#x7684;&#x65b9;&#x6cd5;&#x3002;&#x628a;&#x8fd4;&#x56de;&#x7ed3;&#x679c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x7ed9;&#x5ba2;&#x6237;&#x7aef;&#x3002;  4 &#x5ba2;&#x6237;&#x7aef;&#x63a5;&#x6536;&#x5230;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x6839;&#x636e;&#x8bf7;&#x6c42;&#x552f;&#x4e00;&#x6807;&#x8bc6;&#xff0c;&#x627e;&#x5230;Block&#x4f4f;&#x7ebf;&#x7a0b;&#x7684;&#x4e0a;&#x4e0b;&#x6587;&#xff0c;&#x91ca;&#x653e;&#x8be5;&#x7ebf;&#x7a0b;&#x3002;  5 &#x5ba2;&#x6237;&#x7aef;&#x62ff;&#x5230;&#x7ed3;&#x679c;&#x3002;  Bison &#x662f;&#x4e00;&#x4e2a;JAVA &#x7a0b;&#x95f4;&#x7684;&#x901a;&#x4fe1;&#x6846;&#x67b6;&#xff0c;&#x57fa;&#x4e8e;apache mina &#x5b9e;&#x73b0;&#xff0c;&#x5bf9;mina&#x8fdb;&#x884c;&#x4e86;byteBuffer &#x7f13;&#x51b2;&#x533a;&#x91cd;&#x7528;&#x4ee5;&#x53ca;&#x534a;&#x5305;&#x51fa;&#x5904;&#x65f6;&#x51cf;&#x5c11;&#x62f7;&#x8d1d;&#x3002;  &#x5ba2;&#x6237;&#x7aef;(bison-client) &#x529f;&#x80fd;&#x70b9;  1 &#x4e1a;&#x52a1;&#x5206;&#x7ec4;&#x3002;  2 &#x652f;&#x6301;&#x5206;&#x7ec4;&#x5185;&#x8d1f;&#x8f7d;&#x5747;&#x8861;&#x3002;  3 &#x652f;&#x6301;&#x6a2a;&#x5411;&#x6269;&#x5c55;&#x3002;  &#x670d;&#x52a1;&#x7aef;(bison)  1 &#x652f;&#x6301;&#x70ed;&#x90e8;&#x7f72;  2 &#x652f;&#x6301;&#x9ad8;&#x7528;&#x6027;&#xff1a;&#x9ad8;&#x53ef;&#x7528;&#x7684;&#x4e00;&#x4e2a;&#x57fa;&#x672c;&#x539f;&#x5219;&#xff0c;&#x53ef;&#x4ee5;&#x63a5;&#x53d7;&#x5feb;&#x901f;&#x7684;&#x5931;&#x8d25;&#xff0c;&#x4f46;&#x4e0d;&#x80fd;&#x63a5;&#x53d7;&#x957f;&#x65f6;&#x95f4;&#x7684;&#x7b49;&#x5f85;&#x3002;  3 &#x8d44;&#x6e90;&#x7edf;&#x4e00;&#x7ba1;&#x7406;&#x3002;&#x6570;&#x636e;&#x5e93;&#x8fde;&#x63a5;&#x6c60;&#xff0c;&#x5de5;&#x4f5c;&#x7ebf;&#x7a0b;,&#x7b49;&#x3002;  4 &#x652f;&#x6301;&#x767d;&#x540d;&#x5355;&#xff0c;&#x9ed1;&#x540d;&#x5355;&#x3002;   Githup&#x5730;&#x5740;:https://github.com/gavenpeng/Bison  &#x5206;&#x4eab;&#x7684;&#x76ee;&#x7684;  bison &#x7b80;&#x5355;&#x6613;&#x7528;&#x7684;RPC&#x6846;&#x67b6;&#xff0c;&#x5bf9;&#x5916;&#x5c31;&#x4f9d;&#x8d56;mina&#xff0c;&#x6ca1;&#x6709;&#x592a;&#x591a;&#x7684;&#x914d;&#x7f6e;&#xff0c;&#x5f88;&#x5bb9;&#x6613;&#x90e8;&#x7f72;&#xff0c;&#x5206;&#x4eab;&#x5728;&#x8fd9;&#x91cc;&#x5b8c;&#x5168;&#x662f;&#x4e3a;&#x4e86;&#x76f8;&#x4e92;&#x5b66;&#x4e60;&#x3002;&#x5982;&#x679c;&#x4f60;&#x6709;&#x4ec0;&#x4e48;&#x95ee;&#x9898;&#xff0c;&#x53ef;&#x4ee5;&#x5728;&#x65b0;&#x6d6a;&#x5fae;&#x535a;@&#x6df1;&#x6d77;&#x4e4b;&#x501a;&#x5929;&#x5251;"/>
 </node>
@@ -10081,7 +10097,7 @@
 </node>
 <node CREATED="1411227711142" ID="ID_1166909773" MODIFIED="1411227713165" TEXT="&#x57df;&#x6a21;&#x578b;"/>
 </node>
-<node CREATED="1405906952216" FOLDED="true" ID="ID_1352245016" MODIFIED="1421396735379" POSITION="right" TEXT="&#x53c2;&#x8003;&#x6587;&#x732e;">
+<node CREATED="1405906952216" FOLDED="true" ID="ID_1352245016" MODIFIED="1421655406336" POSITION="right" TEXT="&#x53c2;&#x8003;&#x6587;&#x732e;">
 <node CREATED="1408328414814" ID="ID_1676529818" LINK="/home/mm/&#x4e0b;&#x8f7d;/&#x7cfb;&#x7edf;&#x67b6;&#x6784;&#x5e08;&#x8bba;&#x6587;&#x8303;&#x6587;50&#x7bc7;.pdf" MODIFIED="1408328444460" TEXT="&#x7cfb;&#x7edf;&#x67b6;&#x6784;&#x5e08;&#x8bba;&#x6587;&#x8303;&#x6587;50&#x7bc7;.pdf"/>
 <node CREATED="1408328414814" ID="ID_1820043083" LINK="/home/mm/&#x4e0b;&#x8f7d;/&#x6d45;&#x8c08;&#x8f6f;&#x4ef6;&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;&#x4e0e;&#x4f53;&#x7cfb;&#x7ed3;&#x6784;&#x548c;&#x91cd;&#x7528;&#x6280;&#x672f;.pdf" MODIFIED="1408328414814" TEXT="&#x6d45;&#x8c08;&#x8f6f;&#x4ef6;&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;&#x4e0e;&#x4f53;&#x7cfb;&#x7ed3;&#x6784;&#x548c;&#x91cd;&#x7528;&#x6280;&#x672f;.pdf"/>
 <node CREATED="1408328414814" ID="ID_829953505" LINK="/home/mm/&#x4e0b;&#x8f7d;/Java&#x591a;&#x6001;&#x6027;&#x53ca;&#x5176;&#x5e94;&#x7528;&#x7814;&#x7a76;.pdf" MODIFIED="1408328414814" TEXT="Java&#x591a;&#x6001;&#x6027;&#x53ca;&#x5176;&#x5e94;&#x7528;&#x7814;&#x7a76;.pdf"/>
@@ -10111,7 +10127,7 @@
 <node CREATED="1419227609917" ID="ID_1442149429" MODIFIED="1419227613727" TEXT="http://nb.mit.edu/f/16613"/>
 </node>
 </node>
-<node CREATED="1408518635153" FOLDED="true" ID="ID_1098179135" MODIFIED="1421395430620" POSITION="right" TEXT="&#x5f85;&#x5b8c;&#x6210;">
+<node CREATED="1408518635153" FOLDED="true" ID="ID_1098179135" MODIFIED="1421655385608" POSITION="right" TEXT="&#x5f85;&#x5b8c;&#x6210;">
 <node CREATED="1408518644489" ID="ID_1620590367" MODIFIED="1408518648646" TEXT="&#x5927;&#x9879;&#x76ee;&#x7ba1;&#x7406;"/>
 <node CREATED="1408518648937" ID="ID_1315576316" MODIFIED="1408518679347" TEXT="&#x516c;&#x5171;&#x536b;&#x751f;&#x6570;&#x636e;&#x96c6;&#x7684;&#x89c4;&#x8303;&#x5316;&#x5206;&#x6790;"/>
 <node CREATED="1408518721953" ID="ID_646941143" MODIFIED="1408518737659" TEXT="&#x591a;&#x6001;&#x601d;&#x60f3;&#x5728;&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;&#x4e2d;&#x7684;&#x53d1;&#x5c55;"/>
