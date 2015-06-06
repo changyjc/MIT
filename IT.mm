@@ -7741,7 +7741,7 @@
 <node CREATED="1414480914958" ID="ID_1838783876" MODIFIED="1414481412193" TEXT="&#x8d22;&#x52a1;&#x5ba1;&#x8ba1;"/>
 <node CREATED="1410309979438" ID="ID_765149807" MODIFIED="1410309991553" TEXT="&#x4fe1;&#x606f;&#x8d44;&#x6e90;&#x89c4;&#x5212;"/>
 </node>
-<node CREATED="1407208280903" FOLDED="true" ID="ID_1364751861" MODIFIED="1433492867126" POSITION="right" TEXT="&#x89e3;&#x51b3;&#x65b9;&#x6848;">
+<node CREATED="1407208280903" FOLDED="true" ID="ID_1364751861" MODIFIED="1433513045028" POSITION="right" TEXT="&#x89e3;&#x51b3;&#x65b9;&#x6848;">
 <node CREATED="1405906028234" ID="ID_106122721" MODIFIED="1405906032105" TEXT="&#x5206;&#x5e03;&#x5f0f;"/>
 <node CREATED="1406178651993" FOLDED="true" ID="ID_316630170" MODIFIED="1433318526410" TEXT="&#x5927;&#x6570;&#x636e;">
 <node CREATED="1413359362663" ID="ID_431455222" MODIFIED="1433318110335" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x670d;&#x52a1;">
@@ -9171,14 +9171,14 @@
 <node CREATED="1421655870271" ID="ID_731293242" MODIFIED="1421655871752" TEXT="http://news.xinhuanet.com/fortune/2012-02/14/c_111523632.htm"/>
 </node>
 </node>
-<node CREATED="1412581487891" FOLDED="true" ID="ID_1245964341" MODIFIED="1432697740615" TEXT="&#x865a;&#x62df;&#x5316;">
+<node CREATED="1412581487891" FOLDED="true" ID="ID_1245964341" MODIFIED="1433513039659" TEXT="&#x865a;&#x62df;&#x5316;">
 <node CREATED="1412581493178" ID="ID_1857487884" MODIFIED="1412581496656" TEXT="Docker"/>
 <node CREATED="1412585765973" ID="ID_370580370" MODIFIED="1412585769657" TEXT="Sandbox VM"/>
-<node CREATED="1419576997380" ID="ID_941924105" MODIFIED="1425432016244" TEXT="Vbox">
+<node CREATED="1419576997380" FOLDED="true" ID="ID_941924105" MODIFIED="1433513038875" TEXT="Vbox">
 <node CREATED="1419577020346" ID="ID_988245786" MODIFIED="1419912580686" TEXT="&#x4fee;&#x6539;uuidx">
 <node CREATED="1419577026667" ID="ID_407071108" MODIFIED="1419577026667" TEXT="VBoxManage internalcommands sethduuid xp.vdi"/>
 </node>
-<node CREATED="1419577828900" FOLDED="true" ID="ID_1705825064" MODIFIED="1432196726411" TEXT="&#x786c;&#x76d8;&#x865a;&#x62df;&#x5316;">
+<node CREATED="1419577828900" FOLDED="true" ID="ID_1705825064" MODIFIED="1433513037542" TEXT="&#x786c;&#x76d8;&#x865a;&#x62df;&#x5316;">
 <node CREATED="1419577867106" ID="ID_1039152851" MODIFIED="1419577867106" TEXT="&#x6ce8;&#x610f;&#xff1a;"/>
 <node CREATED="1419577867106" ID="ID_1510769796" MODIFIED="1419577867106" TEXT="1.root&#x6743;&#x9650;&#x8bbf;&#x95ee;/dev/#"/>
 <node CREATED="1419577867107" ID="ID_1274101643" MODIFIED="1419577867107" TEXT="2.&#x521b;&#x5efa;&#x7684;VMDK&#x4e3a;/dev/sda,/dev/sdb&#xff0c;&#x800c;&#x975e;&#x5206;&#x533a;/dev/sda1&#x7b49;&#x7b49;"/>
@@ -10057,8 +10057,8 @@
 <node CREATED="1418042545769" ID="ID_1420839815" MODIFIED="1418042547866" TEXT="SDN"/>
 </node>
 </node>
-<node CREATED="1420643799650" FOLDED="true" ID="ID_566982720" MODIFIED="1432792895205" POSITION="right" TEXT="&#x6570;&#x636e;&#x79d1;&#x5b66;">
-<node CREATED="1425353958457" FOLDED="true" ID="ID_764334702" MODIFIED="1425355402740" TEXT="&#x7edf;&#x8ba1;&#x5206;&#x6790;">
+<node CREATED="1420643799650" FOLDED="true" ID="ID_566982720" MODIFIED="1433513046323" POSITION="right" TEXT="&#x6570;&#x636e;&#x79d1;&#x5b66;">
+<node CREATED="1425353958457" FOLDED="true" ID="ID_764334702" MODIFIED="1433513033060" TEXT="&#x7edf;&#x8ba1;&#x5206;&#x6790;">
 <node CREATED="1425353965919" ID="ID_1498289113" MODIFIED="1425354094143" TEXT="&#x5dee;&#x5f02;&#x5206;&#x6790;">
 <node CREATED="1425354096941" ID="ID_1453506116" MODIFIED="1425354131271" TEXT="&#x81ea;&#x53d8;&#x91cf;&#x53d6;&#x4e0d;&#x540c;&#x503c;"/>
 <node CREATED="1425354131485" ID="ID_1085635478" MODIFIED="1425354140463" TEXT="&#x56e0;&#x53d8;&#x91cf;&#x5dee;&#x5f02;"/>
@@ -10249,7 +10249,7 @@
 <node CREATED="1422926721108" ID="ID_506881748" MODIFIED="1422926721108" TEXT="rarbg"/>
 </node>
 </node>
-<node CREATED="1406180675309" FOLDED="true" ID="ID_899276002" MODIFIED="1433496018671" POSITION="right" TEXT="&#x6846;&#x67b6;">
+<node CREATED="1406180675309" ID="ID_899276002" MODIFIED="1433513047330" POSITION="right" TEXT="&#x6846;&#x67b6;">
 <node CREATED="1406180682716" FOLDED="true" ID="ID_930216868" MODIFIED="1433492779335" TEXT="RPC">
 <node CREATED="1406180705804" ID="ID_688771872" MODIFIED="1406180707325" TEXT="  RPC(Remote Procedure Call protoco) &#x662f;&#x5206;&#x5e03;&#x5f0f;&#x662f;&#x7cfb;&#x7edf;&#x7684;&#x57fa;&#x7840;&#xff0c;&#x6bd4;&#x5982;Hadoop&#xff0c;Hbase&#xff0c;&#x7b49;&#xff0c;&#x4ed6;&#x4eec;&#x7684;&#x8282;&#x70b9;&#x4e4b;&#x95f4;&#x901a;&#x4fe1;&#x90fd;&#x662f;&#x901a;&#x8fc7;RPC&#x8c03;&#x7528;&#xff0c;&#x5373;&#x5e95;&#x5c42;&#x662f;socket tcp&#x534f;&#x8bae;&#xff0c;&#x901a;&#x8fc7;RPC&#xff0c;&#x5e94;&#x7528;&#x5c42;&#x53ef;&#x4ee5;&#x4e0d;&#x7ba1;&#x5e95;&#x5c42;&#x5b9e;&#x73b0;&#xff0c;&#x5728;&#x5ba2;&#x6237;&#x7aef;&#x901a;&#x8fc7;&#x8c03;&#x7528;&#x672c;&#x5730;&#x63a5;&#x53e3;&#xff0c;&#x5c31;&#x76f8;&#x5f53;&#x4e8e;&#x8c03;&#x7528;&#x4e86;&#x8fdc;&#x7a0b;&#x7684;&#x670d;&#x52a1;(&#x8fdc;&#x7a0b;&#x7684;&#x63a5;&#x53e3;&#x662f;&#x4e00;&#x4e2a;&#x670d;&#x52a1;)&#x3002;&#x4e00;&#x4e2a;&#x7b80;&#x5355;&#x7684;&#x8fc7;&#x7a0b;&#x5982;&#x4e0b;:  1 &#x5ba2;&#x6237;&#x7aef;&#x7aef;&#x53d1;&#x8d77;&#x8c03;&#x7528;&#xff0c;&#x628a;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#x653e;&#x5165;&#x53d1;&#x9001;&#x961f;&#x5217;&#xff0c;Block&#x4f4f;&#x5f53;&#x524d;&#x7ebf;&#x7a0b;&#xff0c;&#x4fdd;&#x5b58;&#x4e0a;&#x4e0b;&#x6587;&#x3002;  2 RPC&#x6846;&#x67b6;&#x4ece;&#x961f;&#x5217;&#x53d6;&#x51fa;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#xff0c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x5230;&#x670d;&#x52a1;&#x7aef;&#x3002;  3 &#x670d;&#x52a1;&#x7aef;&#x63a5;&#x6536;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x8c03;&#x7528;&#x5bf9;&#x4e8e;&#x7684;&#x65b9;&#x6cd5;&#x3002;&#x628a;&#x8fd4;&#x56de;&#x7ed3;&#x679c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x7ed9;&#x5ba2;&#x6237;&#x7aef;&#x3002;  4 &#x5ba2;&#x6237;&#x7aef;&#x63a5;&#x6536;&#x5230;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x6839;&#x636e;&#x8bf7;&#x6c42;&#x552f;&#x4e00;&#x6807;&#x8bc6;&#xff0c;&#x627e;&#x5230;Block&#x4f4f;&#x7ebf;&#x7a0b;&#x7684;&#x4e0a;&#x4e0b;&#x6587;&#xff0c;&#x91ca;&#x653e;&#x8be5;&#x7ebf;&#x7a0b;&#x3002;  5 &#x5ba2;&#x6237;&#x7aef;&#x62ff;&#x5230;&#x7ed3;&#x679c;&#x3002;  Bison &#x662f;&#x4e00;&#x4e2a;JAVA &#x7a0b;&#x95f4;&#x7684;&#x901a;&#x4fe1;&#x6846;&#x67b6;&#xff0c;&#x57fa;&#x4e8e;apache mina &#x5b9e;&#x73b0;&#xff0c;&#x5bf9;mina&#x8fdb;&#x884c;&#x4e86;byteBuffer &#x7f13;&#x51b2;&#x533a;&#x91cd;&#x7528;&#x4ee5;&#x53ca;&#x534a;&#x5305;&#x51fa;&#x5904;&#x65f6;&#x51cf;&#x5c11;&#x62f7;&#x8d1d;&#x3002;  &#x5ba2;&#x6237;&#x7aef;(bison-client) &#x529f;&#x80fd;&#x70b9;  1 &#x4e1a;&#x52a1;&#x5206;&#x7ec4;&#x3002;  2 &#x652f;&#x6301;&#x5206;&#x7ec4;&#x5185;&#x8d1f;&#x8f7d;&#x5747;&#x8861;&#x3002;  3 &#x652f;&#x6301;&#x6a2a;&#x5411;&#x6269;&#x5c55;&#x3002;  &#x670d;&#x52a1;&#x7aef;(bison)  1 &#x652f;&#x6301;&#x70ed;&#x90e8;&#x7f72;  2 &#x652f;&#x6301;&#x9ad8;&#x7528;&#x6027;&#xff1a;&#x9ad8;&#x53ef;&#x7528;&#x7684;&#x4e00;&#x4e2a;&#x57fa;&#x672c;&#x539f;&#x5219;&#xff0c;&#x53ef;&#x4ee5;&#x63a5;&#x53d7;&#x5feb;&#x901f;&#x7684;&#x5931;&#x8d25;&#xff0c;&#x4f46;&#x4e0d;&#x80fd;&#x63a5;&#x53d7;&#x957f;&#x65f6;&#x95f4;&#x7684;&#x7b49;&#x5f85;&#x3002;  3 &#x8d44;&#x6e90;&#x7edf;&#x4e00;&#x7ba1;&#x7406;&#x3002;&#x6570;&#x636e;&#x5e93;&#x8fde;&#x63a5;&#x6c60;&#xff0c;&#x5de5;&#x4f5c;&#x7ebf;&#x7a0b;,&#x7b49;&#x3002;  4 &#x652f;&#x6301;&#x767d;&#x540d;&#x5355;&#xff0c;&#x9ed1;&#x540d;&#x5355;&#x3002;   Githup&#x5730;&#x5740;:https://github.com/gavenpeng/Bison  &#x5206;&#x4eab;&#x7684;&#x76ee;&#x7684;  bison &#x7b80;&#x5355;&#x6613;&#x7528;&#x7684;RPC&#x6846;&#x67b6;&#xff0c;&#x5bf9;&#x5916;&#x5c31;&#x4f9d;&#x8d56;mina&#xff0c;&#x6ca1;&#x6709;&#x592a;&#x591a;&#x7684;&#x914d;&#x7f6e;&#xff0c;&#x5f88;&#x5bb9;&#x6613;&#x90e8;&#x7f72;&#xff0c;&#x5206;&#x4eab;&#x5728;&#x8fd9;&#x91cc;&#x5b8c;&#x5168;&#x662f;&#x4e3a;&#x4e86;&#x76f8;&#x4e92;&#x5b66;&#x4e60;&#x3002;&#x5982;&#x679c;&#x4f60;&#x6709;&#x4ec0;&#x4e48;&#x95ee;&#x9898;&#xff0c;&#x53ef;&#x4ee5;&#x5728;&#x65b0;&#x6d6a;&#x5fae;&#x535a;@&#x6df1;&#x6d77;&#x4e4b;&#x501a;&#x5929;&#x5251;"/>
 </node>
@@ -10671,31 +10671,75 @@
 </node>
 </node>
 </node>
-<node CREATED="1433492804479" FOLDED="true" ID="ID_71050890" MODIFIED="1433496016671" TEXT="scrapy ">
+<node CREATED="1433492804479" ID="ID_71050890" MODIFIED="1433513051235" TEXT="scrapy ">
+<node CREATED="1433516152902" ID="ID_1194093900" MODIFIED="1433516161745" TEXT="THEORY">
+<node CREATED="1433516196801" FOLDED="true" ID="ID_274805450" MODIFIED="1433553067701" TEXT="Define">
+<node CREATED="1433516218766" ID="ID_496318885" MODIFIED="1433516224825" TEXT="items.py"/>
+<node CREATED="1433516255450" ID="ID_736203194" MODIFIED="1433516258183" TEXT="import"/>
+<node CREATED="1433516258535" ID="ID_1313115972" MODIFIED="1433516264000" TEXT="class"/>
+<node CREATED="1433516264771" ID="ID_720154123" MODIFIED="1433516278679" TEXT="Field()"/>
+</node>
+</node>
+<node CREATED="1433495992175" FOLDED="true" ID="ID_1398855121" MODIFIED="1433516077764" TEXT="install">
 <node CREATED="1433492884883" ID="ID_351271016" MODIFIED="1433492887491" TEXT="http://doc.scrapy.org/en/latest/intro/install.html"/>
-<node CREATED="1433495992175" FOLDED="true" ID="ID_1398855121" MODIFIED="1433496003471" TEXT="">
 <node CREATED="1433495996892" ID="ID_1500932765" LINK="http://doc.scrapy.org/en/latest/intro/install.html" MODIFIED="1433495996892" TEXT="doc.scrapy.org &gt; En &gt; Latest &gt; Intro &gt; Install"/>
 <node CREATED="1433495997122" ID="ID_905248055" MODIFIED="1433495997122" TEXT="&#x884c;&#x4e0d;&#x901a;&#xff1a;pip install Scrapy"/>
-<node CREATED="1433495997123" ID="ID_1354405280" MODIFIED="1433495997123" TEXT="&#x884c;&#x5f97;&#x901a;&#xff1a;"/>
+<node CREATED="1433495997123" ID="ID_1354405280" MODIFIED="1433495997123" TEXT="&#x884c;&#x5f97;&#x901a;&#xff1a;">
 <node CREATED="1433495997254" ID="ID_1506805862" MODIFIED="1433495997254" TEXT="sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 627220E7"/>
 <node CREATED="1433495997310" ID="ID_235524109" LINK="http://archive.scrapy.org/ubuntu" MODIFIED="1433495997310" TEXT="echo &apos;deb http://archive.scrapy.org/ubuntu scrapy main&apos; | sudo tee /etc/apt/sources.list.d/scrapy.list"/>
 <node CREATED="1433495997315" ID="ID_1590484827" MODIFIED="1433495997315" TEXT="sudo apt-get update &amp;&amp; sudo apt-get install scrapy-0.24"/>
-<node CREATED="1433495997321" ID="ID_17301824" MODIFIED="1433495997321" TEXT="&#x5e94;&#x7528;"/>
+</node>
+</node>
+<node CREATED="1433513673956" FOLDED="true" ID="ID_1687051356" MODIFIED="1433516078452" TEXT="craig">
 <node CREATED="1433495997371" ID="ID_411133742" MODIFIED="1433495997371" TEXT="scrapy startproject list"/>
+<node CREATED="1433513129697" FOLDED="true" ID="ID_1669335171" MODIFIED="1433513707660" TEXT="spider:test.py">
 <node CREATED="1433495997403" ID="ID_108043071" MODIFIED="1433495997403" TEXT="from scrapy.spider import BaseSpider"/>
 <node CREATED="1433495997403" ID="ID_356521247" MODIFIED="1433495997403" TEXT="from scrapy.selector import HtmlXPathSelector"/>
-<node CREATED="1433495997404" ID="ID_857860924" MODIFIED="1433495997404" TEXT="class MySpider(BaseSpider):">
+<node CREATED="1433495997404" ID="ID_857860924" MODIFIED="1433513658743" TEXT="class MySpider(BaseSpider):">
 <node CREATED="1433495997429" MODIFIED="1433495997429" TEXT="name = &quot;craig&quot;"/>
-<node CREATED="1433495997430" MODIFIED="1433495997430" TEXT="allowed_domains = [&quot;craigslist.org&quot;]"/>
-<node CREATED="1433495997430" LINK="http://sfbay.craigslist.org/sfc/npo/" MODIFIED="1433495997430" TEXT="start_urls = [&quot;http://sfbay.craigslist.org/sfc/npo/&quot;]"/>
-<node CREATED="1433495997472" MODIFIED="1433495997472" TEXT="def parse(self, response):">
+<node CREATED="1433495997430" ID="ID_1209502602" MODIFIED="1433495997430" TEXT="allowed_domains = [&quot;craigslist.org&quot;]"/>
+<node CREATED="1433495997430" ID="ID_618049745" LINK="http://sfbay.craigslist.org/sfc/npo/" MODIFIED="1433495997430" TEXT="start_urls = [&quot;http://sfbay.craigslist.org/sfc/npo/&quot;]"/>
+<node CREATED="1433495997472" ID="ID_1727003173" MODIFIED="1433495997472" TEXT="def parse(self, response):">
 <node CREATED="1433495997472" MODIFIED="1433495997472" TEXT="hxs = HtmlXPathSelector(response)"/>
-<node CREATED="1433495997505" MODIFIED="1433495997505" TEXT="titles = hxs.select(&quot;//p&quot;)"/>
+<node CREATED="1433495997505" ID="ID_1959569624" MODIFIED="1433495997505" TEXT="titles = hxs.select(&quot;//p&quot;)"/>
 <node CREATED="1433495997506" MODIFIED="1433495997506" TEXT="for titles in titles:">
 <node CREATED="1433495997506" MODIFIED="1433495997506" TEXT="title = titles.select(&quot;a/text()&quot;).extract()"/>
 <node CREATED="1433495997539" LINK="mailto:titles.select(&quot;a/@href&quot;).extract()" MODIFIED="1433495997539" TEXT="link = titles.select(&quot;a/@href&quot;).extract()"/>
 <node CREATED="1433495997743" MODIFIED="1433495997743" TEXT="print title, link"/>
 </node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1433513689090" FOLDED="true" ID="ID_281049152" MODIFIED="1433516091732" TEXT="mininova">
+<node CREATED="1433513750127" ID="ID_662317129" MODIFIED="1433513771839" TEXT="scrapy crawl mininova -o scraped_data.json"/>
+</node>
+<node CREATED="1433516094706" FOLDED="true" ID="ID_1394641327" MODIFIED="1433516149580" TEXT="reddit">
+<node CREATED="1433516114172" ID="ID_1959023980" MODIFIED="1433516115760" TEXT="https://github.com/eloyz/reddit"/>
+<node CREATED="1433516145331" ID="ID_855054009" MODIFIED="1433516147871" TEXT="scrapy crawl pic"/>
+</node>
+<node CREATED="1433553074196" ID="ID_1559919225" MODIFIED="1433553076516" TEXT="vpngate">
+<node CREATED="1433553098156" ID="ID_343961149" MODIFIED="1433553098156" TEXT="scrapy startproject vpngate"/>
+<node CREATED="1433553077608" ID="ID_1951419253" MODIFIED="1433553144444" TEXT="v1">
+<node CREATED="1433553138872" FOLDED="true" ID="ID_1584571272" MODIFIED="1433556942900" TEXT="item">
+<node CREATED="1433553337718" ID="ID_875979383" MODIFIED="1433553337718" TEXT="from scrapy.item import Item, Field"/>
+<node CREATED="1433553337720" FOLDED="true" ID="ID_745079830" MODIFIED="1433556941755" TEXT="class VpngateItem(scrapy.Item):">
+<node CREATED="1433553337722" MODIFIED="1433553337722" TEXT="# define the fields for your item here like:"/>
+<node CREATED="1433553337724" MODIFIED="1433553337724" TEXT="# name = scrapy.Field()"/>
+<node CREATED="1433553337724" MODIFIED="1433553337724" TEXT="IP_address = Field()"/>
+</node>
+</node>
+<node CREATED="1433558539347" ID="ID_182089825" MODIFIED="1433558795149" TEXT="refer">
+<node CREATED="1433558546882" ID="ID_1347247996" MODIFIED="1433558547956" TEXT="http://doc.scrapy.org/en/latest/topics/selectors.html"/>
+<node CREATED="1433558772906" ID="ID_1124726569" LINK="http://blog.chinaunix.net/uid-20437338-id-1946329.html" MODIFIED="1433558772906" TEXT="blog.chinaunix.net &gt; Uid-20437338-id-1946329"/>
+<node CREATED="1433558796039" ID="ID_1080725407" LINK="http://baike.baidu.com/link?url=HfzYYJ1kr90WBH1t6FpLd4v1110nGMWC3xyUqYf4F4dIRbfOI9JYyBU_3_JtwJXtXCP_YC1sjRnwgq_uwMO1S_" MODIFIED="1433558796039" TEXT="baike.baidu.com &gt; Link ? ..."/>
+<node CREATED="1433558847957" ID="ID_1642203287" LINK="http://www.tuicool.com/articles/EVfqI3" MODIFIED="1433558852019" TEXT="tuicool.com &gt; Articles &gt; EVfqI3">
+<icon BUILTIN="idea"/>
+</node>
+<node CREATED="1433558879405" ID="ID_710903312" LINK="http://www.w3school.com.cn/xpath/xpath_nodes.asp" MODIFIED="1433558879405" TEXT="w3school.com.cn &gt; Xpath &gt; Xpath nodes"/>
+<node CREATED="1433558915796" ID="ID_1364398544" MODIFIED="1433558917433" TEXT="175.200.217.84:32431/en/"/>
+<node CREATED="1433558936155" ID="ID_227293365" MODIFIED="1433558937303" TEXT="http://blog.csdn.net/u012150179/article/details/34486677"/>
+<node CREATED="1433558957329" ID="ID_1474677457" LINK="http://doc.scrapy.org/en/latest/topics/selectors.html" MODIFIED="1433558957329" TEXT="doc.scrapy.org &gt; En &gt; Latest &gt; Topics &gt; Selectors"/>
 </node>
 </node>
 </node>
