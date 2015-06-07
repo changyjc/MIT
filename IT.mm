@@ -10671,16 +10671,59 @@
 </node>
 </node>
 </node>
-<node CREATED="1433492804479" ID="ID_71050890" MODIFIED="1433513051235" TEXT="scrapy ">
-<node CREATED="1433516152902" ID="ID_1194093900" MODIFIED="1433516161745" TEXT="THEORY">
-<node CREATED="1433516196801" FOLDED="true" ID="ID_274805450" MODIFIED="1433553067701" TEXT="Define">
+<node CREATED="1433492804479" ID="ID_71050890" MODIFIED="1433609800440" TEXT="scrapy ">
+<node CREATED="1433516152902" ID="ID_1194093900" MODIFIED="1433601555543" TEXT="THEORY">
+<node CREATED="1433602738443" ID="ID_1353046953" MODIFIED="1433605121688" TEXT="framework">
+<node CREATED="1433605122252" ID="ID_41012254" MODIFIED="1433605134814" TEXT="&#x722c;&#x4ec0;&#x4e48;">
+<node CREATED="1433605138145" ID="ID_466299997" MODIFIED="1433605144312" TEXT="item.py"/>
+</node>
+<node CREATED="1433605146478" ID="ID_750797763" MODIFIED="1433605160507" TEXT="&#x600e;&#x4e48;&#x722c;">
+<node CREATED="1433605160756" ID="ID_1208213611" MODIFIED="1433605169441" TEXT="spiders"/>
+</node>
+<node CREATED="1433605171009" ID="ID_1067274592" MODIFIED="1433605186196" TEXT="&#x5904;&#x7406;">
+<node CREATED="1433605186198" ID="ID_1524363365" MODIFIED="1433605284909" TEXT="pipline.py"/>
+</node>
+</node>
+<node CREATED="1433516196801" FOLDED="true" ID="ID_274805450" MODIFIED="1433605104862" TEXT="Define">
 <node CREATED="1433516218766" ID="ID_496318885" MODIFIED="1433516224825" TEXT="items.py"/>
 <node CREATED="1433516255450" ID="ID_736203194" MODIFIED="1433516258183" TEXT="import"/>
 <node CREATED="1433516258535" ID="ID_1313115972" MODIFIED="1433516264000" TEXT="class"/>
 <node CREATED="1433516264771" ID="ID_720154123" MODIFIED="1433516278679" TEXT="Field()"/>
 </node>
+<node CREATED="1433597806841" ID="ID_1284015432" MODIFIED="1433606869161" TEXT="Xpath">
+<node CREATED="1433597820312" FOLDED="true" ID="ID_83449583" MODIFIED="1433599236262" TEXT="experiment">
+<node CREATED="1433597842207" ID="ID_784758076" MODIFIED="1433597843441" TEXT="Never use full XPath paths, use relative and clever ones based on attributes or any identifying features... and Never include &lt;tbody&gt; elements in your XPath expressions unless you really know what you&#x2019;re doing"/>
+<node CREATED="1433598004360" ID="ID_1956521023" MODIFIED="1433598005668" TEXT="The problem is the dynamic nature of the site. The HTML that Scrapy gets is not the same as you see in the browser developer tools because there is javascript code being executed by the browser that changes the DOM. You cannot replicate the same behavior in Scrapy, Scrapy is not a browser. "/>
 </node>
-<node CREATED="1433495992175" FOLDED="true" ID="ID_1398855121" MODIFIED="1433516077764" TEXT="install">
+<node CREATED="1433599237959" FOLDED="true" ID="ID_1594980089" MODIFIED="1433601655207" TEXT="get xpath">
+<node CREATED="1433599243020" ID="ID_299881346" MODIFIED="1433599260657" TEXT="firefox &amp; chrome add-one"/>
+<node COLOR="#ff0000" CREATED="1433599264200" FOLDED="true" ID="ID_399049286" MODIFIED="1433600512229" TEXT="tips">
+<node CREATED="1433599277451" ID="ID_450903893" MODIFIED="1433599278682" TEXT="http://doc.scrapy.org/en/latest/topics/firefox.html"/>
+<node CREATED="1433599293835" ID="ID_560942957" MODIFIED="1433599293835" TEXT="Disable Firefox Javascript while inspecting the DOM looking for XPaths to be used in Scrapy"/>
+<node CREATED="1433599293836" ID="ID_163858823" LINK="mailto:contains(@href," MODIFIED="1433599293836" TEXT="Never use full XPath paths, use relative and clever ones based on attributes (such as id, class, width, etc) or any identifying features like contains(@href, &apos;image&apos;)."/>
+<node CREATED="1433599293843" ID="ID_221981961" MODIFIED="1433599293843" TEXT="Never include &lt;tbody&gt; elements in your XPath expressions unless you really know what you&#x2019;re doing"/>
+<node CREATED="1433599421620" ID="ID_1297594777" MODIFIED="1433599455715" TEXT="&#x4f7f;&#x7528;chrome&#x7684;xpath&#x89e3;&#x6790;&#x5668;"/>
+<node CREATED="1433599457106" ID="ID_729298743" MODIFIED="1433599465134" TEXT="&#x53bb;&#x6389;tbody"/>
+</node>
+</node>
+<node CREATED="1433601561571" ID="ID_611539273" MODIFIED="1433601767955" TEXT="cases">
+<node CREATED="1433601598273" ID="ID_742316467" MODIFIED="1433601608798" TEXT="response.xpath(&apos;//title/text()&apos;) "/>
+<node CREATED="1433601608799" ID="ID_1042788636" MODIFIED="1433601628918" TEXT="response.xpath(&apos;@src&apos;).extract() "/>
+<node CREATED="1433601628918" ID="ID_1978722167" MODIFIED="1433601628919" TEXT="response.xpath(&apos;//base/@href&apos;).extract() "/>
+<node CREATED="1433601619847" ID="ID_638879887" MODIFIED="1433601619848" TEXT="response.xpath(&apos;//*[@id=&quot;vg_hosts_table_id&quot;]/tr[2]/td[7]/a&apos;).extract()"/>
+<node CREATED="1433601774519" ID="ID_1629358185" MODIFIED="1433601778116" TEXT="response.xpath(&apos;//*[@id=&quot;vg_hosts_table_id&quot;]/tr[*]/td[7]/a/@href&apos;).extract()  "/>
+</node>
+</node>
+<node CREATED="1433605274451" ID="ID_929760092" MODIFIED="1433605276779" TEXT="Pipeline">
+<node CREATED="1433605300188" FOLDED="true" ID="ID_666341719" MODIFIED="1433611696478" TEXT="purpose">
+<node CREATED="1433605303842" ID="ID_1152395212" MODIFIED="1433605303842" TEXT="cleansing HTML data"/>
+<node CREATED="1433605303843" ID="ID_766202611" MODIFIED="1433605303843" TEXT="validating scraped data (checking that the items contain certain fields)"/>
+<node CREATED="1433605303845" ID="ID_649971926" MODIFIED="1433605303845" TEXT="checking for duplicates (and dropping them)"/>
+<node CREATED="1433605303854" ID="ID_1634814885" MODIFIED="1433605303854" TEXT="storing the scraped item in a database"/>
+</node>
+</node>
+</node>
+<node CREATED="1433495992175" FOLDED="true" ID="ID_1398855121" MODIFIED="1433599233655" TEXT="install">
 <node CREATED="1433492884883" ID="ID_351271016" MODIFIED="1433492887491" TEXT="http://doc.scrapy.org/en/latest/intro/install.html"/>
 <node CREATED="1433495996892" ID="ID_1500932765" LINK="http://doc.scrapy.org/en/latest/intro/install.html" MODIFIED="1433495996892" TEXT="doc.scrapy.org &gt; En &gt; Latest &gt; Intro &gt; Install"/>
 <node CREATED="1433495997122" ID="ID_905248055" MODIFIED="1433495997122" TEXT="&#x884c;&#x4e0d;&#x901a;&#xff1a;pip install Scrapy"/>
@@ -10690,7 +10733,8 @@
 <node CREATED="1433495997315" ID="ID_1590484827" MODIFIED="1433495997315" TEXT="sudo apt-get update &amp;&amp; sudo apt-get install scrapy-0.24"/>
 </node>
 </node>
-<node CREATED="1433513673956" FOLDED="true" ID="ID_1687051356" MODIFIED="1433516078452" TEXT="craig">
+<node CREATED="1433595504075" ID="ID_585196298" MODIFIED="1433595508388" TEXT="&#x8c03;&#x8bd5;"/>
+<node CREATED="1433513673956" FOLDED="true" ID="ID_1687051356" MODIFIED="1433600558293" TEXT="craig">
 <node CREATED="1433495997371" ID="ID_411133742" MODIFIED="1433495997371" TEXT="scrapy startproject list"/>
 <node CREATED="1433513129697" FOLDED="true" ID="ID_1669335171" MODIFIED="1433513707660" TEXT="spider:test.py">
 <node CREATED="1433495997403" ID="ID_108043071" MODIFIED="1433495997403" TEXT="from scrapy.spider import BaseSpider"/>
@@ -10711,25 +10755,27 @@
 </node>
 </node>
 </node>
-<node CREATED="1433513689090" FOLDED="true" ID="ID_281049152" MODIFIED="1433516091732" TEXT="mininova">
+<node CREATED="1433513689090" FOLDED="true" ID="ID_281049152" MODIFIED="1433600533693" TEXT="mininova">
 <node CREATED="1433513750127" ID="ID_662317129" MODIFIED="1433513771839" TEXT="scrapy crawl mininova -o scraped_data.json"/>
 </node>
 <node CREATED="1433516094706" FOLDED="true" ID="ID_1394641327" MODIFIED="1433516149580" TEXT="reddit">
 <node CREATED="1433516114172" ID="ID_1959023980" MODIFIED="1433516115760" TEXT="https://github.com/eloyz/reddit"/>
 <node CREATED="1433516145331" ID="ID_855054009" MODIFIED="1433516147871" TEXT="scrapy crawl pic"/>
 </node>
-<node CREATED="1433553074196" ID="ID_1559919225" MODIFIED="1433553076516" TEXT="vpngate">
+<node CREATED="1433553074196" ID="ID_1559919225" MODIFIED="1433602742626" TEXT="vpngate">
 <node CREATED="1433553098156" ID="ID_343961149" MODIFIED="1433553098156" TEXT="scrapy startproject vpngate"/>
 <node CREATED="1433553077608" ID="ID_1951419253" MODIFIED="1433553144444" TEXT="v1">
-<node CREATED="1433553138872" FOLDED="true" ID="ID_1584571272" MODIFIED="1433556942900" TEXT="item">
+<node CREATED="1433553138872" ID="ID_1584571272" MODIFIED="1433595485187" TEXT="item">
 <node CREATED="1433553337718" ID="ID_875979383" MODIFIED="1433553337718" TEXT="from scrapy.item import Item, Field"/>
-<node CREATED="1433553337720" FOLDED="true" ID="ID_745079830" MODIFIED="1433556941755" TEXT="class VpngateItem(scrapy.Item):">
+<node CREATED="1433553337720" FOLDED="true" ID="ID_745079830" MODIFIED="1433606865405" TEXT="class VpngateItem(scrapy.Item):">
 <node CREATED="1433553337722" MODIFIED="1433553337722" TEXT="# define the fields for your item here like:"/>
 <node CREATED="1433553337724" MODIFIED="1433553337724" TEXT="# name = scrapy.Field()"/>
 <node CREATED="1433553337724" MODIFIED="1433553337724" TEXT="IP_address = Field()"/>
 </node>
 </node>
-<node CREATED="1433558539347" ID="ID_182089825" MODIFIED="1433558795149" TEXT="refer">
+</node>
+</node>
+<node CREATED="1433558539347" ID="ID_182089825" MODIFIED="1433611813682" TEXT="refer">
 <node CREATED="1433558546882" ID="ID_1347247996" MODIFIED="1433558547956" TEXT="http://doc.scrapy.org/en/latest/topics/selectors.html"/>
 <node CREATED="1433558772906" ID="ID_1124726569" LINK="http://blog.chinaunix.net/uid-20437338-id-1946329.html" MODIFIED="1433558772906" TEXT="blog.chinaunix.net &gt; Uid-20437338-id-1946329"/>
 <node CREATED="1433558796039" ID="ID_1080725407" LINK="http://baike.baidu.com/link?url=HfzYYJ1kr90WBH1t6FpLd4v1110nGMWC3xyUqYf4F4dIRbfOI9JYyBU_3_JtwJXtXCP_YC1sjRnwgq_uwMO1S_" MODIFIED="1433558796039" TEXT="baike.baidu.com &gt; Link ? ..."/>
@@ -10740,8 +10786,7 @@
 <node CREATED="1433558915796" ID="ID_1364398544" MODIFIED="1433558917433" TEXT="175.200.217.84:32431/en/"/>
 <node CREATED="1433558936155" ID="ID_227293365" MODIFIED="1433558937303" TEXT="http://blog.csdn.net/u012150179/article/details/34486677"/>
 <node CREATED="1433558957329" ID="ID_1474677457" LINK="http://doc.scrapy.org/en/latest/topics/selectors.html" MODIFIED="1433558957329" TEXT="doc.scrapy.org &gt; En &gt; Latest &gt; Topics &gt; Selectors"/>
-</node>
-</node>
+<node CREATED="1433604397273" ID="ID_690542279" MODIFIED="1433604398683" TEXT="http://my.oschina.net/lpe234/blog/342741"/>
 </node>
 </node>
 <node CREATED="1418048891563" FOLDED="true" ID="ID_1531364497" MODIFIED="1418800090357" TEXT="Persistent">
