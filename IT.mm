@@ -4404,6 +4404,47 @@
 <node CREATED="1415616824146" ID="ID_267401278" MODIFIED="1436237631537" TEXT="Word Search"/>
 <node CREATED="1415617068166" ID="ID_1496872383" MODIFIED="1437015859673" TEXT="Search in Rotated Sorted Array"/>
 <node CREATED="1415617068166" ID="ID_679211028" MODIFIED="1437015877654" TEXT="Search in Rotated Sorted Array II"/>
+<node CREATED="1438225353129" FOLDED="true" ID="ID_1788456828" MODIFIED="1438225484228" TEXT="107 Binary Tree Level Order Traversal II">
+<node CREATED="1438225355415" ID="ID_985540126" MODIFIED="1438225355415" TEXT="public List&lt;List&lt;Integer&gt;&gt; levelOrderBottom(TreeNode root) {">
+<node CREATED="1438225355428" MODIFIED="1438225355428" TEXT="List&lt;List&lt;Integer&gt;&gt; rst = new ArrayList&lt;List&lt;Integer&gt;&gt;();"/>
+<node CREATED="1438225355433" MODIFIED="1438225355433" TEXT="if (root == null)   return rst;"/>
+<node CREATED="1438225355434" MODIFIED="1438225355434" TEXT="List&lt;TreeNode&gt; rstNodes = new ArrayList&lt;TreeNode&gt;();"/>
+<node CREATED="1438225355439" MODIFIED="1438225355439" TEXT="rstNodes.add(root);"/>
+<node CREATED="1438225355439" MODIFIED="1438225355439" TEXT="rst.add(toIntList(rstNodes));"/>
+<node CREATED="1438225355440" MODIFIED="1438225355440" TEXT="while (children(rstNodes).size() != 0) {">
+<node CREATED="1438225355441" MODIFIED="1438225355441" TEXT="rstNodes = children(rstNodes);"/>
+<node CREATED="1438225355441" MODIFIED="1438225355441" TEXT="rst.add(toIntList(rstNodes));"/>
+</node>
+<node CREATED="1438225355441" MODIFIED="1438225355441" TEXT="}"/>
+<node CREATED="1438225355442" MODIFIED="1438225355442" TEXT="List&lt;List&lt;Integer&gt;&gt; rstR = new ArrayList&lt;List&lt;Integer&gt;&gt;();">
+<node CREATED="1438225355444" MODIFIED="1438225355444" TEXT="for (int i = rst.size()-1; i &gt;= 0; i--) {">
+<node CREATED="1438225355445" MODIFIED="1438225355445" TEXT="rstR.add(rst.get(i));"/>
+</node>
+<node CREATED="1438225355445" MODIFIED="1438225355445" TEXT="}"/>
+</node>
+<node CREATED="1438225355445" MODIFIED="1438225355445" TEXT="return rstR;"/>
+</node>
+<node CREATED="1438225355446" ID="ID_1678673162" MODIFIED="1438225355446" TEXT="}"/>
+<node CREATED="1438225355446" ID="ID_967682758" MODIFIED="1438225355446" TEXT="public List&lt;TreeNode&gt; children(List&lt;TreeNode&gt; l) {">
+<node CREATED="1438225355446" MODIFIED="1438225355446" TEXT="List&lt;TreeNode&gt; c = new ArrayList&lt;TreeNode&gt;();"/>
+<node CREATED="1438225355446" MODIFIED="1438225355446" TEXT="for (TreeNode k : l) {">
+<node CREATED="1438225355447" MODIFIED="1438225355447" TEXT="if (k.left != null)         c.add(k.left);"/>
+<node CREATED="1438225355447" MODIFIED="1438225355447" TEXT="if (k.right != null)        c.add(k.right);"/>
+</node>
+<node CREATED="1438225355447" MODIFIED="1438225355447" TEXT="}"/>
+<node CREATED="1438225355448" MODIFIED="1438225355448" TEXT="return c;"/>
+<node CREATED="1438225355448" MODIFIED="1438225355448" TEXT="}"/>
+<node CREATED="1438225355448" MODIFIED="1438225355448" TEXT="public List&lt;Integer&gt; toIntList(List&lt;TreeNode&gt; l) {">
+<node CREATED="1438225355448" MODIFIED="1438225355448" TEXT="List&lt;Integer&gt; rst = new ArrayList&lt;Integer&gt;();"/>
+<node CREATED="1438225355449" MODIFIED="1438225355449" TEXT="for (TreeNode k : l) {">
+<node CREATED="1438225355449" MODIFIED="1438225355449" TEXT="rst.add(k.val);"/>
+</node>
+<node CREATED="1438225355449" MODIFIED="1438225355449" TEXT="}"/>
+<node CREATED="1438225355450" MODIFIED="1438225355450" TEXT="return rst;"/>
+</node>
+<node CREATED="1438225355450" MODIFIED="1438225355450" TEXT="}"/>
+</node>
+</node>
 </node>
 <node CREATED="1437980782373" FOLDED="true" ID="ID_916758741" MODIFIED="1438225254607" TEXT="test">
 <node CREATED="1437980798021" FOLDED="true" ID="ID_1799235856" MODIFIED="1438005785970" TEXT="Function">
