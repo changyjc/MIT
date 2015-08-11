@@ -5153,7 +5153,7 @@
 <node CREATED="1415616824146" ID="ID_267401278" MODIFIED="1436237631537" TEXT="Word Search"/>
 <node CREATED="1415617068166" ID="ID_1496872383" MODIFIED="1437015859673" TEXT="Search in Rotated Sorted Array"/>
 <node CREATED="1415617068166" ID="ID_679211028" MODIFIED="1437015877654" TEXT="Search in Rotated Sorted Array II"/>
-<node CREATED="1439196642027" FOLDED="true" ID="ID_1273280608" MODIFIED="1439276074986" TEXT="198 House Robber">
+<node CREATED="1439196642027" FOLDED="true" ID="ID_1273280608" MODIFIED="1439281746977" TEXT="198 House Robber">
 <node CREATED="1439275956861" FOLDED="true" ID="ID_1213576150" MODIFIED="1439275961724" TEXT="public int rob(int[] nums) {">
 <node CREATED="1439275956882" MODIFIED="1439275956882" TEXT="if (nums.length == 0)                return 0;"/>
 <node CREATED="1439275956883" MODIFIED="1439275956883" TEXT="else if(nums.length == 1)        return nums[0];">
@@ -5169,6 +5169,31 @@
 </node>
 </node>
 <node CREATED="1439275956913" ID="ID_1172565723" MODIFIED="1439275956913" TEXT="}"/>
+</node>
+<node CREATED="1439281747344" FOLDED="true" ID="ID_210545530" MODIFIED="1439281795349" TEXT="213 House Robber II">
+<node CREATED="1439281754823" ID="ID_1863673123" MODIFIED="1439281754823" TEXT="public int rob(int[] nums) {">
+<node CREATED="1439281754823" MODIFIED="1439281754823" TEXT="if (nums.length == 0)                return 0;"/>
+<node CREATED="1439281754824" MODIFIED="1439281754824" TEXT="else if (nums.length == 1)        return nums[0];"/>
+<node CREATED="1439281754825" MODIFIED="1439281754825" TEXT="else if (nums.length == 2)  return Math.max(nums[0], nums[1]);">
+<node CREATED="1439281754841" MODIFIED="1439281754841" TEXT="return Math.max(rob(nums,0,nums.length-2), rob(nums,1,nums.length-1));"/>
+</node>
+</node>
+<node CREATED="1439281754846" ID="ID_919861047" MODIFIED="1439281754846" TEXT="}"/>
+<node CREATED="1439281754846" ID="ID_1964995528" MODIFIED="1439281763987" TEXT="public int rob(int[] nums, int lo, int hi) {">
+<node CREATED="1439281754847" MODIFIED="1439281754847" TEXT="if (nums.length == 0)                return 0;"/>
+<node CREATED="1439281754848" FOLDED="true" ID="ID_132104610" MODIFIED="1439281770402" TEXT="else if(hi == lo)        return nums[lo];">
+<node CREATED="1439281754848" MODIFIED="1439281754848" TEXT="HashMap&lt;Integer, Integer&gt; map = new HashMap&lt;Integer, Integer&gt;();"/>
+<node CREATED="1439281754853" MODIFIED="1439281754853" TEXT="map.put(lo, nums[lo]);"/>
+<node CREATED="1439281754853" MODIFIED="1439281754853" TEXT="map.put(lo+1, Math.max(nums[lo], nums[lo+1]));"/>
+<node CREATED="1439281754854" MODIFIED="1439281754854" TEXT="for (int i = lo+2; i &lt;= hi; i++) {">
+<node CREATED="1439281754854" MODIFIED="1439281754854" TEXT="int max = Math.max((nums[i]+map.get(i-2)), map.get(i-1));"/>
+<node CREATED="1439281754856" MODIFIED="1439281754856" TEXT="map.put(i, max);"/>
+</node>
+<node CREATED="1439281754857" MODIFIED="1439281754857" TEXT="}"/>
+<node CREATED="1439281754857" MODIFIED="1439281754857" TEXT="return map.get(hi);"/>
+</node>
+</node>
+<node CREATED="1439281754857" ID="ID_792096437" MODIFIED="1439281754857" TEXT="}"/>
 </node>
 </node>
 <node CREATED="1438446502510" FOLDED="true" ID="ID_1456034313" MODIFIED="1439197633654" TEXT="&#x6ca1;&#x6709;&#x505a;&#x51fa;&#x6765;">
