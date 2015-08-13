@@ -5193,7 +5193,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1436148344503" ID="ID_1539823842" MODIFIED="1439359949888" TEXT="new">
+<node CREATED="1436148344503" ID="ID_1539823842" MODIFIED="1439451101094" TEXT="new">
 <node CREATED="1415616824120" ID="ID_1759070420" MODIFIED="1436237631539" TEXT="Minimum Path Sum"/>
 <node CREATED="1415616824146" ID="ID_267401278" MODIFIED="1436237631537" TEXT="Word Search"/>
 <node CREATED="1415617068166" ID="ID_1496872383" MODIFIED="1437015859673" TEXT="Search in Rotated Sorted Array"/>
@@ -5391,6 +5391,44 @@
 </node>
 <node CREATED="1439366588917" ID="ID_1134526647" MODIFIED="1439366588917" TEXT="}"/>
 </node>
+</node>
+<node CREATED="1439451102522" FOLDED="true" ID="ID_1217383154" MODIFIED="1439451201349" TEXT="165 Compare Version Numbers">
+<node CREATED="1439451183369" FOLDED="true" ID="ID_543105020" MODIFIED="1439451186285" TEXT="public int compareVersion(String version1, String version2) {">
+<node CREATED="1439451183381" MODIFIED="1439451183381" TEXT="String[] A1 = version1.split(&quot;\\.&quot;);"/>
+<node CREATED="1439451183383" MODIFIED="1439451183383" TEXT="String[] A2 = version2.split(&quot;\\.&quot;);"/>
+<node CREATED="1439451183384" MODIFIED="1439451183384" TEXT="for (int i = 0; i &lt; A1.length &amp;&amp; i &lt; A2.length; i++) {">
+<node CREATED="1439451183386" MODIFIED="1439451183386" TEXT="if (compareString(A1[i], A2[i]) != 0)">
+<node CREATED="1439451183387" MODIFIED="1439451183387" TEXT="return (compareString(A1[i], A2[i]));"/>
+</node>
+</node>
+<node CREATED="1439451183388" MODIFIED="1439451183388" TEXT="}"/>
+<node CREATED="1439451183389" MODIFIED="1439451183389" TEXT="if (A1.length &gt; A2.length &amp;&amp; toNumber(A1[A2.length]) != 0.0)">
+<node CREATED="1439451183391" MODIFIED="1439451183391" TEXT="return 1;"/>
+</node>
+<node CREATED="1439451183392" MODIFIED="1439451183392" TEXT="else if (A1.length &lt; A2.length &amp;&amp; toNumber(A2[A1.length]) != 0.0)">
+<node CREATED="1439451183394" MODIFIED="1439451183394" TEXT="return -1;"/>
+</node>
+<node CREATED="1439451183395" MODIFIED="1439451183395" TEXT="else return 0;"/>
+</node>
+<node CREATED="1439451183395" ID="ID_1700982013" MODIFIED="1439451183395" TEXT="}"/>
+<node CREATED="1439451183395" FOLDED="true" ID="ID_1310101450" MODIFIED="1439451187653" TEXT="public int compareString(String s1, String s2) {">
+<node CREATED="1439451183396" MODIFIED="1439451183396" TEXT="if (toNumber(s1) &gt; toNumber(s2))                return 1;"/>
+<node CREATED="1439451183396" MODIFIED="1439451183396" TEXT="else if (toNumber(s1) == toNumber(s2))        return 0;"/>
+<node CREATED="1439451183396" MODIFIED="1439451183396" TEXT="else                                                                         return -1;"/>
+</node>
+<node CREATED="1439451183399" ID="ID_532075522" MODIFIED="1439451183399" TEXT="}"/>
+<node CREATED="1439451183399" FOLDED="true" ID="ID_1819047303" MODIFIED="1439451188349" TEXT="public float toNumber(String s) {">
+<node CREATED="1439451183400" MODIFIED="1439451183400" TEXT="float rst = 0;"/>
+<node CREATED="1439451183400" MODIFIED="1439451183400" TEXT="int i = 0;"/>
+<node CREATED="1439451183400" MODIFIED="1439451183400" TEXT="while (i &lt; s.length() &amp;&amp; s.charAt(i) == &apos;0&apos;)">
+<node CREATED="1439451183401" MODIFIED="1439451183401" TEXT="i++;"/>
+</node>
+<node CREATED="1439451183401" MODIFIED="1439451183401" TEXT="for (; i &lt; s.length(); i++)">
+<node CREATED="1439451183401" MODIFIED="1439451183401" TEXT="rst = 10 * rst + s.charAt(i) - &apos;0&apos;;"/>
+</node>
+<node CREATED="1439451183402" MODIFIED="1439451183402" TEXT="return rst;"/>
+</node>
+<node CREATED="1439451183402" ID="ID_1108284278" MODIFIED="1439451183402" TEXT="}"/>
 </node>
 </node>
 <node CREATED="1438446502510" FOLDED="true" ID="ID_1456034313" MODIFIED="1439197633654" TEXT="&#x6ca1;&#x6709;&#x505a;&#x51fa;&#x6765;">
