@@ -2524,7 +2524,7 @@
 <node CREATED="1415793373324" ID="ID_1789445618" MODIFIED="1415793375332" TEXT="Hash"/>
 </node>
 <node CREATED="1422858220653" ID="ID_1198814514" MODIFIED="1440144924088" TEXT="Solve">
-<node CREATED="1436148273360" FOLDED="true" ID="ID_779955077" MODIFIED="1440306945330" TEXT="solved">
+<node CREATED="1436148273360" FOLDED="true" ID="ID_779955077" MODIFIED="1440314563883" TEXT="solved">
 <node CREATED="1422858226757" FOLDED="true" ID="ID_1932343806" MODIFIED="1440306942526" TEXT="8-queen">
 <node CREATED="1422858474155" ID="ID_1346505778" MODIFIED="1422858479211" TEXT="Trie">
 <node CREATED="1422858494354" ID="ID_1020168467" MODIFIED="1422858506916" TEXT="IDEA">
@@ -5811,8 +5811,8 @@
 </node>
 <node CREATED="1440306870610" ID="ID_1129085402" MODIFIED="1440306870610" TEXT="}"/>
 </node>
-<node CREATED="1440300050086" FOLDED="true" ID="ID_1050611495" MODIFIED="1440312285147" TEXT="39 Combination Sum">
-<node CREATED="1440312282097" FOLDED="true" ID="ID_1403388890" MODIFIED="1440312283963" TEXT="public List&lt;List&lt;Integer&gt;&gt; combinationSum(int[] candidates, int target) {">
+<node CREATED="1440300050086" FOLDED="true" ID="ID_1050611495" MODIFIED="1440312714902" TEXT="39 Combination Sum">
+<node CREATED="1440312282097" FOLDED="true" ID="ID_1403388890" MODIFIED="1440312713319" TEXT="public List&lt;List&lt;Integer&gt;&gt; combinationSum(int[] candidates, int target) {">
 <node CREATED="1440312282234" MODIFIED="1440312282234" TEXT="Arrays.sort(candidates);"/>
 <node CREATED="1440312282234" MODIFIED="1440312282234" TEXT="List&lt;List&lt;Integer&gt;&gt; rst = new ArrayList&lt;List&lt;Integer&gt;&gt;();"/>
 <node CREATED="1440312282247" MODIFIED="1440312282247" TEXT="if (Arrays.binarySearch(candidates, target) &gt;= 0) {">
@@ -5821,7 +5821,7 @@
 <node CREATED="1440312282247" MODIFIED="1440312282247" TEXT="rst.add(l);"/>
 </node>
 <node CREATED="1440312282248" MODIFIED="1440312282248" TEXT="}"/>
-<node CREATED="1440312282248" MODIFIED="1440312282248" TEXT="for (int i = 0; i &lt; candidates.length &amp;&amp; target &gt;= candidates[0]; i++) {">
+<node CREATED="1440312282248" FOLDED="true" ID="ID_239501078" MODIFIED="1440312711924" TEXT="for (int i = 0; i &lt; candidates.length &amp;&amp; target &gt;= candidates[i]; i++) {">
 <node CREATED="1440312282250" MODIFIED="1440312282250" TEXT="List&lt;List&lt;Integer&gt;&gt; sub = new ArrayList&lt;List&lt;Integer&gt;&gt;();"/>
 <node CREATED="1440312282252" MODIFIED="1440312282252" TEXT="int[] newCan = Arrays.copyOfRange(candidates, i, candidates.length);"/>
 <node CREATED="1440312282319" MODIFIED="1440312282319" TEXT="sub = combinationSum(newCan, target-candidates[i]);"/>
@@ -5836,6 +5836,39 @@
 <node CREATED="1440312282419" MODIFIED="1440312282419" TEXT="return rst;"/>
 </node>
 <node CREATED="1440312282419" ID="ID_13394660" MODIFIED="1440312282419" TEXT="}"/>
+</node>
+<node CREATED="1440300050085" FOLDED="true" ID="ID_885011972" MODIFIED="1440314549765" TEXT="40 Combination Sum II">
+<node CREATED="1440314548008" FOLDED="true" ID="ID_1014419076" MODIFIED="1440314548894" TEXT="public static List&lt;List&lt;Integer&gt;&gt; combinationSum2(int[] candidates, int target) {">
+<node CREATED="1440314548038" MODIFIED="1440314548038" TEXT="Arrays.sort(candidates);"/>
+<node CREATED="1440314548039" MODIFIED="1440314548039" TEXT="List&lt;List&lt;Integer&gt;&gt; rst = new ArrayList&lt;List&lt;Integer&gt;&gt;();"/>
+<node CREATED="1440314548043" MODIFIED="1440314548043" TEXT="if (Arrays.binarySearch(candidates, target) &gt;= 0) {">
+<node CREATED="1440314548043" MODIFIED="1440314548043" TEXT="List&lt;Integer&gt; l = new ArrayList&lt;Integer&gt;();"/>
+<node CREATED="1440314548044" MODIFIED="1440314548044" TEXT="l.add(target);"/>
+<node CREATED="1440314548044" MODIFIED="1440314548044" TEXT="rst.add(l);"/>
+</node>
+<node CREATED="1440314548045" MODIFIED="1440314548045" TEXT="}"/>
+<node CREATED="1440314548045" MODIFIED="1440314548045" TEXT="int i = 0;"/>
+<node CREATED="1440314548045" MODIFIED="1440314548045" TEXT="while (i &lt; candidates.length &amp;&amp; target &gt;= candidates[i]) {">
+<node CREATED="1440314548047" MODIFIED="1440314548047" TEXT="List&lt;List&lt;Integer&gt;&gt; sub = new ArrayList&lt;List&lt;Integer&gt;&gt;();"/>
+<node CREATED="1440314548049" MODIFIED="1440314548049" TEXT="int[] newCan = Arrays.copyOfRange(candidates, i+1, candidates.length);"/>
+<node CREATED="1440314548052" MODIFIED="1440314548052" TEXT="sub = combinationSum2(newCan, target-candidates[i]);"/>
+<node CREATED="1440314548053" MODIFIED="1440314548053" TEXT="for (List&lt;Integer&gt; l : sub) {">
+<node CREATED="1440314548054" MODIFIED="1440314548054" TEXT="l.add(candidates[i]);"/>
+<node CREATED="1440314548054" MODIFIED="1440314548054" TEXT="Collections.sort(l);"/>
+<node CREATED="1440314548054" MODIFIED="1440314548054" TEXT="rst.add(l);"/>
+</node>
+<node CREATED="1440314548054" MODIFIED="1440314548054" TEXT="}"/>
+<node CREATED="1440314548055" MODIFIED="1440314548055" TEXT="while (i &lt; candidates.length-1 &amp;&amp; candidates[i] == candidates[i+1]) {">
+<node CREATED="1440314548057" MODIFIED="1440314548057" TEXT="i++;"/>
+<node CREATED="1440314548057" MODIFIED="1440314548057" TEXT="continue;"/>
+</node>
+<node CREATED="1440314548057" MODIFIED="1440314548057" TEXT="}"/>
+<node CREATED="1440314548057" MODIFIED="1440314548057" TEXT="i++;"/>
+</node>
+<node CREATED="1440314548058" MODIFIED="1440314548058" TEXT="}"/>
+<node CREATED="1440314548058" MODIFIED="1440314548058" TEXT="return rst;"/>
+</node>
+<node CREATED="1440314548058" ID="ID_860074337" MODIFIED="1440314548058" TEXT="}"/>
 </node>
 </node>
 <node CREATED="1437015572520" FOLDED="true" ID="ID_1017964393" MODIFIED="1440062593123" TEXT="&#x8981;&#x80cc;&#x7684;">
@@ -6278,7 +6311,6 @@
 <node CREATED="1415617068166" ID="ID_679211028" MODIFIED="1437015877654" TEXT="Search in Rotated Sorted Array II"/>
 <node CREATED="1439775986630" ID="ID_1992168815" MODIFIED="1439775986630" TEXT="36 Valid Sudoku"/>
 <node CREATED="1439775986621" ID="ID_1966050079" MODIFIED="1440144954893" TEXT="4 Median of Two Sorted Arrays"/>
-<node CREATED="1440300050085" ID="ID_885011972" MODIFIED="1440300050085" TEXT="40 Combination Sum II"/>
 </node>
 <node CREATED="1438446502510" FOLDED="true" ID="ID_1456034313" MODIFIED="1440037531694" TEXT="&#x6ca1;&#x6709;&#x505a;&#x51fa;&#x6765;">
 <node CREATED="1438446555864" FOLDED="true" ID="ID_550964475" MODIFIED="1439197632998" TEXT="92 Reverse Linked List II ">
