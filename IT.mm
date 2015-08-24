@@ -347,7 +347,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1408326594571" FOLDED="true" ID="ID_230003120" MODIFIED="1440410344728" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x6280;&#x672f;&#x57fa;&#x7840;">
+<node CREATED="1408326594571" ID="ID_230003120" MODIFIED="1440419009919" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x6280;&#x672f;&#x57fa;&#x7840;">
 <font NAME="SansSerif" SIZE="21"/>
 <node CREATED="1408327531850" FOLDED="true" ID="ID_1859435901" MODIFIED="1440144921399" TEXT="Algorithms">
 <node CREATED="1425883539799" FOLDED="true" ID="ID_914458489" MODIFIED="1440144909182" TEXT="&#x57fa;&#x7840;">
@@ -2089,7 +2089,7 @@
 <node CREATED="1418780850210" ID="ID_587698922" MODIFIED="1418780856671" TEXT="Cache model"/>
 </node>
 </node>
-<node CREATED="1415615295064" FOLDED="true" ID="ID_794965427" MODIFIED="1440410342951" TEXT="LeetCode">
+<node CREATED="1415615295064" ID="ID_794965427" MODIFIED="1440420302426" TEXT="LeetCode">
 <node CREATED="1415615455279" FOLDED="true" ID="ID_1242013920" MODIFIED="1439866372039" TEXT="classification">
 <font NAME="SansSerif" SIZE="21"/>
 <node CREATED="1415616783356" FOLDED="true" ID="ID_101315593" MODIFIED="1436936600078" TEXT="52 Array">
@@ -2523,7 +2523,7 @@
 </node>
 <node CREATED="1415793373324" ID="ID_1789445618" MODIFIED="1415793375332" TEXT="Hash"/>
 </node>
-<node CREATED="1422858220653" FOLDED="true" ID="ID_1198814514" MODIFIED="1440410341872" TEXT="Solve">
+<node CREATED="1422858220653" ID="ID_1198814514" MODIFIED="1440420303806" TEXT="Solve">
 <node CREATED="1436148273360" FOLDED="true" ID="ID_779955077" MODIFIED="1440404457052" TEXT="solved">
 <node CREATED="1422858226757" FOLDED="true" ID="ID_1932343806" MODIFIED="1440306942526" TEXT="8-queen">
 <node CREATED="1422858474155" ID="ID_1346505778" MODIFIED="1422858479211" TEXT="Trie">
@@ -6297,7 +6297,7 @@
 <node CREATED="1440300247828" ID="ID_979020918" MODIFIED="1440300247828" TEXT="}"/>
 </node>
 </node>
-<node CREATED="1437619481091" ID="ID_967418556" MODIFIED="1440404458528" TEXT="&#x8981;&#x601d;&#x8003;&#x7684;">
+<node CREATED="1437619481091" FOLDED="true" ID="ID_967418556" MODIFIED="1440420306165" TEXT="&#x8981;&#x601d;&#x8003;&#x7684;">
 <node CREATED="1437618628768" FOLDED="true" ID="ID_63016960" MODIFIED="1439453877913" TEXT="Container With Most Water">
 <node CREATED="1437618630507" FOLDED="true" ID="ID_1564782089" MODIFIED="1437618658237" TEXT="solve1(&#x8d85;&#x65f6;)">
 <node CREATED="1437618649308" ID="ID_1850616711" MODIFIED="1437618649308" TEXT="public int maxArea(int[] height) {">
@@ -6378,7 +6378,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1436148344503" FOLDED="true" ID="ID_1539823842" MODIFIED="1440410341080" TEXT="new">
+<node CREATED="1436148344503" ID="ID_1539823842" MODIFIED="1440420309124" TEXT="new">
 <node CREATED="1415616824120" ID="ID_1759070420" MODIFIED="1436237631539" TEXT="Minimum Path Sum"/>
 <node CREATED="1415616824146" ID="ID_267401278" MODIFIED="1436237631537" TEXT="Word Search"/>
 <node CREATED="1415617068166" ID="ID_1496872383" MODIFIED="1437015859673" TEXT="Search in Rotated Sorted Array"/>
@@ -6423,12 +6423,38 @@
 </node>
 <node CREATED="1440407877855" ID="ID_611402013" MODIFIED="1440407877855" TEXT="}"/>
 </node>
-<node CREATED="1440403151962" ID="ID_613803590" MODIFIED="1440403151962" TEXT="49 Group Anagrams"/>
+<node CREATED="1440403151962" FOLDED="true" ID="ID_613803590" MODIFIED="1440420481213" TEXT="49 Group Anagrams">
+<node CREATED="1440420479630" FOLDED="true" ID="ID_1717646539" MODIFIED="1440420480511" TEXT="public static List&lt;List&lt;String&gt;&gt; groupAnagrams(String[] strs) {">
+<node CREATED="1440420479630" MODIFIED="1440420479630" TEXT="List&lt;List&lt;String&gt;&gt; rst = new ArrayList&lt;List&lt;String&gt;&gt;();"/>
+<node CREATED="1440420479631" MODIFIED="1440420479631" TEXT="Map&lt;String,Integer&gt; map = new HashMap&lt;String,Integer&gt;();"/>
+<node CREATED="1440420479632" MODIFIED="1440420479632" TEXT="Arrays.sort(strs);"/>
+<node CREATED="1440420479632" MODIFIED="1440420479632" TEXT="int count = 0;"/>
+<node CREATED="1440420479633" MODIFIED="1440420479633" TEXT="for (int i = 0; i&lt;strs.length; i++) {">
+<node CREATED="1440420479633" MODIFIED="1440420479633" TEXT="char[] c = strs[i].toCharArray();"/>
+<node CREATED="1440420479634" MODIFIED="1440420479634" TEXT="Arrays.sort(c);"/>
+<node CREATED="1440420479634" MODIFIED="1440420479634" TEXT="if (!map.containsKey(String.valueOf(c))) {">
+<node CREATED="1440420479635" MODIFIED="1440420479635" TEXT="count ++;"/>
+<node CREATED="1440420479636" MODIFIED="1440420479636" TEXT="map.put(String.valueOf(c), count);"/>
+<node CREATED="1440420479636" MODIFIED="1440420479636" TEXT="List&lt;String&gt; tmp = new ArrayList&lt;String&gt;();"/>
+<node CREATED="1440420479637" MODIFIED="1440420479637" TEXT="tmp.add(strs[i]);"/>
+<node CREATED="1440420479638" MODIFIED="1440420479638" TEXT="rst.add(tmp);"/>
+</node>
+<node CREATED="1440420479638" MODIFIED="1440420479638" TEXT="} else {">
+<node CREATED="1440420479639" MODIFIED="1440420479639" TEXT="int index = map.get(String.valueOf(c))-1;"/>
+<node CREATED="1440420479640" MODIFIED="1440420479640" TEXT="rst.get(index).add(strs[i]);"/>
+</node>
+<node CREATED="1440420479640" MODIFIED="1440420479640" TEXT="}"/>
+</node>
+<node CREATED="1440420479641" MODIFIED="1440420479641" TEXT="}"/>
+<node CREATED="1440420479641" MODIFIED="1440420479641" TEXT="return rst;"/>
+</node>
+<node CREATED="1440420479642" ID="ID_238461427" MODIFIED="1440420479642" TEXT="}"/>
+</node>
 <node CREATED="1440403151962" ID="ID_1462620268" MODIFIED="1440403151962" TEXT="48 Rotate Image"/>
 <node CREATED="1440403151962" ID="ID_676814106" MODIFIED="1440403151962" TEXT="54 Spiral Matrix"/>
 <node CREATED="1440403151963" ID="ID_321175608" MODIFIED="1440407907396" TEXT="59 Spiral Matrix II"/>
 </node>
-<node CREATED="1438446502510" FOLDED="true" ID="ID_1456034313" MODIFIED="1440404234552" TEXT="&#x6ca1;&#x6709;&#x505a;&#x51fa;&#x6765;">
+<node CREATED="1438446502510" FOLDED="true" ID="ID_1456034313" MODIFIED="1440420305269" TEXT="&#x6ca1;&#x6709;&#x505a;&#x51fa;&#x6765;">
 <node CREATED="1438446555864" FOLDED="true" ID="ID_550964475" MODIFIED="1439197632998" TEXT="92 Reverse Linked List II ">
 <node CREATED="1438446557920" FOLDED="true" ID="ID_757332347" MODIFIED="1439197632136" TEXT="public ListNode reverseBetween(ListNode head, int m, int n) {">
 <node CREATED="1438446557922" MODIFIED="1438446557922" TEXT="if (m &gt;= n || head == null) {">
@@ -7475,8 +7501,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1390355353965" FOLDED="true" ID="ID_1076970212" MODIFIED="1440404200305" TEXT="JAVA">
-<node CREATED="1440383681753" FOLDED="true" ID="ID_1967605865" MODIFIED="1440404197745" TEXT="&#x6570;&#x636e;&#x7ed3;&#x6784;">
+<node CREATED="1390355353965" FOLDED="true" ID="ID_1076970212" MODIFIED="1440420301103" TEXT="JAVA">
+<node CREATED="1440383681753" FOLDED="true" ID="ID_1967605865" MODIFIED="1440420299718" TEXT="&#x6570;&#x636e;&#x7ed3;&#x6784;">
 <node CREATED="1415261574362" FOLDED="true" ID="ID_314234975" MODIFIED="1440383979004" TEXT="&#x6570;&#x636e;&#x957f;&#x5ea6;">
 <node CREATED="1415261588450" ID="ID_874369957" MODIFIED="1415261638048" TEXT="byte">
 <node CREATED="1415261620742" ID="ID_460040157" MODIFIED="1415261631421" TEXT="8"/>
@@ -7545,8 +7571,8 @@
 <node CREATED="1440383914615" ID="ID_1266426416" MODIFIED="1440383917312" TEXT="Boolean"/>
 </node>
 </node>
-<node CREATED="1440383687745" FOLDED="true" ID="ID_1603986289" MODIFIED="1440391832189" TEXT="String">
-<node CREATED="1415259856329" FOLDED="true" ID="ID_117924997" MODIFIED="1440388359848" TEXT="char[] Vs. String">
+<node CREATED="1440383687745" FOLDED="true" ID="ID_1603986289" MODIFIED="1440420288070" TEXT="String">
+<node CREATED="1415259856329" FOLDED="true" ID="ID_117924997" MODIFIED="1440420284886" TEXT="char[] Vs. String">
 <node CREATED="1415260176847" ID="ID_712246220" MODIFIED="1415260291297" TEXT="&#x8f6c;&#x6362;">
 <node CREATED="1415260056765" ID="ID_649664916" MODIFIED="1415260056765" TEXT="bm = str.toCharArray();"/>
 <node CREATED="1415260056766" ID="ID_1955951673" MODIFIED="1415260056766" TEXT="str = String.valueOf(bm);"/>
@@ -7575,7 +7601,7 @@
 </node>
 <node CREATED="1440389282554" ID="ID_371547093" MODIFIED="1440389287819" TEXT="substring(a,b)"/>
 </node>
-<node CREATED="1440390179760" ID="ID_1347849904" MODIFIED="1440390185897" TEXT="&#x6548;&#x7387;&#x6d4b;&#x8bd5;">
+<node CREATED="1440390179760" FOLDED="true" ID="ID_1347849904" MODIFIED="1440420286173" TEXT="&#x6548;&#x7387;&#x6d4b;&#x8bd5;">
 <node CREATED="1440390407901" FOLDED="true" ID="ID_315407538" MODIFIED="1440390898502" TEXT="&#x4ee3;&#x7801;">
 <node CREATED="1440390362462" FOLDED="true" ID="ID_652463192" MODIFIED="1440390405859" TEXT="String">
 <node CREATED="1440390403198" ID="ID_1040726459" MODIFIED="1440390403198" TEXT="String s = &quot;&quot;;"/>
@@ -8652,7 +8678,7 @@
 <node CREATED="1414504685037" ID="ID_1993614860" MODIFIED="1414504685037" TEXT="Process p = run.exec(cmd)"/>
 <node CREATED="1414504701339" ID="ID_678815271" MODIFIED="1414504701339" TEXT="p.waitFor();"/>
 </node>
-<node CREATED="1430634684330" ID="ID_918314796" MODIFIED="1440390187925" TEXT="&#x6d4b;&#x8bd5;">
+<node CREATED="1430634684330" FOLDED="true" ID="ID_918314796" MODIFIED="1440420292341" TEXT="&#x6d4b;&#x8bd5;">
 <node CREATED="1430635121790" FOLDED="true" ID="ID_168196994" MODIFIED="1440390358212" TEXT="&#x65f6;&#x95f4;&#x590d;&#x6742;&#x5ea6;&#x5206;&#x6790;&#x6846;&#x67b6;">
 <node CREATED="1430634687031" ID="ID_90293956" MODIFIED="1440390198563" TEXT="&#x8017;&#x65f6;&#x4ee3;&#x7801;">
 <node CREATED="1430634690522" ID="ID_614844498" MODIFIED="1430635101875" TEXT="Stopwatch timer = new Stopwatch();"/>
@@ -16377,7 +16403,7 @@
 <node CREATED="1422926721108" ID="ID_506881748" MODIFIED="1422926721108" TEXT="rarbg"/>
 </node>
 </node>
-<node CREATED="1406180675309" ID="ID_899276002" MODIFIED="1440383555276" POSITION="right" TEXT="&#x6846;&#x67b6;">
+<node CREATED="1406180675309" FOLDED="true" ID="ID_899276002" MODIFIED="1440418998092" POSITION="right" TEXT="&#x6846;&#x67b6;">
 <node CREATED="1406180682716" FOLDED="true" ID="ID_930216868" MODIFIED="1433492779335" TEXT="RPC">
 <node CREATED="1406180705804" ID="ID_688771872" MODIFIED="1406180707325" TEXT="  RPC(Remote Procedure Call protoco) &#x662f;&#x5206;&#x5e03;&#x5f0f;&#x662f;&#x7cfb;&#x7edf;&#x7684;&#x57fa;&#x7840;&#xff0c;&#x6bd4;&#x5982;Hadoop&#xff0c;Hbase&#xff0c;&#x7b49;&#xff0c;&#x4ed6;&#x4eec;&#x7684;&#x8282;&#x70b9;&#x4e4b;&#x95f4;&#x901a;&#x4fe1;&#x90fd;&#x662f;&#x901a;&#x8fc7;RPC&#x8c03;&#x7528;&#xff0c;&#x5373;&#x5e95;&#x5c42;&#x662f;socket tcp&#x534f;&#x8bae;&#xff0c;&#x901a;&#x8fc7;RPC&#xff0c;&#x5e94;&#x7528;&#x5c42;&#x53ef;&#x4ee5;&#x4e0d;&#x7ba1;&#x5e95;&#x5c42;&#x5b9e;&#x73b0;&#xff0c;&#x5728;&#x5ba2;&#x6237;&#x7aef;&#x901a;&#x8fc7;&#x8c03;&#x7528;&#x672c;&#x5730;&#x63a5;&#x53e3;&#xff0c;&#x5c31;&#x76f8;&#x5f53;&#x4e8e;&#x8c03;&#x7528;&#x4e86;&#x8fdc;&#x7a0b;&#x7684;&#x670d;&#x52a1;(&#x8fdc;&#x7a0b;&#x7684;&#x63a5;&#x53e3;&#x662f;&#x4e00;&#x4e2a;&#x670d;&#x52a1;)&#x3002;&#x4e00;&#x4e2a;&#x7b80;&#x5355;&#x7684;&#x8fc7;&#x7a0b;&#x5982;&#x4e0b;:  1 &#x5ba2;&#x6237;&#x7aef;&#x7aef;&#x53d1;&#x8d77;&#x8c03;&#x7528;&#xff0c;&#x628a;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#x653e;&#x5165;&#x53d1;&#x9001;&#x961f;&#x5217;&#xff0c;Block&#x4f4f;&#x5f53;&#x524d;&#x7ebf;&#x7a0b;&#xff0c;&#x4fdd;&#x5b58;&#x4e0a;&#x4e0b;&#x6587;&#x3002;  2 RPC&#x6846;&#x67b6;&#x4ece;&#x961f;&#x5217;&#x53d6;&#x51fa;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#xff0c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x5230;&#x670d;&#x52a1;&#x7aef;&#x3002;  3 &#x670d;&#x52a1;&#x7aef;&#x63a5;&#x6536;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x8c03;&#x7528;&#x5bf9;&#x4e8e;&#x7684;&#x65b9;&#x6cd5;&#x3002;&#x628a;&#x8fd4;&#x56de;&#x7ed3;&#x679c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x7ed9;&#x5ba2;&#x6237;&#x7aef;&#x3002;  4 &#x5ba2;&#x6237;&#x7aef;&#x63a5;&#x6536;&#x5230;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x6839;&#x636e;&#x8bf7;&#x6c42;&#x552f;&#x4e00;&#x6807;&#x8bc6;&#xff0c;&#x627e;&#x5230;Block&#x4f4f;&#x7ebf;&#x7a0b;&#x7684;&#x4e0a;&#x4e0b;&#x6587;&#xff0c;&#x91ca;&#x653e;&#x8be5;&#x7ebf;&#x7a0b;&#x3002;  5 &#x5ba2;&#x6237;&#x7aef;&#x62ff;&#x5230;&#x7ed3;&#x679c;&#x3002;  Bison &#x662f;&#x4e00;&#x4e2a;JAVA &#x7a0b;&#x95f4;&#x7684;&#x901a;&#x4fe1;&#x6846;&#x67b6;&#xff0c;&#x57fa;&#x4e8e;apache mina &#x5b9e;&#x73b0;&#xff0c;&#x5bf9;mina&#x8fdb;&#x884c;&#x4e86;byteBuffer &#x7f13;&#x51b2;&#x533a;&#x91cd;&#x7528;&#x4ee5;&#x53ca;&#x534a;&#x5305;&#x51fa;&#x5904;&#x65f6;&#x51cf;&#x5c11;&#x62f7;&#x8d1d;&#x3002;  &#x5ba2;&#x6237;&#x7aef;(bison-client) &#x529f;&#x80fd;&#x70b9;  1 &#x4e1a;&#x52a1;&#x5206;&#x7ec4;&#x3002;  2 &#x652f;&#x6301;&#x5206;&#x7ec4;&#x5185;&#x8d1f;&#x8f7d;&#x5747;&#x8861;&#x3002;  3 &#x652f;&#x6301;&#x6a2a;&#x5411;&#x6269;&#x5c55;&#x3002;  &#x670d;&#x52a1;&#x7aef;(bison)  1 &#x652f;&#x6301;&#x70ed;&#x90e8;&#x7f72;  2 &#x652f;&#x6301;&#x9ad8;&#x7528;&#x6027;&#xff1a;&#x9ad8;&#x53ef;&#x7528;&#x7684;&#x4e00;&#x4e2a;&#x57fa;&#x672c;&#x539f;&#x5219;&#xff0c;&#x53ef;&#x4ee5;&#x63a5;&#x53d7;&#x5feb;&#x901f;&#x7684;&#x5931;&#x8d25;&#xff0c;&#x4f46;&#x4e0d;&#x80fd;&#x63a5;&#x53d7;&#x957f;&#x65f6;&#x95f4;&#x7684;&#x7b49;&#x5f85;&#x3002;  3 &#x8d44;&#x6e90;&#x7edf;&#x4e00;&#x7ba1;&#x7406;&#x3002;&#x6570;&#x636e;&#x5e93;&#x8fde;&#x63a5;&#x6c60;&#xff0c;&#x5de5;&#x4f5c;&#x7ebf;&#x7a0b;,&#x7b49;&#x3002;  4 &#x652f;&#x6301;&#x767d;&#x540d;&#x5355;&#xff0c;&#x9ed1;&#x540d;&#x5355;&#x3002;   Githup&#x5730;&#x5740;:https://github.com/gavenpeng/Bison  &#x5206;&#x4eab;&#x7684;&#x76ee;&#x7684;  bison &#x7b80;&#x5355;&#x6613;&#x7528;&#x7684;RPC&#x6846;&#x67b6;&#xff0c;&#x5bf9;&#x5916;&#x5c31;&#x4f9d;&#x8d56;mina&#xff0c;&#x6ca1;&#x6709;&#x592a;&#x591a;&#x7684;&#x914d;&#x7f6e;&#xff0c;&#x5f88;&#x5bb9;&#x6613;&#x90e8;&#x7f72;&#xff0c;&#x5206;&#x4eab;&#x5728;&#x8fd9;&#x91cc;&#x5b8c;&#x5168;&#x662f;&#x4e3a;&#x4e86;&#x76f8;&#x4e92;&#x5b66;&#x4e60;&#x3002;&#x5982;&#x679c;&#x4f60;&#x6709;&#x4ec0;&#x4e48;&#x95ee;&#x9898;&#xff0c;&#x53ef;&#x4ee5;&#x5728;&#x65b0;&#x6d6a;&#x5fae;&#x535a;@&#x6df1;&#x6d77;&#x4e4b;&#x501a;&#x5929;&#x5251;"/>
 </node>
