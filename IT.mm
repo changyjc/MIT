@@ -407,7 +407,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1408326594571" FOLDED="true" ID="ID_230003120" MODIFIED="1450412730604" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x6280;&#x672f;&#x57fa;&#x7840;">
+<node CREATED="1408326594571" FOLDED="true" ID="ID_230003120" MODIFIED="1451991385123" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x6280;&#x672f;&#x57fa;&#x7840;">
 <font NAME="SansSerif" SIZE="21"/>
 <node CREATED="1408327531850" FOLDED="true" ID="ID_1859435901" MODIFIED="1445830756315" TEXT="Algorithms">
 <node CREATED="1425883539799" FOLDED="true" ID="ID_914458489" MODIFIED="1440144909182" TEXT="&#x57fa;&#x7840;">
@@ -7820,7 +7820,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1390355353965" FOLDED="true" ID="ID_1076970212" MODIFIED="1446537245397" TEXT="JAVA">
+<node CREATED="1390355353965" FOLDED="true" ID="ID_1076970212" MODIFIED="1451991385122" TEXT="JAVA">
 <node CREATED="1440383681753" FOLDED="true" ID="ID_1967605865" MODIFIED="1442993587720" TEXT="&#x6570;&#x636e;&#x7ed3;&#x6784;">
 <node CREATED="1415261574362" FOLDED="true" ID="ID_314234975" MODIFIED="1440383979004" TEXT="&#x6570;&#x636e;&#x957f;&#x5ea6;">
 <node CREATED="1415261588450" ID="ID_874369957" MODIFIED="1415261638048" TEXT="byte">
@@ -8817,7 +8817,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1392708383406" FOLDED="true" ID="ID_1933984754" MODIFIED="1442827882786" TEXT="Ecliipse/MyEclipse">
+<node CREATED="1392708383406" FOLDED="true" ID="ID_1933984754" MODIFIED="1451991385113" TEXT="Ecliipse/MyEclipse">
 <node CREATED="1392708903659" ID="ID_241813191" MODIFIED="1392708910478" TEXT="Web Server">
 <node CREATED="1392708404544" ID="ID_1351816357" MODIFIED="1442564521593" TEXT="&#x66ff;&#x6362; WEB-INF">
 <node CREATED="1392708450968" ID="ID_262988618" MODIFIED="1392708470708" TEXT="&#x632a;&#x5230;WEB-ROOT"/>
@@ -20594,7 +20594,7 @@
 <node CREATED="1422926721108" ID="ID_506881748" MODIFIED="1422926721108" TEXT="rarbg"/>
 </node>
 </node>
-<node CREATED="1406180675309" FOLDED="true" ID="ID_899276002" MODIFIED="1444805016875" POSITION="right" TEXT="&#x6846;&#x67b6;">
+<node CREATED="1406180675309" FOLDED="true" ID="ID_899276002" MODIFIED="1451994316201" POSITION="right" TEXT="&#x6846;&#x67b6;">
 <node CREATED="1406180682716" FOLDED="true" ID="ID_930216868" MODIFIED="1444718306990" TEXT="RPC">
 <node CREATED="1406180705804" ID="ID_688771872" MODIFIED="1406180707325" TEXT="  RPC(Remote Procedure Call protoco) &#x662f;&#x5206;&#x5e03;&#x5f0f;&#x662f;&#x7cfb;&#x7edf;&#x7684;&#x57fa;&#x7840;&#xff0c;&#x6bd4;&#x5982;Hadoop&#xff0c;Hbase&#xff0c;&#x7b49;&#xff0c;&#x4ed6;&#x4eec;&#x7684;&#x8282;&#x70b9;&#x4e4b;&#x95f4;&#x901a;&#x4fe1;&#x90fd;&#x662f;&#x901a;&#x8fc7;RPC&#x8c03;&#x7528;&#xff0c;&#x5373;&#x5e95;&#x5c42;&#x662f;socket tcp&#x534f;&#x8bae;&#xff0c;&#x901a;&#x8fc7;RPC&#xff0c;&#x5e94;&#x7528;&#x5c42;&#x53ef;&#x4ee5;&#x4e0d;&#x7ba1;&#x5e95;&#x5c42;&#x5b9e;&#x73b0;&#xff0c;&#x5728;&#x5ba2;&#x6237;&#x7aef;&#x901a;&#x8fc7;&#x8c03;&#x7528;&#x672c;&#x5730;&#x63a5;&#x53e3;&#xff0c;&#x5c31;&#x76f8;&#x5f53;&#x4e8e;&#x8c03;&#x7528;&#x4e86;&#x8fdc;&#x7a0b;&#x7684;&#x670d;&#x52a1;(&#x8fdc;&#x7a0b;&#x7684;&#x63a5;&#x53e3;&#x662f;&#x4e00;&#x4e2a;&#x670d;&#x52a1;)&#x3002;&#x4e00;&#x4e2a;&#x7b80;&#x5355;&#x7684;&#x8fc7;&#x7a0b;&#x5982;&#x4e0b;:  1 &#x5ba2;&#x6237;&#x7aef;&#x7aef;&#x53d1;&#x8d77;&#x8c03;&#x7528;&#xff0c;&#x628a;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#x653e;&#x5165;&#x53d1;&#x9001;&#x961f;&#x5217;&#xff0c;Block&#x4f4f;&#x5f53;&#x524d;&#x7ebf;&#x7a0b;&#xff0c;&#x4fdd;&#x5b58;&#x4e0a;&#x4e0b;&#x6587;&#x3002;  2 RPC&#x6846;&#x67b6;&#x4ece;&#x961f;&#x5217;&#x53d6;&#x51fa;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#xff0c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x5230;&#x670d;&#x52a1;&#x7aef;&#x3002;  3 &#x670d;&#x52a1;&#x7aef;&#x63a5;&#x6536;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x8c03;&#x7528;&#x5bf9;&#x4e8e;&#x7684;&#x65b9;&#x6cd5;&#x3002;&#x628a;&#x8fd4;&#x56de;&#x7ed3;&#x679c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x7ed9;&#x5ba2;&#x6237;&#x7aef;&#x3002;  4 &#x5ba2;&#x6237;&#x7aef;&#x63a5;&#x6536;&#x5230;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x6839;&#x636e;&#x8bf7;&#x6c42;&#x552f;&#x4e00;&#x6807;&#x8bc6;&#xff0c;&#x627e;&#x5230;Block&#x4f4f;&#x7ebf;&#x7a0b;&#x7684;&#x4e0a;&#x4e0b;&#x6587;&#xff0c;&#x91ca;&#x653e;&#x8be5;&#x7ebf;&#x7a0b;&#x3002;  5 &#x5ba2;&#x6237;&#x7aef;&#x62ff;&#x5230;&#x7ed3;&#x679c;&#x3002;  Bison &#x662f;&#x4e00;&#x4e2a;JAVA &#x7a0b;&#x95f4;&#x7684;&#x901a;&#x4fe1;&#x6846;&#x67b6;&#xff0c;&#x57fa;&#x4e8e;apache mina &#x5b9e;&#x73b0;&#xff0c;&#x5bf9;mina&#x8fdb;&#x884c;&#x4e86;byteBuffer &#x7f13;&#x51b2;&#x533a;&#x91cd;&#x7528;&#x4ee5;&#x53ca;&#x534a;&#x5305;&#x51fa;&#x5904;&#x65f6;&#x51cf;&#x5c11;&#x62f7;&#x8d1d;&#x3002;  &#x5ba2;&#x6237;&#x7aef;(bison-client) &#x529f;&#x80fd;&#x70b9;  1 &#x4e1a;&#x52a1;&#x5206;&#x7ec4;&#x3002;  2 &#x652f;&#x6301;&#x5206;&#x7ec4;&#x5185;&#x8d1f;&#x8f7d;&#x5747;&#x8861;&#x3002;  3 &#x652f;&#x6301;&#x6a2a;&#x5411;&#x6269;&#x5c55;&#x3002;  &#x670d;&#x52a1;&#x7aef;(bison)  1 &#x652f;&#x6301;&#x70ed;&#x90e8;&#x7f72;  2 &#x652f;&#x6301;&#x9ad8;&#x7528;&#x6027;&#xff1a;&#x9ad8;&#x53ef;&#x7528;&#x7684;&#x4e00;&#x4e2a;&#x57fa;&#x672c;&#x539f;&#x5219;&#xff0c;&#x53ef;&#x4ee5;&#x63a5;&#x53d7;&#x5feb;&#x901f;&#x7684;&#x5931;&#x8d25;&#xff0c;&#x4f46;&#x4e0d;&#x80fd;&#x63a5;&#x53d7;&#x957f;&#x65f6;&#x95f4;&#x7684;&#x7b49;&#x5f85;&#x3002;  3 &#x8d44;&#x6e90;&#x7edf;&#x4e00;&#x7ba1;&#x7406;&#x3002;&#x6570;&#x636e;&#x5e93;&#x8fde;&#x63a5;&#x6c60;&#xff0c;&#x5de5;&#x4f5c;&#x7ebf;&#x7a0b;,&#x7b49;&#x3002;  4 &#x652f;&#x6301;&#x767d;&#x540d;&#x5355;&#xff0c;&#x9ed1;&#x540d;&#x5355;&#x3002;   Githup&#x5730;&#x5740;:https://github.com/gavenpeng/Bison  &#x5206;&#x4eab;&#x7684;&#x76ee;&#x7684;  bison &#x7b80;&#x5355;&#x6613;&#x7528;&#x7684;RPC&#x6846;&#x67b6;&#xff0c;&#x5bf9;&#x5916;&#x5c31;&#x4f9d;&#x8d56;mina&#xff0c;&#x6ca1;&#x6709;&#x592a;&#x591a;&#x7684;&#x914d;&#x7f6e;&#xff0c;&#x5f88;&#x5bb9;&#x6613;&#x90e8;&#x7f72;&#xff0c;&#x5206;&#x4eab;&#x5728;&#x8fd9;&#x91cc;&#x5b8c;&#x5168;&#x662f;&#x4e3a;&#x4e86;&#x76f8;&#x4e92;&#x5b66;&#x4e60;&#x3002;&#x5982;&#x679c;&#x4f60;&#x6709;&#x4ec0;&#x4e48;&#x95ee;&#x9898;&#xff0c;&#x53ef;&#x4ee5;&#x5728;&#x65b0;&#x6d6a;&#x5fae;&#x535a;@&#x6df1;&#x6d77;&#x4e4b;&#x501a;&#x5929;&#x5251;"/>
 </node>
@@ -20666,7 +20666,7 @@
 <node CREATED="1426831792047" ID="ID_1010640795" MODIFIED="1426831792047" TEXT="Logger"/>
 </node>
 </node>
-<node CREATED="1408325654828" FOLDED="true" ID="ID_1780022389" MODIFIED="1444805015990" TEXT="J2EE">
+<node CREATED="1408325654828" FOLDED="true" ID="ID_1780022389" MODIFIED="1451994315577" TEXT="J2EE">
 <node CREATED="1409664892944" FOLDED="true" ID="ID_1579492439" MODIFIED="1444723578166" TEXT="&#x751f;&#x6001;&#x7cfb;&#x7edf;">
 <node CREATED="1409664910849" ID="ID_1558125138" MODIFIED="1411703132219" TEXT="Apache Commons">
 <node CREATED="1409707707781" FOLDED="true" ID="ID_749898338" MODIFIED="1444718207592" TEXT="IO">
@@ -20898,7 +20898,7 @@
 </node>
 </node>
 <node CREATED="1444718297905" ID="ID_1508547971" MODIFIED="1444800717640" TEXT="SSH">
-<node CREATED="1390355830950" ID="ID_1919797641" MODIFIED="1444801841999" TEXT="struts2">
+<node CREATED="1390355830950" FOLDED="true" ID="ID_1919797641" MODIFIED="1451991492253" TEXT="struts2">
 <node CREATED="1444718027356" ID="ID_632074474" MODIFIED="1444718031186" TEXT="&#x4f5c;&#x7528;">
 <node CREATED="1444718031187" ID="ID_1759041406" MODIFIED="1444718033381" TEXT="&#x63a7;&#x5236;">
 <node CREATED="1444718049098" ID="ID_1965890766" MODIFIED="1444718049098" TEXT="1.&#x83b7;&#x53d6;&#x8868;&#x5355;&#x5185;&#x5bb9;,&#x5e76;&#x7ec4;&#x7ec7;&#x751f;&#x6210;&#x53c2;&#x6570;&#x5bf9;&#x8c61;"/>
@@ -20954,7 +20954,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1411630813358" FOLDED="true" ID="ID_1735288159" MODIFIED="1444805012276" TEXT="Spring">
+<node CREATED="1411630813358" FOLDED="true" ID="ID_1735288159" MODIFIED="1451991460213" TEXT="Spring">
 <node CREATED="1444792254403" FOLDED="true" ID="ID_1614341779" MODIFIED="1444801003531" TEXT="&#x529f;&#x80fd;">
 <node CREATED="1444792316395" ID="ID_216620900" MODIFIED="1444792325260" TEXT="DAO">
 <node CREATED="1444792472561" ID="ID_862248206" MODIFIED="1444792482345" TEXT="data source"/>
@@ -21177,7 +21177,7 @@
 </node>
 <node CREATED="1444800731000" ID="ID_1760389144" MODIFIED="1444800731000" TEXT="&lt;/bean&gt;"/>
 </node>
-<node CREATED="1444792482665" FOLDED="true" ID="ID_666813875" MODIFIED="1444805010236" TEXT="session">
+<node CREATED="1444792482665" FOLDED="true" ID="ID_666813875" MODIFIED="1451991460211" TEXT="session">
 <node CREATED="1444800783751" ID="ID_255434053" MODIFIED="1444800783751" TEXT="&lt;bean id=&quot;sessionFactory&quot; class=&quot;org.springframework.orm.hibernate3.LocalSessionFactoryBean&quot;&gt;"/>
 <node CREATED="1444800783756" FOLDED="true" ID="ID_789733390" MODIFIED="1444800805556" TEXT="&lt;property name=&quot;dataSource&quot; ref=&quot;dataSource&quot;/&gt;">
 <node CREATED="1444800783757" FOLDED="true" ID="ID_1001779416" MODIFIED="1444800803645" TEXT="&lt;property name=&quot;mappingResources&quot;&gt;">
@@ -21194,7 +21194,7 @@
 <node CREATED="1444800783759" ID="ID_247880430" MODIFIED="1444800783759" TEXT="hibernate.dialect=org.hibernate.dialect.MySQLDialect"/>
 <node CREATED="1444800783759" ID="ID_753579493" MODIFIED="1444800783759" TEXT="hibernate.show_sql=true"/>
 <node CREATED="1444800783759" ID="ID_520707756" MODIFIED="1444800783759" TEXT="hibernate.format_sql=false"/>
-<node CREATED="1444800783759" MODIFIED="1444800783759" TEXT="&lt;!-- &#x914d;&#x7f6e;hibernate&#x4e8c;&#x7ea7;&#x7f13;&#x5b58; oscache ehcache hashtable --&gt;"/>
+<node CREATED="1444800783759" ID="ID_956827070" MODIFIED="1444800783759" TEXT="&lt;!-- &#x914d;&#x7f6e;hibernate&#x4e8c;&#x7ea7;&#x7f13;&#x5b58; oscache ehcache hashtable --&gt;"/>
 <node CREATED="1444800783777" ID="ID_1078597193" MODIFIED="1444800783777" TEXT="hibernate.cache.use_second_level_cache=true"/>
 <node CREATED="1444800783777" ID="ID_1786820894" MODIFIED="1444800783777" TEXT="hibernate.cache.provider_class=org.hibernate.cache.EhCacheProvider"/>
 <node CREATED="1444800783779" ID="ID_1779083879" MODIFIED="1444800783779" TEXT="hibernate.generate_statistics=true"/>
@@ -21207,7 +21207,7 @@
 </node>
 </node>
 <node CREATED="1418094713932" ID="ID_924726164" MODIFIED="1418094716630" TEXT="AOP"/>
-<node CREATED="1444792428932" FOLDED="true" ID="ID_1852519571" MODIFIED="1444801135201" TEXT="Transaction">
+<node CREATED="1444792428932" FOLDED="true" ID="ID_1852519571" MODIFIED="1451991400636" TEXT="Transaction">
 <node CREATED="1444800938172" ID="ID_821579424" MODIFIED="1444800938172" TEXT="&lt;bean id=&quot;txManager&quot; class=&quot;org.springframework.orm.hibernate3.HibernateTransactionManager&quot;&gt;">
 <node CREATED="1444800938174" MODIFIED="1444800938174" TEXT="&lt;property name=&quot;sessionFactory&quot; ref=&quot;sessionFactory&quot;/&gt;"/>
 </node>
@@ -21220,8 +21220,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1390134295727" FOLDED="true" ID="ID_67127055" MODIFIED="1444803856247" TEXT="hibernate">
-<node CREATED="1390134300315" FOLDED="true" ID="ID_1421189995" MODIFIED="1444724709444" TEXT="&#x5fc5;&#x8981;&#x6027;">
+<node CREATED="1390134295727" FOLDED="true" ID="ID_67127055" MODIFIED="1451994113363" TEXT="hibernate">
+<node CREATED="1390134300315" FOLDED="true" ID="ID_1421189995" MODIFIED="1451993083365" TEXT="&#x5fc5;&#x8981;&#x6027;">
 <node CREATED="1390134609056" ID="ID_906649889" MODIFIED="1390134663567" TEXT="&#x2460;&#x5f15;&#x5165;hibernate&#x53ef;&#x4ee5;&#x4f7f;&#x5de5;&#x4f5c;&#x4eba;&#x5458;&#x89d2;&#x8272;&#x7ec6;&#x5316;&#xff0c;&#x8ba9;&#x7a0b;&#x5e8f;&#x5458;&#x66f4;&#x5173;&#x5fc3;&#x4e1a;&#x52a1;&#x6d41; &#x7a0b;&#x3002;&#x8ba9;&#x6570;&#x636e;&#x5e93;&#x4eba;&#x5458;&#x5173;&#x6ce8;&#x6570;&#x636e;&#x5e93;&#x76f8;&#x5173;&#x7684;&#x5404;&#x79cd;&#x64cd;&#x4f5c;&#x3002; &#x9;"/>
 <node CREATED="1390134625432" ID="ID_1537752474" MODIFIED="1390134631031" TEXT="&#x2461;&#x5206;&#x5c42;&#x66f4;&#x6e05;&#x6670;&#xff0c;&#x8026;&#x5408;&#x6027;&#x66f4;&#x5c0f;&#x3002; &#x9;"/>
 <node CREATED="1390134631031" ID="ID_260297415" MODIFIED="1390134637566" TEXT="&#x2462;&#x901a;&#x7528;&#x6027;&#x5f3a;&#xff1a;&#x53ef;&#x4ee5;&#x66f4;&#x8f7b;&#x677e;&#x7684;&#x4ece;&#x4e00;&#x4e2a;&#x6570;&#x636e;&#x5e93;&#x5e73;&#x53f0;&#x8f6c;&#x79fb;&#x5230;&#x522b;&#x7684;&#x5e73;&#x53f0;&#x3002; &#x9;"/>
@@ -21229,9 +21229,9 @@
 <node CREATED="1390134642583" ID="ID_604657448" MODIFIED="1390134649831" TEXT="&#x2464;&#x6027;&#x80fd;&#x4fdd;&#x8bc1;&#xff1a;hibernate&#x53ef;&#x80fd;&#x6309;&#x4e0d;&#x540c;&#x7684;&#x6570;&#x636e;&#x5e93;&#xff0c;&#x5904;&#x7406;&#x4e0d;&#x540c;&#x7684;&#x64cd;&#x4f5c;&#x662f;&#x7528; &#x6700;&#x4f18;&#x5316;&#x7684;SQL&#x8bed;&#x53e5;&#xff0c;&#x4e0d;&#x7528;&#x6211;&#x4eec;&#x53bb;&#x60f3;&#xff0c;&#x5bf9;&#x4e8e;&#x5206;&#x7b49;&#x7b97;&#x6cd5;&#xff0c;&#x5728;hibernate&#x4e2d;&#x4f1a;&#x663e; &#x5f97;&#x66f4;&#x7b80;&#x5355;&#xff0c;&#x53ef;&#x9760;&#x3002; &#x9;"/>
 <node CREATED="1390134649837" ID="ID_354080675" MODIFIED="1390134649838" TEXT="&#x2465;&#x589e;&#x52a0;&#x4e86;&#x7a0b;&#x5e8f;&#x7684;&#x9c81;&#x68d2;&#x6027;! "/>
 </node>
-<node CREATED="1390134760458" FOLDED="true" ID="ID_1819004283" MODIFIED="1444801233880" TEXT="&#x6982;&#x5ff5;">
+<node CREATED="1390134760458" FOLDED="true" ID="ID_1819004283" MODIFIED="1451991555181" TEXT="&#x6982;&#x5ff5;">
 <node CREATED="1390134764946" ID="ID_1393175596" MODIFIED="1390134768526" TEXT="ORM"/>
-<node CREATED="1390135184248" FOLDED="true" ID="ID_333326834" MODIFIED="1442827908144" TEXT="POJO">
+<node CREATED="1390135184248" ID="ID_333326834" MODIFIED="1451991519473" TEXT="POJO">
 <node CREATED="1390135282037" ID="ID_568799770" MODIFIED="1390135284569" TEXT="com.xxx.domain"/>
 <node CREATED="1390135291126" ID="ID_1961494189" MODIFIED="1390135308471" TEXT="&#x89c4;&#x8303;">
 <node CREATED="1390135410455" ID="ID_909170914" MODIFIED="1390135479406" TEXT="&#x2460;&#x6709;&#x4e00;&#x4e2a;&#x4e3b;&#x952e;&#x5c5e;&#x6027;,&#x7528;&#x4e8e;&#x552f;&#x4e00;&#x6807;&#x8bc6;&#x8be5;&#x5bf9;&#x8c61;&#x3002;">
@@ -21259,7 +21259,7 @@
 <node CREATED="1390136952342" ID="ID_930826425" MODIFIED="1442820713765" TEXT="HQL(Hibernate Query Language)-">
 <node CREATED="1390136992643" ID="ID_1599945233" MODIFIED="1390136992643" TEXT="a.&#x68c0;&#x7d22;&#x7c7b;&#x7684;&#x5168;&#x90e8;&#x5c5e;&#x6027;"/>
 <node CREATED="1390136992646" ID="ID_844472586" MODIFIED="1390136992646" TEXT="b.&#x68c0;&#x7d22;&#x7c7b;&#x7684;&#x90e8;&#x5206;&#x5c5e;&#x6027;"/>
-<node CREATED="1390136992647" FOLDED="true" ID="ID_1336754020" MODIFIED="1442821238415" TEXT="c.&#x4f7f;&#x7528;&#x51fd;&#x6570;">
+<node CREATED="1390136992647" ID="ID_1336754020" MODIFIED="1451991539591" TEXT="c.&#x4f7f;&#x7528;&#x51fd;&#x6570;">
 <node CREATED="1390137112625" ID="ID_73501743" MODIFIED="1390137112625" TEXT="&#x25a0; uniqueResult&#x65b9;&#x6cd5;"/>
 <node CREATED="1390137151331" ID="ID_1111714132" MODIFIED="1390137151331" TEXT="&#x8fc7;&#x6ee4;&#x91cd;&#x590d;&#x503c;/between..and"/>
 <node CREATED="1390137176087" ID="ID_1941429425" MODIFIED="1390137176087" TEXT="&#x6a21;&#x7cca;&#x67e5;&#x8be2;,order by"/>
@@ -21272,9 +21272,9 @@
 </node>
 <node CREATED="1390138721045" ID="ID_1813518327" MODIFIED="1390138721045" TEXT="&#x5206;&#x9875;&#x663e;&#x793a;&#x5bf9;&#x8c61;"/>
 <node CREATED="1390138833834" ID="ID_924444175" MODIFIED="1390138833834" TEXT="&#x53c2;&#x6570;&#x7ed1;&#x5b9a;"/>
-<node CREATED="1390138889289" ID="ID_936441209" MODIFIED="1390138889289" TEXT="&#x25a0; &#x5728;&#x6620;&#x5c04;&#x6587;&#x4ef6;&#x4e2d;&#x5f97;&#x5230;hql&#x8bed;&#x53e5;"/>
-<node CREATED="1390138906530" ID="ID_250156169" MODIFIED="1390138906530" TEXT="&#x25a0; &#x4f7f;&#x7528;&#x5b50;&#x67e5;&#x8be2;"/>
-<node CREATED="1390138926236" ID="ID_705125057" MODIFIED="1390138926236" TEXT="&#x25a0; &#x591a;&#x8868;&#x67e5;&#x8be2;"/>
+<node CREATED="1390138889289" ID="ID_936441209" MODIFIED="1451991545235" TEXT="&#x5728;&#x6620;&#x5c04;&#x6587;&#x4ef6;&#x4e2d;&#x5f97;&#x5230;hql&#x8bed;&#x53e5;"/>
+<node CREATED="1390138906530" ID="ID_250156169" MODIFIED="1451991547186" TEXT="&#x4f7f;&#x7528;&#x5b50;&#x67e5;&#x8be2;"/>
+<node CREATED="1390138926236" ID="ID_705125057" MODIFIED="1451991549188" TEXT="&#x591a;&#x8868;&#x67e5;&#x8be2;"/>
 </node>
 <node CREATED="1390136992650" ID="ID_1674243326" MODIFIED="1390136992650" TEXT="d.&#x6a21;&#x7cca;&#x67e5;&#x8be2; like &#x5c5e;&#x6027; &#x2018;%_&#x2019;"/>
 </node>
@@ -21287,16 +21287,16 @@
 <node CREATED="1390139187611" ID="ID_150492050" MODIFIED="1390139187611" TEXT="&#x8131;&#x7ba1;/&#x6e38;&#x79bb;(detached)&#xff1a;&#x6570;&#x636e;&#x5e93;&#x4e2d;&#x6709;&#x6570;&#x636e;&#x4e0e;&#x4e4b;&#x5bf9;&#x5e94;&#xff0c;&#x4f46;&#x5f53;&#x524d;&#x6ca1;&#x6709;session&#x4e0e;&#x4e4b;&#x5173;&#x8054;&#xff1b;&#x8131;&#x7ba1;&#x5bf9;&#x8c61;&#x72b6;&#x6001;&#x53d1;&#x751f;&#x6539;&#x53d8;&#xff0c;hibernate&#x4e0d;&#x80fd;&#x68c0;&#x6d4b;&#x5230;&#x3002;"/>
 </node>
 </node>
-<node CREATED="1390134840094" FOLDED="true" ID="ID_1286293273" MODIFIED="1444723653917" TEXT="&#x5f00;&#x53d1;&#x65b9;&#x5f0f;">
+<node CREATED="1390134840094" FOLDED="true" ID="ID_1286293273" MODIFIED="1451993082204" TEXT="&#x5f00;&#x53d1;&#x65b9;&#x5f0f;">
 <node CREATED="1390134852170" ID="ID_1114672272" MODIFIED="1390134875343" TEXT="1&#x7531;Domain object -&gt; mapping-&gt;db&#x3002;(&#x5b98;&#x65b9;&#x63a8;&#x8350;) "/>
 <node CREATED="1390134875343" ID="ID_1624649723" MODIFIED="1390134875344" TEXT="2&#x7531;DB&#x5f00;&#x59cb;&#xff0c;&#x7528;&#x5de5;&#x5177;&#x751f;&#x6210;mapping&#x548c;Domain object&#x3002;(&#x4f7f;&#x7528;&#x8f83;&#x591a;)"/>
 <node CREATED="1390134864077" ID="ID_1974888315" MODIFIED="1390134864078" TEXT="3&#x7531;&#x6620;&#x5c04;&#x6587;&#x4ef6;&#x5f00;&#x59cb;&#x3002;"/>
 </node>
-<node CREATED="1390134976172" FOLDED="true" ID="ID_42981814" MODIFIED="1444723656149" TEXT="&#x6d41;&#x7a0b;">
-<node CREATED="1390134980798" ID="ID_659058893" MODIFIED="1390135693156" TEXT="">
+<node CREATED="1390134976172" ID="ID_42981814" MODIFIED="1451993044311" TEXT="&#x6d41;&#x7a0b;">
+<node CREATED="1390134980798" FOLDED="true" ID="ID_659058893" MODIFIED="1451993064357" TEXT="">
 <node CREATED="1390135016857" ID="ID_445007078" MODIFIED="1390135016857" TEXT="1.&#x5efa;&#x5e93;&#x5efa;&#x8868;"/>
 <node CREATED="1390135016858" ID="ID_1464159300" MODIFIED="1390135016858" TEXT="2.&#x5f15;&#x5165;hiberate&#x7684;&#x5305;"/>
-<node CREATED="1390135016859" FOLDED="true" ID="ID_1675232755" MODIFIED="1444717705672" TEXT="3.&#x914d;&#x7f6e;hibernate.cfg.xml">
+<node CREATED="1390135016859" ID="ID_1675232755" MODIFIED="1451993047561" TEXT="3.&#x914d;&#x7f6e;hibernate.cfg.xml">
 <node CREATED="1401635629349" ID="ID_130982448" MODIFIED="1442820732204" TEXT="&#x914d;&#x7f6e;">
 <node CREATED="1401635639223" ID="ID_115851644" MODIFIED="1401635650069" TEXT="applicationContext.xml"/>
 <node CREATED="1401635701591" ID="ID_1580265214" MODIFIED="1401635705780" TEXT="&#x6570;&#x636e;&#x6e90;">
@@ -21314,7 +21314,7 @@
 </node>
 <node CREATED="1401636024093" ID="ID_1999857118" MODIFIED="1401636044152" TEXT="&#x5927;&#x578b;&#x9879;&#x76ee;&#x4e0d;&#x4f7f;&#x7528;spring&#x81ea;&#x5e26;&#x7684;&#x6570;&#x636e;&#x6e90;"/>
 </node>
-<node CREATED="1401636084152" FOLDED="true" ID="ID_791847291" MODIFIED="1442827910054" TEXT="SessionFactory">
+<node CREATED="1401636084152" FOLDED="true" ID="ID_791847291" MODIFIED="1451993062853" TEXT="SessionFactory">
 <node CREATED="1401636108571" ID="ID_346528279" MODIFIED="1401636110395" TEXT="dataSource"/>
 <node CREATED="1401636174990" ID="ID_1502272063" MODIFIED="1401636177985" TEXT="mappingResources">
 <node CREATED="1401636300951" ID="ID_752635700" MODIFIED="1401636796392" TEXT="hbm.xml">
@@ -21341,67 +21341,18 @@
 <node CREATED="1390135016863" ID="ID_1886527520" MODIFIED="1390135016863" TEXT="6.&#x7f16;&#x5199;&#x6d4b;&#x8bd5;&#x7c7b;&#xff0c;&#x5e76;&#x6d4b;&#x8bd5;."/>
 </node>
 </node>
-<node CREATED="1390135699701" FOLDED="true" ID="ID_1661352016" MODIFIED="1444723658646" TEXT="&#x6838;&#x5fc3;&#x7c7b;">
+<node CREATED="1390135699701" FOLDED="true" ID="ID_1661352016" MODIFIED="1451993080813" TEXT="&#x6838;&#x5fc3;&#x7c7b;">
 <node CREATED="1390135727959" ID="ID_1729688924" MODIFIED="1390136103508" TEXT="Configuraion&#x7c7b;">
 <node CREATED="1390135775439" ID="ID_624110052" MODIFIED="1390135778237" TEXT="&#x9;Configuration cf=new Configuration().configure();"/>
 <node CREATED="1390135804078" ID="ID_1168521302" MODIFIED="1390135804078" TEXT="&#x2460;&#x8d1f;&#x8d23;&#x7ba1;&#x7406;hibernate&#x7684;&#x914d;&#x7f6e;&#x4fe1;&#x606f;"/>
 <node CREATED="1390135804083" ID="ID_1927170015" MODIFIED="1390135804083" TEXT="&#x2462;&#x52a0;&#x8f7d;hibernate.cfg.xml&#x914d;&#x7f6e;&#x6587;&#x4ef6;&#x4e2d;"/>
 </node>
-<node COLOR="#338800" CREATED="1390135804082" ID="ID_914451213" MODIFIED="1442820757389" TEXT="hibernate.cfg.xml">
-<node CREATED="1390135895647" ID="ID_1343369664" MODIFIED="1390135895647" TEXT="&#x2460;&#x8be5;&#x6587;&#x4ef6;&#x4e3b;&#x8981;&#x7528;&#x4e8e;&#x6307;&#x5b9a;&#x5404;&#x4e2a;&#x53c2;&#x6570;,&#x662f;hibernate&#x6838;&#x5fc3;&#x6587;&#x4ef6;"/>
-<node CREATED="1390135895655" ID="ID_626316475" MODIFIED="1390135895655" TEXT="&#x2461;&#x9ed8;&#x8ba4;&#x653e;&#x5728;src&#x76ee;&#x5f55;&#x4e0b;&#xff0c;&#x4e5f;&#x53ef;&#x4ee5;&#x653e;&#x5728;&#x522b;&#x7684;&#x76ee;&#x5f55;&#x4e0b;&#x3002;"/>
-<node CREATED="1390135895656" ID="ID_99651924" MODIFIED="1390135895656" TEXT="&#x2462;&#x6307;&#x5b9a;&#x8fde;&#x63a5;&#x6570;&#x636e;&#x5e93;&#x7684;&#x9a71;&#x52a8;&#x3001;&#x7528;&#x6237;&#x540d;&#x3001;&#x5bc6;&#x7801;&#x3001;url&#x3001;&#x8fde;&#x63a5;&#x6c60;.."/>
-<node CREATED="1390135895657" ID="ID_454310987" MODIFIED="1390135895657" TEXT="&#x2463;&#x6307;&#x5b9a;&#x5bf9;&#x8c61;&#x5173;&#x7cfb;&#x6620;&#x5c04;&#x6587;&#x4ef6;&#x7684;&#x4f4d;&#x7f6e;."/>
-<node CREATED="1390135895657" ID="ID_1746810599" MODIFIED="1390135895657" TEXT="&#x2464;&#x4e5f;&#x53ef;&#x4f7f;&#x7528;hibernate.properties&#x6587;&#x4ef6;&#x6765;&#x66ff;&#x4ee3;&#x8be5;&#x6587;&#x4ef6;.(&#x63a8;&#x8350;&#x4f7f;&#x7528;"/>
-</node>
-<node CREATED="1390135804084" FOLDED="true" ID="ID_161113670" MODIFIED="1442827909672" TEXT="*.hbm.xml">
-<node CREATED="1390135959216" ID="ID_449714449" MODIFIED="1390135959216" TEXT="&#x2460;&#x8be5;&#x6587;&#x4ef6;&#x4e3b;&#x8981;&#x4f5c;&#x7528;&#x662f;&#x5efa;&#x7acb;&#x8868;&#x548c;&#x7c7b;&#x7684;&#x6620;&#x5c04;&#x5173;&#x7cfb;&#xff0c;&#x662f;&#x4e0d;&#x53ef;&#x6216;&#x7f3a;&#x7684;&#x91cd;&#x8981;&#x6587;&#x4ef6;."/>
-<node CREATED="1390135959218" ID="ID_1070958448" MODIFIED="1390135959218" TEXT="&#x2461;&#x4e00;&#x822c;&#x653e;&#x5728;&#x5176;&#x6620;&#x5c04;&#x7684;&#x7c7b;&#x540c;&#x4e00;&#x4e2a;&#x76ee;&#x5f55;&#x4e0b;,&#x4f46;&#x4e0d;&#x662f;&#x5fc5;&#x987b;&#x7684;&#x3002;"/>
-<node CREATED="1390135959219" ID="ID_1093230411" MODIFIED="1390135959219" TEXT="&#x2462;&#x547d;&#x540d;&#x65b9;&#x5f0f;&#x4e00;&#x822c;&#x662f; &#x7c7b;&#x540d;.hbm.xml,&#x4f46;&#x4e0d;&#x662f;&#x5fc5;&#x987b;&#x7684;&#x3002;"/>
-<node CREATED="1390184797100" ID="ID_1183696687" MODIFIED="1390184800659" TEXT="&#x4e3b;&#x952e;&#x589e;&#x957f;&#x7b56;&#x7565;">
-<node CREATED="1390184814175" FOLDED="true" ID="ID_924601523" MODIFIED="1411377061623" TEXT="&#x2460;increment">
-<node CREATED="1390184993837" ID="ID_367086438" MODIFIED="1390184993837" TEXT="&#x4f18;&#x70b9;&#xff1a;&#x4e0d;&#x4f9d;&#x8d56;&#x4e8e;&#x5e95;&#x5c42;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#xff0c;&#x9002;&#x7528;&#x4e8e;&#x6240;&#x6709;&#x7684;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x3002;"/>
-<node CREATED="1390184993837" ID="ID_505920755" MODIFIED="1390184993837" TEXT="&#x7f3a;&#x70b9;&#xff1a;&#x9002;&#x7528;&#x4e8e;&#x5355;&#x8fdb;&#x7a0b;&#x73af;&#x5883;&#x4e0b;&#xff0c;&#x5728;&#x591a;&#x7ebf;&#x7a0b;&#x73af;&#x5883;&#x4e0b;&#x5f88;&#x53ef;&#x80fd;&#x751f;&#x6210;&#x76f8;&#x540c;&#x4e3b;&#x952e;&#x503c;">
-<node CREATED="1390184993838" ID="ID_55556480" MODIFIED="1390185019313" TEXT="&#x800c;&#x4e14;OID&#x5fc5;&#x987b;&#x4e3a;&#x6570;&#x503c;&#x7c7b;&#x578b;,&#x6bd4;&#x5982;long,int,short&#x7c7b;&#x578b;"/>
-</node>
-<node CREATED="1390184993838" ID="ID_127116581" MODIFIED="1390184993838" TEXT="&#x914d;&#x7f6e;&#x65b9;&#x5f0f;:"/>
-<node CREATED="1390184993839" ID="ID_271833134" MODIFIED="1390184993839" TEXT="&lt;id name=&#x201c;id&#x201d; type=&#x201d;long&#x201d; column=&#x201d;ID&#x201d;&gt;"/>
-<node CREATED="1390184993839" ID="ID_163478904" MODIFIED="1390184993839" TEXT="&lt;generator class=&#x201d;increment&#x201d;/&gt;"/>
-<node CREATED="1390184993839" ID="ID_1665727669" MODIFIED="1390184993839" TEXT="&lt;/id&gt;"/>
-</node>
-<node CREATED="1390184934005" ID="ID_1305878716" MODIFIED="1390184934005" TEXT="&#x2461;indentity"/>
-<node CREATED="1390184814176" ID="ID_1756053922" MODIFIED="1390184942956" TEXT="&#x2462;sequence "/>
-<node CREATED="1390184942956" FOLDED="true" ID="ID_1471259365" MODIFIED="1442827908801" TEXT="&#x2463;hilo">
-<node CREATED="1390185266387" ID="ID_948581472" MODIFIED="1390185266387" TEXT="hilo&#x6807;&#x8bc6;&#x7b26;&#x751f;&#x6210;&#x5668;&#x7531;Hibernate&#x6309;&#x7167;&#x4e00;&#x79cd;high/low&#x7b97;&#x6cd5;&#x751f;&#x6210;&#x6807;&#x8bc6;&#x7b26;&#xff0c;"/>
-<node CREATED="1390185266388" ID="ID_893641806" MODIFIED="1390185266388" TEXT="&#x4ed6;&#x4ece;&#x6570;&#x636e;&#x5e93;&#x4e2d;&#x7684;&#x7279;&#x5b9a;&#x8868;&#x7684;&#x5b57;&#x6bb5;&#x4e2d;&#x83b7;&#x53d6;high&#x503c;&#xff0c;&#x56e0;&#x6b64;&#x9700;&#x8981;&#x989d;&#x5916;&#x7684;&#x6570;&#x636e;&#x5e93;&#x8868;"/>
-<node CREATED="1390185266389" ID="ID_703326390" MODIFIED="1390185266389" TEXT="&#x4fdd;&#x5b58;&#x4e3b;&#x952e;&#x751f;&#x6210;&#x7684;&#x5386;&#x53f2;&#x72b6;&#x6001;&#xff0c;hilo&#x751f;&#x6210;&#x65b9;&#x6cd5;&#x4e0d;&#x4f9d;&#x8d56;&#x4e8e;&#x5e95;&#x5c42;&#x6570;&#x636e;&#x5e93;&#xff0c;&#x56e0;&#x6b64;&#x9002;"/>
-<node CREATED="1390185266390" ID="ID_1113418344" MODIFIED="1390185266390" TEXT="&#x7528;&#x4e8e;&#x6bcf;&#x4e00;&#x79cd;&#x6570;&#x636e;&#x5e93;,&#x4f46;&#x662f;OID&#x5fc5;&#x987b;&#x4e3a;&#x6570;&#x503c;&#x7c7b;&#x578b;"/>
-</node>
-<node CREATED="1390184814176" FOLDED="true" ID="ID_1404389480" MODIFIED="1442827909393" TEXT="&#x2464;native">
-<node CREATED="1390185207517" ID="ID_1315261491" MODIFIED="1390185207517" TEXT="native&#x751f;&#x6210;&#x5668;&#x80fd;&#x6839;&#x636e;&#x5e95;&#x5c42;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x7684;&#x7c7b;&#x578b;&#xff0c;&#x81ea;&#x52a8;&#x9009;&#x62e9;&#x5408;&#x9002;&#x7684;&#x6807;&#x8bc6;"/>
-<node CREATED="1390185207525" ID="ID_917435683" MODIFIED="1390185207525" TEXT="&#x7b26;&#x751f;&#x6210;&#x5668;&#xff0c;&#x56e0;&#x6b64;&#x975e;&#x5e38;&#x9002;&#x7528;&#x4e8e;&#x8de8;&#x6570;&#x636e;&#x5e93;&#x5e73;&#x53f0;&#x5f00;&#x53d1;&#xff0c;&#x4ed6;&#x4f1a;&#x7531;Hibernate&#x6839;&#x636e;"/>
-<node CREATED="1390185207534" ID="ID_275701318" MODIFIED="1390185207534" TEXT="&#x6570;&#x636e;&#x5e93;&#x9002;&#x914d;&#x5668;&#x4e2d;&#x7684;&#x5b9a;&#x4e49;,&#x81ea;&#x52a8;&#x91c7;&#x7528;identity,hilo,sequence&#x7684;&#x5176;&#x4e2d;&#x4e00;&#x79cd;"/>
-<node CREATED="1390185207535" ID="ID_1389979779" MODIFIED="1390185207535" TEXT="&#x4f5c;&#x4e3a;&#x4e3b;&#x952e;&#x751f;&#x6210;&#x65b9;&#x5f0f;&#xff0c;&#x4f46;&#x662f;OID&#x5fc5;&#x987b;&#x4e3a;&#x6570;&#x503c;&#x7c7b;&#x578b;"/>
-</node>
-<node CREATED="1390184959044" FOLDED="true" ID="ID_93677053" MODIFIED="1390185395088" TEXT="&#x2465;assigned">
-<node CREATED="1390185394068" ID="ID_1647281007" MODIFIED="1390185394068" TEXT="&#x91c7;&#x7528;assign&#x751f;&#x6210;&#x7b56;&#x7565;&#x8868;&#x793a;&#x7531;&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x903b;&#x8f91;&#x6765;&#x8d1f;&#x8d23;&#x751f;&#x6210;&#x4e3b;&#x952e;&#x6807;&#x8bc6;&#x7b26;,"/>
-<node CREATED="1390185394069" ID="ID_1112543347" MODIFIED="1390185394069" TEXT="OID&#x7c7b;&#x578b;&#x6ca1;&#x6709;&#x9650;&#x5236;&#x3002;"/>
-</node>
-<node CREATED="1390184814176" FOLDED="true" ID="ID_1769472641" MODIFIED="1442827909672" TEXT="&#x2466;uuid">
-<node CREATED="1390185371327" ID="ID_345022708" MODIFIED="1390185371327" TEXT="&#x7531;Hibernate&#x57fa;&#x4e8e;128&#x4f4d;&#x552f;&#x4e00;&#x503c;&#x4ea7;&#x751f;&#x7b97;&#x6cd5;&#xff0c;&#x6839;&#x636e;&#x5f53;&#x524d;&#x8bbe;&#x5907;IP&#xff0c;&#x65f6;&#x95f4;&#xff0c;"/>
-<node CREATED="1390185371351" ID="ID_483602426" MODIFIED="1390185371351" TEXT="JVM&#x542f;&#x52a8;&#x65f6;&#x95f4;&#xff0c;&#x5185;&#x90e8;&#x81ea;&#x589e;&#x91cf;&#x7b49;4&#x4e2a;&#x53c2;&#x6570;&#x751f;&#x6210;16&#x8fdb;&#x5236;&#x6570;&#x503c;&#x4f5c;&#x4e3a;&#x4e3b;&#x952e;&#xff0c;&#x4e00;&#x822c;"/>
-<node CREATED="1390185371352" ID="ID_614543924" MODIFIED="1390185371352" TEXT="&#x800c;&#x8a00;,&#x5229;&#x7528;uuid&#x65b9;&#x5f0f;&#x751f;&#x6210;&#x7684;&#x4e3b;&#x952e;&#x63d0;&#x4f9b;&#x6700;&#x597d;&#x7684;&#x6570;&#x636e;&#x63d2;&#x5165;&#x6027;&#x80fd;&#x548c;&#x6570;&#x636e;&#x5e93;&#x5e73;&#x53f0;"/>
-<node CREATED="1390185371353" ID="ID_511049016" MODIFIED="1390185371353" TEXT="&#x9002;&#x5e94;&#x6027;. OID&#x4e00;&#x822c;&#x4f7f;&#x7528;&#x662f;String&#x7c7b;&#x578b;,&#x5927;&#x5bb6;&#x53bb;&#x8bd5;&#x8bd5;&#x6570;&#x503c;&#x53ef;&#x5426;?"/>
-</node>
-<node CREATED="1390184968860" ID="ID_544067110" MODIFIED="1390184968860" TEXT="&#x2467;foreign"/>
-</node>
-</node>
-<node CREATED="1390136154099" ID="ID_193370343" MODIFIED="1442820759265" TEXT="SessionFactory(&#x4f1a;&#x8bdd;&#x5de5;&#x5382;)&#x63a5;&#x53e3;">
+<node CREATED="1390136154099" ID="ID_193370343" MODIFIED="1451993076043" TEXT="SessionFactory(&#x4f1a;&#x8bdd;&#x5de5;&#x5382;)&#x63a5;&#x53e3;">
 <node CREATED="1390136189423" ID="ID_288739381" MODIFIED="1390136189423" TEXT="&#x2460;&#x7f13;&#x5b58;sql&#x8bed;&#x53e5;&#x548c;&#x67d0;&#x4e9b;&#x6570;&#x636e;"/>
 <node CREATED="1390136189424" ID="ID_818797439" MODIFIED="1390136212612" TEXT="&#x2461;&#x5728;&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x521d;&#x59cb;&#x5316;&#x7684;&#x65f6;&#x5019;&#x521b;&#x5efa;,&#x662f;&#x4e00;&#x4e2a;&#x91cd;&#x91cf;&#x7ea7;&#x7684;&#x7c7b;(&#x5403;&#x5185;&#x5b58;),&#x4e00;&#x822c;&#x7528;&#x5355;&#x4f8b;&#x6a21;&#x5f0f;&#x4fdd;&#x8bc1;&#x4e00;&#x4e2a;&#x5e94;&#x7528;&#x4e2d;&#x53ea;&#x9700;&#x8981;&#x4e00;&#x4e2a; SessionFactory&#x5b9e;&#x4f8b;."/>
 <node CREATED="1390136189427" ID="ID_1486975761" MODIFIED="1390136238702" TEXT="&#x2462;&#x5982;&#x679c;&#x67d0;&#x4e2a;&#x5e94;&#x7528;&#x8bbf;&#x95ee;&#x591a;&#x4e2a;&#x6570;&#x636e;&#x5e93;&#xff0c;&#x5219;&#x8981;&#x521b;&#x5efa;&#x591a;&#x4e2a;&#x4f1a;&#x8bdd;&#x5de5;&#x5382;&#x5b9e;&#x4f8b;,&#x4e00;&#x822c;&#x662f;&#x4e00;&#x4e2a;&#x6570;&#x636e;&#x5e93;&#x4e00;&#x4e2a;&#x4f1a;&#x8bdd;&#x5de5;&#x5382;&#x5b9e;&#x4f8b;."/>
 <node CREATED="1390136189428" ID="ID_461820199" MODIFIED="1390136189428" TEXT="&#x2463;&#x901a;&#x8fc7;SessionFactory&#x63a5;&#x53e3;&#x53ef;&#x4ee5;&#x83b7;&#x5f97;Session(&#x4f1a;&#x8bdd;)&#x5b9e;&#x4f8b;."/>
-<node CREATED="1390136398368" FOLDED="true" ID="ID_128215895" MODIFIED="1390136450816" TEXT="session exp">
+<node CREATED="1390136398368" FOLDED="true" ID="ID_128215895" MODIFIED="1451993079349" TEXT="session exp">
 <node CREATED="1390136413844" ID="ID_1303822810" MODIFIED="1390136413844" TEXT="&#x2460;Session&#x4e00;&#x4e2a;&#x5b9e;&#x4f8b;&#x4ee3;&#x8868;&#x4e0e;&#x6570;&#x636e;&#x5e93;&#x7684;&#x4e00;&#x6b21;&#x64cd;&#x4f5c;">
 <node CREATED="1390136413846" ID="ID_776638769" MODIFIED="1390136413846" TEXT="(&#x5f53;&#x7136;&#x4e00;&#x6b21;&#x64cd;&#x4f5c;&#x53ef;&#x4ee5;&#x662f;crud&#x7ec4;&#x5408;)"/>
 </node>
@@ -21423,14 +21374,225 @@
 </node>
 </node>
 </node>
-<node CREATED="1390183118733" FOLDED="true" ID="ID_1343905296" MODIFIED="1442820801891" TEXT="&#x5173;&#x7cfb;&#x6620;&#x5c04;">
+<node CREATED="1451991625548" FOLDED="true" ID="ID_928616708" MODIFIED="1451993782550" TEXT="&#x7ed3;&#x6784;">
+<node CREATED="1451992723938" FOLDED="true" ID="ID_189119343" MODIFIED="1451993072500" TEXT="&#x6587;&#x4ef6;&#x76ee;&#x5f55;">
+<node CREATED="1451992730121" FOLDED="true" ID="ID_361679546" MODIFIED="1451992735456" TEXT="+lib">
+<node CREATED="1451992730121" MODIFIED="1451992730121" TEXT="&lt;Hibernate and third-party libraries&gt;"/>
+</node>
+<node CREATED="1451992730122" FOLDED="true" ID="ID_1854195925" MODIFIED="1451992734408" TEXT="+src">
+<node CREATED="1451992730122" MODIFIED="1451992730122" TEXT="+events">
+<node CREATED="1451992730123" MODIFIED="1451992730123" TEXT="Event.java"/>
+<node CREATED="1451992730123" MODIFIED="1451992730123" TEXT="Event.hbm.xml"/>
+</node>
+<node CREATED="1451992730124" MODIFIED="1451992730124" TEXT="+util">
+<node CREATED="1451992730124" MODIFIED="1451992730124" TEXT="HibernateUtil.java"/>
+</node>
+<node CREATED="1451992730124" MODIFIED="1451992730124" TEXT="hibernate.cfg.xml"/>
+</node>
+<node CREATED="1451992730125" ID="ID_1954915263" MODIFIED="1451992730125" TEXT="+data"/>
+</node>
+<node CREATED="1451992568723" ID="ID_701143108" MODIFIED="1451992572842" TEXT="&#x903b;&#x8f91;">
+<node CREATED="1451992572843" ID="ID_189514175" MODIFIED="1451992609749" TEXT="session&#x5efa;&#x7acb;&#x6570;&#x636e;&#x5e93;&#x8fde;&#x63a5;&#x4f1a;&#x8bdd;"/>
+<node CREATED="1451992642443" ID="ID_298907992" MODIFIED="1451992659661" TEXT="class-table map">
+<node CREATED="1451992659898" ID="ID_1505567304" MODIFIED="1451992665499" TEXT="hbm.xml"/>
+</node>
+</node>
+<node CREATED="1451992610315" FOLDED="true" ID="ID_1184412815" MODIFIED="1451993018005" TEXT="POJO&#x7c7b;">
+<node CREATED="1451992988880" ID="ID_1324976912" MODIFIED="1451992996401" TEXT="&#x79c1;&#x6709;&#x53d8;&#x91cf;">
+<node CREATED="1451993008991" ID="ID_1001689411" MODIFIED="1451993008991" TEXT="private Date birthDate;"/>
+</node>
+<node CREATED="1451992960720" ID="ID_1160442745" MODIFIED="1451992964836" TEXT="&#x6784;&#x9020;&#x51fd;&#x6570;">
+<node CREATED="1451992985196" ID="ID_1243922889" MODIFIED="1451992985196" TEXT="this.birthDate = birthDate;"/>
+</node>
+<node CREATED="1451992965127" FOLDED="true" ID="ID_82273378" MODIFIED="1451993016861" TEXT="set/get">
+<node CREATED="1451992969818" ID="ID_625376389" MODIFIED="1451992969818" TEXT="public Date getBirthDate() {">
+<node CREATED="1451992969819" MODIFIED="1451992969819" TEXT="return this.birthDate;"/>
+</node>
+<node CREATED="1451992969819" ID="ID_1964411071" MODIFIED="1451992969819" TEXT="}"/>
+<node CREATED="1451992969820" ID="ID_3854321" MODIFIED="1451992969820" TEXT="public void setBirthDate(Date birthDate) {">
+<node CREATED="1451992969820" MODIFIED="1451992969820" TEXT="this.birthDate = birthDate;"/>
+</node>
+<node CREATED="1451992969821" ID="ID_611690622" MODIFIED="1451992969821" TEXT="}"/>
+</node>
+</node>
+<node CREATED="1451991632924" FOLDED="true" ID="ID_184826892" MODIFIED="1451993140356" TEXT="&#x6838;&#x5fc3;&#x914d;&#x7f6e;&#x6587;&#x4ef6;">
+<node COLOR="#338800" CREATED="1390135804082" ID="ID_914451213" MODIFIED="1442820757389" TEXT="hibernate.cfg.xml">
+<node CREATED="1390135895647" ID="ID_1343369664" MODIFIED="1390135895647" TEXT="&#x2460;&#x8be5;&#x6587;&#x4ef6;&#x4e3b;&#x8981;&#x7528;&#x4e8e;&#x6307;&#x5b9a;&#x5404;&#x4e2a;&#x53c2;&#x6570;,&#x662f;hibernate&#x6838;&#x5fc3;&#x6587;&#x4ef6;"/>
+<node CREATED="1390135895655" ID="ID_626316475" MODIFIED="1390135895655" TEXT="&#x2461;&#x9ed8;&#x8ba4;&#x653e;&#x5728;src&#x76ee;&#x5f55;&#x4e0b;&#xff0c;&#x4e5f;&#x53ef;&#x4ee5;&#x653e;&#x5728;&#x522b;&#x7684;&#x76ee;&#x5f55;&#x4e0b;&#x3002;"/>
+<node CREATED="1390135895656" ID="ID_99651924" MODIFIED="1390135895656" TEXT="&#x2462;&#x6307;&#x5b9a;&#x8fde;&#x63a5;&#x6570;&#x636e;&#x5e93;&#x7684;&#x9a71;&#x52a8;&#x3001;&#x7528;&#x6237;&#x540d;&#x3001;&#x5bc6;&#x7801;&#x3001;url&#x3001;&#x8fde;&#x63a5;&#x6c60;.."/>
+<node CREATED="1390135895657" ID="ID_454310987" MODIFIED="1390135895657" TEXT="&#x2463;&#x6307;&#x5b9a;&#x5bf9;&#x8c61;&#x5173;&#x7cfb;&#x6620;&#x5c04;&#x6587;&#x4ef6;&#x7684;&#x4f4d;&#x7f6e;."/>
+<node CREATED="1390135895657" ID="ID_1746810599" MODIFIED="1390135895657" TEXT="&#x2464;&#x4e5f;&#x53ef;&#x4f7f;&#x7528;hibernate.properties&#x6587;&#x4ef6;&#x6765;&#x66ff;&#x4ee3;&#x8be5;&#x6587;&#x4ef6;.(&#x63a8;&#x8350;&#x4f7f;&#x7528;"/>
+</node>
+<node CREATED="1451992253975" FOLDED="true" ID="ID_1941814833" MODIFIED="1451992552492" TEXT="&lt;session-factory&gt;">
+<node CREATED="1451992238897" FOLDED="true" ID="ID_377880779" MODIFIED="1451992245572" TEXT="&lt;!-- Database connection settings --&gt;">
+<node CREATED="1451992238898" MODIFIED="1451992238898" TEXT="&lt;property name=&quot;connection.driver_class&quot;&gt;org.hsqldb.jdbcDriver&lt;/property&gt;"/>
+<node CREATED="1451992238901" MODIFIED="1451992238901" TEXT="&lt;property name=&quot;connection.url&quot;&gt;jdbc:hsqldb:hsql://localhost&lt;/property&gt;"/>
+<node CREATED="1451992238905" MODIFIED="1451992238905" TEXT="&lt;property name=&quot;connection.username&quot;&gt;sa&lt;/property&gt;"/>
+<node CREATED="1451992238906" MODIFIED="1451992238906" TEXT="&lt;property name=&quot;connection.password&quot;&gt;&lt;/property&gt;"/>
+</node>
+<node CREATED="1451992238908" FOLDED="true" ID="ID_202108865" MODIFIED="1451992246628" TEXT="&lt;!-- JDBC connection pool (use the built-in) --&gt;">
+<node CREATED="1451992238908" MODIFIED="1451992238908" TEXT="&lt;property name=&quot;connection.pool_size&quot;&gt;1&lt;/property&gt;"/>
+</node>
+<node CREATED="1451992238909" ID="ID_461754971" MODIFIED="1451992537751" TEXT="&lt;!-- SQL dialect --&gt;">
+<node CREATED="1451992238909" ID="ID_366514559" MODIFIED="1451992238909" TEXT="&lt;property name=&quot;dialect&quot;&gt;org.hibernate.dialect.HSQLDialect&lt;/property&gt;"/>
+<node CREATED="1451992526730" ID="ID_665934380" MODIFIED="1451992526730" TEXT="&lt;property name=&quot;dialect&quot;&gt;com.hxtt.support.hibernate.HxttAccessDialect&lt;/property&gt;"/>
+</node>
+<node CREATED="1451992238911" FOLDED="true" ID="ID_787624735" MODIFIED="1451992248108" TEXT="&lt;!-- Enable Hibernate&apos;s automatic session context management --&gt;">
+<node CREATED="1451992238912" MODIFIED="1451992238912" TEXT="&lt;property name=&quot;current_session_context_class&quot;&gt;thread&lt;/property&gt;"/>
+</node>
+<node CREATED="1451992238914" FOLDED="true" ID="ID_1233886062" MODIFIED="1451992249356" TEXT="&lt;!-- Disable the second-level cache  --&gt;">
+<node CREATED="1451992238914" MODIFIED="1451992238914" TEXT="&lt;property name=&quot;cache.provider_class&quot;&gt;org.hibernate.cache.NoCacheProvider&lt;/property&gt;"/>
+</node>
+<node CREATED="1451992238915" FOLDED="true" ID="ID_477675837" MODIFIED="1451992251004" TEXT="&lt;!-- Echo all executed SQL to stdout --&gt;">
+<node CREATED="1451992238916" MODIFIED="1451992238916" TEXT="&lt;property name=&quot;show_sql&quot;&gt;true&lt;/property&gt;"/>
+</node>
+<node CREATED="1451992238916" FOLDED="true" ID="ID_1973533436" MODIFIED="1451992251524" TEXT="&lt;!-- Drop and re-create the database schema on startup --&gt;">
+<node CREATED="1451992238917" MODIFIED="1451992238917" TEXT="&lt;property name=&quot;hbm2ddl.auto&quot;&gt;create&lt;/property&gt;"/>
+</node>
+<node CREATED="1451992238917" FOLDED="true" ID="ID_470061531" MODIFIED="1451992523074" TEXT="&lt;!-- mapping files --&gt;">
+<node CREATED="1451992238917" MODIFIED="1451992238917" TEXT="&lt;mapping resource=&quot;events/Event.hbm.xml&quot;/&gt;"/>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1451992320350" FOLDED="true" ID="ID_1018568632" MODIFIED="1451992496946" TEXT="&lt;!-- a SessionFactory instance listed as /jndi/name --&gt;">
+<node CREATED="1451992368739" ID="ID_397967527" MODIFIED="1451992368739" TEXT="&lt;session-factory"/>
+<node CREATED="1451992368739" ID="ID_1964480941" MODIFIED="1451992368739" TEXT="name=&quot;java:hibernate/SessionFactory&quot;&gt;"/>
+</node>
+</node>
+<node CREATED="1451991674164" FOLDED="true" ID="ID_589341001" MODIFIED="1451992911582" TEXT="&#x5bf9;&#x8c61;&#x6570;&#x636e;&#x6620;&#x5c04;&#x6587;&#x4ef6;">
+<node CREATED="1390135804084" FOLDED="true" ID="ID_161113670" MODIFIED="1451992746277" TEXT="*.hbm.xml">
+<node CREATED="1390135959216" ID="ID_449714449" MODIFIED="1390135959216" TEXT="&#x2460;&#x8be5;&#x6587;&#x4ef6;&#x4e3b;&#x8981;&#x4f5c;&#x7528;&#x662f;&#x5efa;&#x7acb;&#x8868;&#x548c;&#x7c7b;&#x7684;&#x6620;&#x5c04;&#x5173;&#x7cfb;&#xff0c;&#x662f;&#x4e0d;&#x53ef;&#x6216;&#x7f3a;&#x7684;&#x91cd;&#x8981;&#x6587;&#x4ef6;."/>
+<node CREATED="1390135959218" ID="ID_1070958448" MODIFIED="1390135959218" TEXT="&#x2461;&#x4e00;&#x822c;&#x653e;&#x5728;&#x5176;&#x6620;&#x5c04;&#x7684;&#x7c7b;&#x540c;&#x4e00;&#x4e2a;&#x76ee;&#x5f55;&#x4e0b;,&#x4f46;&#x4e0d;&#x662f;&#x5fc5;&#x987b;&#x7684;&#x3002;"/>
+<node CREATED="1390135959219" ID="ID_1093230411" MODIFIED="1390135959219" TEXT="&#x2462;&#x547d;&#x540d;&#x65b9;&#x5f0f;&#x4e00;&#x822c;&#x662f; &#x7c7b;&#x540d;.hbm.xml,&#x4f46;&#x4e0d;&#x662f;&#x5fc5;&#x987b;&#x7684;&#x3002;"/>
+<node CREATED="1390184797100" FOLDED="true" ID="ID_1183696687" MODIFIED="1451991620363" TEXT="&#x4e3b;&#x952e;&#x589e;&#x957f;&#x7b56;&#x7565;">
+<node CREATED="1390184814175" FOLDED="true" ID="ID_924601523" MODIFIED="1411377061623" TEXT="&#x2460;increment">
+<node CREATED="1390184993837" ID="ID_367086438" MODIFIED="1390184993837" TEXT="&#x4f18;&#x70b9;&#xff1a;&#x4e0d;&#x4f9d;&#x8d56;&#x4e8e;&#x5e95;&#x5c42;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#xff0c;&#x9002;&#x7528;&#x4e8e;&#x6240;&#x6709;&#x7684;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x3002;"/>
+<node CREATED="1390184993837" ID="ID_505920755" MODIFIED="1390184993837" TEXT="&#x7f3a;&#x70b9;&#xff1a;&#x9002;&#x7528;&#x4e8e;&#x5355;&#x8fdb;&#x7a0b;&#x73af;&#x5883;&#x4e0b;&#xff0c;&#x5728;&#x591a;&#x7ebf;&#x7a0b;&#x73af;&#x5883;&#x4e0b;&#x5f88;&#x53ef;&#x80fd;&#x751f;&#x6210;&#x76f8;&#x540c;&#x4e3b;&#x952e;&#x503c;">
+<node CREATED="1390184993838" ID="ID_55556480" MODIFIED="1390185019313" TEXT="&#x800c;&#x4e14;OID&#x5fc5;&#x987b;&#x4e3a;&#x6570;&#x503c;&#x7c7b;&#x578b;,&#x6bd4;&#x5982;long,int,short&#x7c7b;&#x578b;"/>
+</node>
+<node CREATED="1390184993838" ID="ID_127116581" MODIFIED="1390184993838" TEXT="&#x914d;&#x7f6e;&#x65b9;&#x5f0f;:"/>
+<node CREATED="1390184993839" ID="ID_271833134" MODIFIED="1390184993839" TEXT="&lt;id name=&#x201c;id&#x201d; type=&#x201d;long&#x201d; column=&#x201d;ID&#x201d;&gt;"/>
+<node CREATED="1390184993839" ID="ID_163478904" MODIFIED="1390184993839" TEXT="&lt;generator class=&#x201d;increment&#x201d;/&gt;"/>
+<node CREATED="1390184993839" ID="ID_1665727669" MODIFIED="1390184993839" TEXT="&lt;/id&gt;"/>
+</node>
+<node CREATED="1390184934005" ID="ID_1305878716" MODIFIED="1390184934005" TEXT="&#x2461;indentity"/>
+<node CREATED="1390184814176" ID="ID_1756053922" MODIFIED="1390184942956" TEXT="&#x2462;sequence "/>
+<node CREATED="1390184942956" ID="ID_1471259365" MODIFIED="1451991617275" TEXT="&#x2463;hilo">
+<node CREATED="1390185266387" ID="ID_948581472" MODIFIED="1390185266387" TEXT="hilo&#x6807;&#x8bc6;&#x7b26;&#x751f;&#x6210;&#x5668;&#x7531;Hibernate&#x6309;&#x7167;&#x4e00;&#x79cd;high/low&#x7b97;&#x6cd5;&#x751f;&#x6210;&#x6807;&#x8bc6;&#x7b26;&#xff0c;"/>
+<node CREATED="1390185266388" ID="ID_893641806" MODIFIED="1390185266388" TEXT="&#x4ed6;&#x4ece;&#x6570;&#x636e;&#x5e93;&#x4e2d;&#x7684;&#x7279;&#x5b9a;&#x8868;&#x7684;&#x5b57;&#x6bb5;&#x4e2d;&#x83b7;&#x53d6;high&#x503c;&#xff0c;&#x56e0;&#x6b64;&#x9700;&#x8981;&#x989d;&#x5916;&#x7684;&#x6570;&#x636e;&#x5e93;&#x8868;"/>
+<node CREATED="1390185266389" ID="ID_703326390" MODIFIED="1390185266389" TEXT="&#x4fdd;&#x5b58;&#x4e3b;&#x952e;&#x751f;&#x6210;&#x7684;&#x5386;&#x53f2;&#x72b6;&#x6001;&#xff0c;hilo&#x751f;&#x6210;&#x65b9;&#x6cd5;&#x4e0d;&#x4f9d;&#x8d56;&#x4e8e;&#x5e95;&#x5c42;&#x6570;&#x636e;&#x5e93;&#xff0c;&#x56e0;&#x6b64;&#x9002;"/>
+<node CREATED="1390185266390" ID="ID_1113418344" MODIFIED="1390185266390" TEXT="&#x7528;&#x4e8e;&#x6bcf;&#x4e00;&#x79cd;&#x6570;&#x636e;&#x5e93;,&#x4f46;&#x662f;OID&#x5fc5;&#x987b;&#x4e3a;&#x6570;&#x503c;&#x7c7b;&#x578b;"/>
+</node>
+<node CREATED="1390184814176" FOLDED="true" ID="ID_1404389480" MODIFIED="1451991466528" TEXT="&#x2464;native">
+<node CREATED="1390185207517" ID="ID_1315261491" MODIFIED="1390185207517" TEXT="native&#x751f;&#x6210;&#x5668;&#x80fd;&#x6839;&#x636e;&#x5e95;&#x5c42;&#x6570;&#x636e;&#x5e93;&#x7cfb;&#x7edf;&#x7684;&#x7c7b;&#x578b;&#xff0c;&#x81ea;&#x52a8;&#x9009;&#x62e9;&#x5408;&#x9002;&#x7684;&#x6807;&#x8bc6;"/>
+<node CREATED="1390185207525" ID="ID_917435683" MODIFIED="1390185207525" TEXT="&#x7b26;&#x751f;&#x6210;&#x5668;&#xff0c;&#x56e0;&#x6b64;&#x975e;&#x5e38;&#x9002;&#x7528;&#x4e8e;&#x8de8;&#x6570;&#x636e;&#x5e93;&#x5e73;&#x53f0;&#x5f00;&#x53d1;&#xff0c;&#x4ed6;&#x4f1a;&#x7531;Hibernate&#x6839;&#x636e;"/>
+<node CREATED="1390185207534" ID="ID_275701318" MODIFIED="1390185207534" TEXT="&#x6570;&#x636e;&#x5e93;&#x9002;&#x914d;&#x5668;&#x4e2d;&#x7684;&#x5b9a;&#x4e49;,&#x81ea;&#x52a8;&#x91c7;&#x7528;identity,hilo,sequence&#x7684;&#x5176;&#x4e2d;&#x4e00;&#x79cd;"/>
+<node CREATED="1390185207535" ID="ID_1389979779" MODIFIED="1390185207535" TEXT="&#x4f5c;&#x4e3a;&#x4e3b;&#x952e;&#x751f;&#x6210;&#x65b9;&#x5f0f;&#xff0c;&#x4f46;&#x662f;OID&#x5fc5;&#x987b;&#x4e3a;&#x6570;&#x503c;&#x7c7b;&#x578b;"/>
+</node>
+<node CREATED="1390184959044" FOLDED="true" ID="ID_93677053" MODIFIED="1390185395088" TEXT="&#x2465;assigned">
+<node CREATED="1390185394068" ID="ID_1647281007" MODIFIED="1390185394068" TEXT="&#x91c7;&#x7528;assign&#x751f;&#x6210;&#x7b56;&#x7565;&#x8868;&#x793a;&#x7531;&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x903b;&#x8f91;&#x6765;&#x8d1f;&#x8d23;&#x751f;&#x6210;&#x4e3b;&#x952e;&#x6807;&#x8bc6;&#x7b26;,"/>
+<node CREATED="1390185394069" ID="ID_1112543347" MODIFIED="1390185394069" TEXT="OID&#x7c7b;&#x578b;&#x6ca1;&#x6709;&#x9650;&#x5236;&#x3002;"/>
+</node>
+<node CREATED="1390184814176" FOLDED="true" ID="ID_1769472641" MODIFIED="1451991467700" TEXT="&#x2466;uuid">
+<node CREATED="1390185371327" ID="ID_345022708" MODIFIED="1390185371327" TEXT="&#x7531;Hibernate&#x57fa;&#x4e8e;128&#x4f4d;&#x552f;&#x4e00;&#x503c;&#x4ea7;&#x751f;&#x7b97;&#x6cd5;&#xff0c;&#x6839;&#x636e;&#x5f53;&#x524d;&#x8bbe;&#x5907;IP&#xff0c;&#x65f6;&#x95f4;&#xff0c;"/>
+<node CREATED="1390185371351" ID="ID_483602426" MODIFIED="1390185371351" TEXT="JVM&#x542f;&#x52a8;&#x65f6;&#x95f4;&#xff0c;&#x5185;&#x90e8;&#x81ea;&#x589e;&#x91cf;&#x7b49;4&#x4e2a;&#x53c2;&#x6570;&#x751f;&#x6210;16&#x8fdb;&#x5236;&#x6570;&#x503c;&#x4f5c;&#x4e3a;&#x4e3b;&#x952e;&#xff0c;&#x4e00;&#x822c;"/>
+<node CREATED="1390185371352" ID="ID_614543924" MODIFIED="1390185371352" TEXT="&#x800c;&#x8a00;,&#x5229;&#x7528;uuid&#x65b9;&#x5f0f;&#x751f;&#x6210;&#x7684;&#x4e3b;&#x952e;&#x63d0;&#x4f9b;&#x6700;&#x597d;&#x7684;&#x6570;&#x636e;&#x63d2;&#x5165;&#x6027;&#x80fd;&#x548c;&#x6570;&#x636e;&#x5e93;&#x5e73;&#x53f0;"/>
+<node CREATED="1390185371353" ID="ID_511049016" MODIFIED="1390185371353" TEXT="&#x9002;&#x5e94;&#x6027;. OID&#x4e00;&#x822c;&#x4f7f;&#x7528;&#x662f;String&#x7c7b;&#x578b;,&#x5927;&#x5bb6;&#x53bb;&#x8bd5;&#x8bd5;&#x6570;&#x503c;&#x53ef;&#x5426;?"/>
+</node>
+<node CREATED="1390184968860" ID="ID_544067110" MODIFIED="1390184968860" TEXT="&#x2467;foreign"/>
+</node>
+</node>
+<node COLOR="#ff0000" CREATED="1451992777556" FOLDED="true" ID="ID_512576183" MODIFIED="1451992909246" TEXT="&lt;class name=&quot;events.Person&quot; table=&quot;PERSON&quot;&gt;">
+<node CREATED="1451992777556" MODIFIED="1451992777556" TEXT="&lt;id name=&quot;id&quot; column=&quot;PERSON_ID&quot;&gt;">
+<node CREATED="1451992777557" MODIFIED="1451992777557" TEXT="&lt;generator class=&quot;native&quot;/&gt;"/>
+</node>
+<node CREATED="1451992777557" MODIFIED="1451992777557" TEXT="&lt;/id&gt;"/>
+<node CREATED="1451992892771" ID="ID_436264821" MODIFIED="1451992892771" TEXT="&lt;property name=&quot;birthDate&quot; type=&quot;timestamp&quot;&gt;">
+<node CREATED="1451992892771" MODIFIED="1451992892771" TEXT="&lt;column name=&quot;BirthDate&quot; length=&quot;20&quot; /&gt;"/>
+</node>
+<node CREATED="1451992892772" ID="ID_1366866621" MODIFIED="1451992892772" TEXT="&lt;/property&gt;"/>
+</node>
+<node CREATED="1451992777559" ID="ID_849310966" MODIFIED="1451992777559" TEXT="&lt;/class&gt;"/>
+<node COLOR="#ff0000" CREATED="1451992790617" ID="ID_1597207808" MODIFIED="1451992812041" TEXT="&#x6ce8;&#x610f;">
+<icon BUILTIN="messagebox_warning"/>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1451992821650" ID="ID_960533760" MODIFIED="1451992821650" TEXT="class name=&quot;events.Person&quot;"/>
+<node CREATED="1451992822913" ID="ID_1692467126" MODIFIED="1451992835893" TEXT="&#x4e3a;&#x5168;&#x8def;&#x5f84;"/>
+</node>
+</node>
+<node CREATED="1451993142950" FOLDED="true" ID="ID_579654243" MODIFIED="1451993461529" TEXT="&#x5e2e;&#x52a9;&#x7c7b;/&#x53ef;&#x9009;">
+<font NAME="SansSerif" SIZE="21"/>
+<node CREATED="1451993199796" ID="ID_1076555683" MODIFIED="1451993199796" TEXT="import org.hibernate.*;"/>
+<node CREATED="1451993199797" ID="ID_539027524" MODIFIED="1451993199797" TEXT="import org.hibernate.cfg.*;"/>
+<node CREATED="1451993173145" FOLDED="true" ID="ID_1628763583" MODIFIED="1451993203803" TEXT="public class HibernateUtil {">
+<node CREATED="1451993173146" MODIFIED="1451993173146" TEXT="private static final SessionFactory sessionFactory;"/>
+<node CREATED="1451993173146" FOLDED="true" ID="ID_1933453216" MODIFIED="1451993177892" TEXT="static {">
+<node CREATED="1451993173146" MODIFIED="1451993173146" TEXT="try {">
+<node CREATED="1451993173147" MODIFIED="1451993173147" TEXT="// Create the SessionFactory from hibernate.cfg.xml"/>
+<node CREATED="1451993173147" MODIFIED="1451993173147" TEXT="sessionFactory = new Configuration().configure().buildSessionFactory();"/>
+</node>
+<node CREATED="1451993173150" MODIFIED="1451993173150" TEXT="} catch (Throwable ex) {">
+<node CREATED="1451993173150" MODIFIED="1451993173150" TEXT="// Make sure you log the exception, as it might be swallowed"/>
+<node CREATED="1451993173153" MODIFIED="1451993173153" TEXT="System.err.println(&quot;Initial SessionFactory creation failed.&quot; + ex);"/>
+<node CREATED="1451993173154" MODIFIED="1451993173154" TEXT="throw new ExceptionInInitializerError(ex);"/>
+</node>
+<node CREATED="1451993173155" MODIFIED="1451993173155" TEXT="}"/>
+</node>
+<node CREATED="1451993173155" MODIFIED="1451993173155" TEXT="}"/>
+<node CREATED="1451993173155" FOLDED="true" ID="ID_409967148" MODIFIED="1451993192155" TEXT="public static SessionFactory getSessionFactory() {">
+<node CREATED="1451993173155" MODIFIED="1451993173155" TEXT="return sessionFactory;"/>
+</node>
+<node CREATED="1451993173156" MODIFIED="1451993173156" TEXT="}"/>
+</node>
+<node CREATED="1451993173156" ID="ID_68555674" MODIFIED="1451993173156" TEXT="}"/>
+</node>
+<node CREATED="1451993461859" FOLDED="true" ID="ID_1151987841" MODIFIED="1451993781422" TEXT="&#x5e94;&#x7528;&#x7c7b;">
+<node CREATED="1451993719241" FOLDED="true" ID="ID_1284601708" MODIFIED="1451993780302" TEXT="&#x521d;&#x59cb;&#x5316;">
+<node CREATED="1451993753288" FOLDED="true" ID="ID_486717432" MODIFIED="1451993760950" TEXT="protected SessionFactory getSessionFactory()">
+<node CREATED="1451993734088" ID="ID_1092676912" MODIFIED="1451993734088" TEXT="return (SessionFactory) new Configuration()">
+<node CREATED="1451993734089" MODIFIED="1451993734089" TEXT=".configure(&quot;hibernate.cfg.xml&quot;)"/>
+<node CREATED="1451993734089" MODIFIED="1451993734089" TEXT=".buildSessionFactory();"/>
+</node>
+</node>
+</node>
+<node CREATED="1451993764520" FOLDED="true" ID="ID_39680165" MODIFIED="1451993779358" TEXT="&#x67e5;&#x8be2;">
+<node CREATED="1451993468558" ID="ID_1428136491" MODIFIED="1451993532297" TEXT="public POJO findById( java.lang.Integer id) {"/>
+<node CREATED="1451993468558" ID="ID_1655088787" MODIFIED="1451993468558" TEXT="log.debug(&quot;getting Idr instance with id: &quot; + id);"/>
+<node CREATED="1451993468558" ID="ID_1262285174" MODIFIED="1451993468558" TEXT="try {"/>
+<node CREATED="1451993607842" ID="ID_738292941" MODIFIED="1451993620164" TEXT="//&#x83b7;&#x53d6;&#x8fde;&#x63a5;">
+<node CREATED="1451993468568" ID="ID_1706477230" MODIFIED="1451993468568" TEXT="Session session = sessionFactory.getCurrentSession();"/>
+<node CREATED="1451993468568" ID="ID_1978212160" MODIFIED="1451993468568" TEXT="session.beginTransaction();"/>
+</node>
+<node CREATED="1451993636369" ID="ID_172436427" MODIFIED="1451993653398" TEXT="//&#x53d6;&#x5f97;&#x5b9e;&#x4f8b;">
+<node CREATED="1451993468569" ID="ID_878739637" MODIFIED="1451993668274" TEXT="POJO instance = (POJO) session.get(POJO.class, id);"/>
+</node>
+<node CREATED="1451993468569" ID="ID_1679550158" MODIFIED="1451993468569" TEXT="if (instance==null) {">
+<node CREATED="1451993468569" ID="ID_1468126622" MODIFIED="1451993468569" TEXT="log.debug(&quot;get successful, no instance found&quot;);"/>
+<node CREATED="1451993468570" ID="ID_158098696" MODIFIED="1451993468570" TEXT="}"/>
+</node>
+<node CREATED="1451993468570" ID="ID_1812647947" MODIFIED="1451993468570" TEXT="else {">
+<node CREATED="1451993468570" ID="ID_846620623" MODIFIED="1451993468570" TEXT="log.debug(&quot;get successful, instance found&quot;);"/>
+<node CREATED="1451993468570" ID="ID_1324952544" MODIFIED="1451993468570" TEXT="}"/>
+</node>
+<node CREATED="1451993468571" ID="ID_1521870464" MODIFIED="1451993468571" TEXT="session.getTransaction().commit();"/>
+<node CREATED="1451993468571" ID="ID_451159648" MODIFIED="1451993468571" TEXT="return instance;"/>
+<node CREATED="1451993468571" ID="ID_1568513999" MODIFIED="1451993468571" TEXT="}"/>
+<node CREATED="1451993468571" FOLDED="true" ID="ID_1582112059" MODIFIED="1451993564416" TEXT="catch (RuntimeException re) {">
+<node CREATED="1451993468572" MODIFIED="1451993468572" TEXT="log.error(&quot;get failed&quot;, re);"/>
+<node CREATED="1451993468572" MODIFIED="1451993468572" TEXT="throw re;"/>
+<node CREATED="1451993468572" ID="ID_1576703456" MODIFIED="1451993468572" TEXT="}"/>
+</node>
+<node CREATED="1451993468572" ID="ID_461148364" MODIFIED="1451993468572" TEXT="}"/>
+</node>
+</node>
+</node>
+<node CREATED="1390183118733" FOLDED="true" ID="ID_1343905296" MODIFIED="1451991609474" TEXT="&#x5173;&#x7cfb;&#x6620;&#x5c04;">
 <node CREATED="1390183154943" ID="ID_292169623" MODIFIED="1408003820284" TEXT="&#x591a;&#x5bf9;&#x4e00;(Employee - Department)">
 <node CREATED="1390183215812" ID="ID_1230287672" MODIFIED="1390183347837" TEXT="&lt;many-to-one name=&#x201d;depart&#x201d; column=&#x201d;depart_id&#x201d;/&gt; ">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 <node CREATED="1390183154944" ID="ID_1012219828" MODIFIED="1390183154944" TEXT="&#x4e00;&#x5bf9;&#x591a;(Department-Employee)"/>
-<node CREATED="1390183154945" FOLDED="true" ID="ID_1219474711" MODIFIED="1408003825310" TEXT="&#x4e00;&#x5bf9;&#x4e00;(Person - IdCard)">
+<node CREATED="1390183154945" FOLDED="true" ID="ID_1219474711" MODIFIED="1451991595050" TEXT="&#x4e00;&#x5bf9;&#x4e00;(Person - IdCard)">
 <node CREATED="1390183551144" ID="ID_473692013" MODIFIED="1390183551144" TEXT="1)&#x57fa;&#x4e8e;&#x4e3b;&#x952e;&#x7684;one-to-one"/>
 <node CREATED="1390183608517" ID="ID_1908361127" MODIFIED="1390183608517" TEXT="2)&#x57fa;&#x4e8e;&#x5916;&#x5065;&#x7684;one-to-one&#xff0c;&#x53ef;&#x4ee5;&#x63cf;&#x8ff0;&#x4e3a;&#x591a;&#x5bf9;&#x4e00;&#xff0c;&#x52a0;unique=&#x201c;true&#x201d;&#x7ea6;&#x675f;,"/>
 </node>
@@ -21444,7 +21606,7 @@
 <node CREATED="1390183877949" ID="ID_1483982679" MODIFIED="1390183877949" TEXT="&#x2461; &#x4e00;&#x822c;&#x8bb2;cascade&#x914d;&#x7f6e;&#x5728;one-to-many(one&#x7684;&#x4e00;&#x65b9;,&#x6bd4;&#x5982;Employee-Department),&#x548c;one-to-one(&#x4e3b;&#x5bf9;&#x8c61;&#x4e00;&#x65b9;)"/>
 </node>
 </node>
-<node CREATED="1390183460746" FOLDED="true" ID="ID_907556039" MODIFIED="1444717678963" TEXT="&#x61d2;&#x52a0;&#x8f7d;">
+<node CREATED="1390183460746" FOLDED="true" ID="ID_907556039" MODIFIED="1451991598427" TEXT="&#x61d2;&#x52a0;&#x8f7d;">
 <node CREATED="1390183968876" ID="ID_1067691688" MODIFIED="1390185953191" TEXT="&#x6982;&#x5ff5;">
 <node CREATED="1390183994141" ID="ID_147353953" MODIFIED="1390183994141" TEXT="&#x61d2;&#x52a0;&#x8f7d;(Load On Demand)&#x662f;&#x4e00;&#x79cd;&#x72ec;&#x7279;&#x800c;&#x53c8;&#x5f3a;&#x5927;&#x7684;&#x6570;&#x636e;&#x83b7;&#x53d6;&#x65b9;&#x6cd5; &#xff0c;"/>
 <node CREATED="1390183994143" ID="ID_1516264539" MODIFIED="1390183994143" TEXT="&#x662f;&#x6307;&#x7a0b;&#x5e8f;&#x63a8;&#x8fdf;&#x8bbf;&#x95ee;&#x6570;&#x636e;&#x5e93;&#xff0c;&#x8fd9;&#x6837;&#x505a;&#x53ef;&#x4ee5;&#x4fdd;&#x8bc1;&#x6709;&#x65f6;&#x5019;&#x4e0d;&#x5fc5;&#x8981;&#x7684;&#x8bbf;&#x95ee;&#x6570;"/>
@@ -21468,7 +21630,7 @@
 <node CREATED="1390183488142" ID="ID_1691824647" MODIFIED="1390183488142" TEXT="openinsessionview&#x89e3;&#x51b3;(&#x8fc7;&#x6ee4;&#x5668;)"/>
 </node>
 </node>
-<node CREATED="1390183940413" FOLDED="true" ID="ID_1324652069" MODIFIED="1442820784620" TEXT="&#x7f13;&#x5b58;">
+<node CREATED="1390183940413" FOLDED="true" ID="ID_1324652069" MODIFIED="1451991600259" TEXT="&#x7f13;&#x5b58;">
 <node CREATED="1390184155554" ID="ID_585516883" MODIFIED="1390185956913" TEXT="&#x64cd;&#x4f5c;">
 <node CREATED="1390184169657" ID="ID_100704932" MODIFIED="1390184183812" TEXT="&#x628a;&#x6570;&#x636e;&#x653e;&#x5165;&#x7f13;&#x5b58;"/>
 <node CREATED="1390184183812" ID="ID_1528481501" MODIFIED="1390184186480" TEXT="&#x4ece;&#x7f13;&#x5b58;&#x4e2d;&#x83b7;&#x53d6;&#x6570;&#x636e;"/>
@@ -21512,12 +21674,42 @@
 <node CREATED="1390184640911" ID="ID_364313161" MODIFIED="1390184640911" TEXT=""/>
 </node>
 </node>
-<node CREATED="1390185481710" FOLDED="true" ID="ID_1427191435" MODIFIED="1444724715756" TEXT="&#x6700;&#x4f73;&#x5b9e;&#x8df5;">
+<node CREATED="1390185481710" FOLDED="true" ID="ID_1427191435" MODIFIED="1451994110075" TEXT="&#x5b9e;&#x8df5;">
+<node CREATED="1451993494419" FOLDED="true" ID="ID_805582558" MODIFIED="1451993784926" TEXT="&#x5e94;&#x7528;&#x573a;&#x666f;">
 <node CREATED="1390185505686" ID="ID_1552151840" MODIFIED="1390185505686" TEXT="&#x4e0d;&#x9002;&#x5408;OLAP(On-Line Analytical Processing&#x8054;&#x673a;&#x5206;&#x6790;&#x5904;&#x7406;)&#xff0c;&#x4ee5;&#x67e5;&#x8be2;&#x5206;&#x6790;&#x6570;&#x636e;&#x4e3a;&#x4e3b;&#x7684;&#x7cfb;&#x7edf;&#xff1b;&#x9002;&#x5408;OLTP&#xff08;on-line transaction processing&#x8054;&#x673a;&#x4e8b;&#x52a1;&#x5904;&#x7406;&#xff09;&#x3002;"/>
 <node CREATED="1390185518036" ID="ID_1636764668" MODIFIED="1390185518036" TEXT="&#x5bf9;&#x4e8e;&#x4e9b;&#x5173;&#x7cfb;&#x6a21;&#x578b;&#x8bbe;&#x8ba1;&#x4e0d;&#x5408;&#x7406;&#x7684;&#x8001;&#x7cfb;&#x7edf;&#xff0c;&#x4e5f;&#x4e0d;&#x80fd;&#x53d1;&#x6325;hibernate&#x4f18;&#x52bf;&#x3002;"/>
 <node CREATED="1390185526056" ID="ID_637937677" MODIFIED="1390185526056" TEXT="&#x6570;&#x636e;&#x91cf;&#x5de8;&#x5927;&#xff0c;&#x6027;&#x80fd;&#x8981;&#x6c42;&#x82db;&#x523b;&#x7684;&#x7cfb;&#x7edf;&#xff0c;hibernate&#x4e5f;&#x5f88;&#x96be;&#x8fbe;&#x5230;&#x8981;&#x6c42;, &#x6279;&#x91cf;&#x64cd;&#x4f5c;&#x6570;&#x636e;&#x7684;&#x6548;&#x7387;&#x4e5f;&#x4e0d;&#x9ad8;&#x3002;"/>
 </node>
-<node CREATED="1390292165369" FOLDED="true" ID="ID_1558539133" MODIFIED="1444803852527" TEXT="hibernate&#x5e94;&#x7528;">
+<node CREATED="1451993478603" ID="ID_161572299" MODIFIED="1451993491116" TEXT="&#x6392;&#x9519;">
+<node CREATED="1451993788808" FOLDED="true" ID="ID_102853291" MODIFIED="1451994097234" TEXT="1">
+<node CREATED="1451994050253" ID="ID_1004481279" MODIFIED="1451994050253" TEXT="&lt;property name=&quot;current_session_context_class&quot;&gt;thread&lt;/property&gt;"/>
+</node>
+<node CREATED="1451993824143" FOLDED="true" ID="ID_1592273537" MODIFIED="1451993856765" TEXT="2">
+<node COLOR="#ff0000" CREATED="1451993825906" ID="ID_569837526" MODIFIED="1451993855783" TEXT="org.hibernate.HibernateException: get is not valid without active transaction"/>
+<node CREATED="1451993853767" ID="ID_7786742" MODIFIED="1451993853767" TEXT="Transaction tx = session.beginTransaction(); //This statement will initiate the transaction"/>
+<node CREATED="1451993853769" ID="ID_411534648" MODIFIED="1451993853769" TEXT="just before your CallInfo ci = (CallInfo) session.get(CallInfo.class, ucid);"/>
+<node CREATED="1451993853771" ID="ID_713168449" MODIFIED="1451993853771" TEXT="and at the end of your transaction commit the changes by calling.."/>
+<node CREATED="1451993853772" ID="ID_202069031" MODIFIED="1451993853772" TEXT="tx.commit();"/>
+</node>
+<node CREATED="1451993857391" FOLDED="true" ID="ID_1764290494" MODIFIED="1451993913444" TEXT="3">
+<node CREATED="1451993880311" ID="ID_720653634" MODIFIED="1451993905435" TEXT="org.hibernate.MappingException: Unknown entity: "/>
+<node CREATED="1451993894684" ID="ID_101071216" MODIFIED="1451993911182" TEXT="&lt;mapping resource=&quot;***.hbm.xml&quot;/&gt;"/>
+<node CREATED="1451993894685" ID="ID_1797600375" MODIFIED="1451993894685" TEXT="SessionFactory factory = new AnnotationConfiguration().configure(&quot;hibernate.cfg.xml&quot;).buildSessionFactory();"/>
+</node>
+<node CREATED="1451993951438" FOLDED="true" ID="ID_755413559" MODIFIED="1451993982292" TEXT="4">
+<node CREATED="1451993954414" ID="ID_863833" MODIFIED="1451993955421" TEXT="Initial SessionFactory creation failed.org.hibernate.MappingException: entity class not found: "/>
+<node CREATED="1451993968810" ID="ID_949842066" MODIFIED="1451993978814" TEXT="&lt;class name=&quot;a.b.c&quot; table=&quot;***&quot;&gt;"/>
+<node CREATED="1451993968811" ID="ID_643705555" MODIFIED="1451993968811" TEXT="need to set fully qualified class name"/>
+</node>
+<node CREATED="1451993982822" FOLDED="true" ID="ID_224232575" MODIFIED="1451994000243" TEXT="5">
+<node CREATED="1451993999616" ID="ID_1950742672" MODIFIED="1451993999616" TEXT="Exception in thread &quot;main&quot; java.lang.IllegalStateException: Could not locate SessionFactory in JNDI"/>
+</node>
+</node>
+<node CREATED="1451994098493" ID="ID_821142279" MODIFIED="1451994100837" TEXT="refer">
+<node CREATED="1451994101659" ID="ID_68497195" LINK="https://docs.jboss.org/hibernate/orm/3.2/reference/en/html_single/" MODIFIED="1451994101659" TEXT="https://docs.jboss.org/hibernate/orm/3.2/reference/en/html_single/"/>
+</node>
+</node>
+<node CREATED="1390292165369" FOLDED="true" ID="ID_1558539133" MODIFIED="1451991607955" TEXT="hibernate&#x5e94;&#x7528;">
 <node CREATED="1390292175384" ID="ID_1926035795" MODIFIED="1390292179450" TEXT="main">
 <node CREATED="1390292179451" ID="ID_1017831752" MODIFIED="1390293289718" TEXT="SessionFactory"/>
 <node CREATED="1390293419227" ID="ID_868739676" MODIFIED="1390293423875" TEXT="Session">
@@ -21538,11 +21730,11 @@
 </node>
 </node>
 </node>
-<node CREATED="1444724718710" ID="ID_790374144" MODIFIED="1444803853311" TEXT="&#x95ee;&#x9898;">
+<node CREATED="1444724718710" FOLDED="true" ID="ID_790374144" MODIFIED="1451991513651" TEXT="&#x95ee;&#x9898;">
 <node CREATED="1444724725597" ID="ID_97797247" MODIFIED="1444724728004" TEXT="&#x521d;&#x59cb;&#x5316;">
-<node CREATED="1444724728005" ID="ID_133842849" MODIFIED="1444724731819" TEXT="&#x6570;&#x636e;&#x5c42;">
-<node CREATED="1444724731820" FOLDED="true" ID="ID_1391317314" MODIFIED="1444804096749" TEXT="&#x5efa;&#x8868;">
-<node CREATED="1444724810084" FOLDED="true" ID="ID_929156725" MODIFIED="1444792075563" TEXT="hibernate.cfg.xml">
+<node CREATED="1444724728005" FOLDED="true" ID="ID_133842849" MODIFIED="1451991512468" TEXT="&#x6570;&#x636e;&#x5c42;">
+<node CREATED="1444724731820" ID="ID_1391317314" MODIFIED="1451991493850" TEXT="&#x5efa;&#x8868;">
+<node CREATED="1444724810084" ID="ID_929156725" MODIFIED="1451991495624" TEXT="hibernate.cfg.xml">
 <node CREATED="1444724810085" ID="ID_1717705731" MODIFIED="1444788631610" TEXT="&lt;property name=&quot;hibernate.hbm2ddl.auto&quot; value=&quot;update&quot; /&gt;">
 <node CREATED="1444724958404" ID="ID_1177017122" MODIFIED="1444724958404" TEXT="&#x3000;&#x3000;validate               &#x52a0;&#x8f7d;hibernate&#x65f6;&#xff0c;&#x9a8c;&#x8bc1;&#x521b;&#x5efa;&#x6570;&#x636e;&#x5e93;&#x8868;&#x7ed3;&#x6784;"/>
 <node CREATED="1444724958407" ID="ID_1004584806" MODIFIED="1444724958407" TEXT="&#x3000;&#x3000;create                  &#x6bcf;&#x6b21;&#x52a0;&#x8f7d;hibernate,&#x91cd;&#x65b0;&#x521b;&#x5efa;&#x6570;&#x636e;&#x5e93;&#x8868;&#x7ed3;&#x6784;"/>
@@ -21551,10 +21743,10 @@
 <node CREATED="1444724968036" ID="ID_1202822416" MODIFIED="1444724969772" TEXT="none"/>
 </node>
 </node>
-<node CREATED="1444791900847" FOLDED="true" ID="ID_1510653008" MODIFIED="1444804095020" TEXT="spring&#x914d;&#x7f6e;&#x6587;&#x4ef6;">
-<node CREATED="1444792040189" FOLDED="true" ID="ID_1630288817" MODIFIED="1444803863550" TEXT="&#x6570;&#x636e;&#x6620;&#x5c04;">
+<node CREATED="1444791900847" ID="ID_1510653008" MODIFIED="1451991504582" TEXT="spring&#x914d;&#x7f6e;&#x6587;&#x4ef6;">
+<node CREATED="1444792040189" ID="ID_1630288817" MODIFIED="1451991505860" TEXT="&#x6570;&#x636e;&#x6620;&#x5c04;">
 <node CREATED="1444792045117" ID="ID_920788895" MODIFIED="1444792045117" TEXT="&lt;property name=&quot;dataSource&quot; ref=&quot;dataSource&quot;/&gt;"/>
-<node CREATED="1444792045117" FOLDED="true" ID="ID_685846233" MODIFIED="1444792061139" TEXT="&lt;property name=&quot;mappingResources&quot;&gt;">
+<node CREATED="1444792045117" FOLDED="true" ID="ID_685846233" MODIFIED="1451991509923" TEXT="&lt;property name=&quot;mappingResources&quot;&gt;">
 <node CREATED="1444792045118" MODIFIED="1444792045118" TEXT="&lt;list&gt;">
 <node CREATED="1444792045119" MODIFIED="1444792045119" TEXT="&lt;value&gt;com/sina/domain/Content.hbm.xml&lt;/value&gt;"/>
 <node CREATED="1444792045119" MODIFIED="1444792045119" TEXT="&lt;value&gt;com/sina/domain/Type.hbm.xml&lt;/value&gt;"/>
