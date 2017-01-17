@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1405905737172" ID="ID_554337315" MODIFIED="1444973138119" TEXT="IT">
 <font NAME="SansSerif" SIZE="21"/>
-<node CREATED="1405906427022" FOLDED="true" ID="ID_1413430901" MODIFIED="1460712647705" POSITION="right" TEXT="&#x65b9;&#x6cd5;&#x8bba;">
+<node CREATED="1405906427022" ID="ID_1413430901" MODIFIED="1484633647481" POSITION="right" TEXT="&#x65b9;&#x6cd5;&#x8bba;">
 <node CREATED="1405906484597" FOLDED="true" ID="ID_1551955828" MODIFIED="1446796971641" TEXT="&#x8bc4;&#x4f30;">
 <node CREATED="1410227334239" ID="ID_384203062" MODIFIED="1435046599153" TEXT="&#x6d4b;&#x8bd5;">
 <node CREATED="1410227342775" ID="ID_1216299821" MODIFIED="1446796661039" TEXT="Benchmark">
@@ -68,10 +68,10 @@
 </node>
 </node>
 </node>
-<node CREATED="1406181438603" FOLDED="true" ID="ID_424949954" MODIFIED="1442996469383" TEXT="&#x5de5;&#x5177;">
-<node CREATED="1406181445715" FOLDED="true" ID="ID_662156752" MODIFIED="1435046818405" TEXT="&#x7248;&#x672c;&#x63a7;&#x5236;">
+<node CREATED="1406181438603" ID="ID_424949954" MODIFIED="1484633648410" TEXT="&#x5de5;&#x5177;">
+<node CREATED="1406181445715" FOLDED="true" ID="ID_662156752" MODIFIED="1484633676979" TEXT="&#x7248;&#x672c;&#x63a7;&#x5236;">
 <node CREATED="1406181452803" ID="ID_1975275769" MODIFIED="1406181456693" TEXT="SVN"/>
-<node CREATED="1406181457165" FOLDED="true" ID="ID_1848711083" MODIFIED="1434936408947" TEXT="GIT">
+<node CREATED="1406181457165" FOLDED="true" ID="ID_1848711083" MODIFIED="1484633676572" TEXT="GIT">
 <node CREATED="1411023730731" FOLDED="true" ID="ID_1308065241" MODIFIED="1434932832753" TEXT="basic">
 <node CREATED="1411023744976" ID="ID_904544303" MODIFIED="1411023744976" TEXT="git init"/>
 <node CREATED="1411025083140" ID="ID_549822615" MODIFIED="1411025106271" TEXT="git clone git@github.com:changyjc/test.git "/>
@@ -97,8 +97,12 @@
 </node>
 <node CREATED="1411025548521" ID="ID_427829840" MODIFIED="1411025548521" TEXT=""/>
 </node>
-<node CREATED="1411024566728" FOLDED="true" ID="ID_1388685721" MODIFIED="1415799186914" TEXT="config">
+<node CREATED="1411024566728" FOLDED="true" ID="ID_1388685721" MODIFIED="1484633675764" TEXT="config">
+<node CREATED="1484633662354" ID="ID_555632522" MODIFIED="1484633667074" TEXT="&#x521d;&#x59cb;&#x5316;">
+<node CREATED="1484633658202" ID="ID_1441315456" MODIFIED="1484633658202" TEXT="ssh-keygen"/>
+<node CREATED="1484633658203" ID="ID_1713443061" MODIFIED="1484633658203" TEXT="cat .ssh/id_rsa.pub"/>
 <node CREATED="1411024596329" ID="ID_731167618" MODIFIED="1411024596329" TEXT="&#x914d;&#x7f6e;&#x6587;&#x4ef6;~/.ssh/config&#x4e2d;&#x9488;&#x5bf9;&#x76f8;&#x5e94;&#x4e3b;&#x673a;&#x8fdb;&#x884c;&#x8bbe;&#x5b9a;"/>
+</node>
 <node CREATED="1411024608008" ID="ID_527835771" MODIFIED="1411024608008" TEXT="&#x5f53;&#x751f;&#x6210;&#x7684;&#x516c;&#x94a5;/&#x79c1;&#x94a5;&#x5bf9;&#x4e0d;&#x5728;&#x7f3a;&#x7701;&#x4f4d;&#x7f6e;&#xff08;~/.ssh/id_rsa&#x7b49;&#xff09;&#x65f6;"/>
 <node CREATED="1411024614992" ID="ID_1635749153" MODIFIED="1411024614992" TEXT="Host github.com">
 <node CREATED="1411024614993" ID="ID_755436640" MODIFIED="1411024614993" TEXT="User git"/>
@@ -143,7 +147,7 @@
 <node CREATED="1411027499958" ID="ID_1356182089" MODIFIED="1411027509744" TEXT="merge"/>
 </node>
 </node>
-<node CREATED="1415948836607" ID="ID_1475711027" MODIFIED="1442995488227" TEXT="&#x6d4b;&#x8bd5;">
+<node CREATED="1415948836607" FOLDED="true" ID="ID_1475711027" MODIFIED="1484633651745" TEXT="&#x6d4b;&#x8bd5;">
 <node CREATED="1434932853587" FOLDED="true" ID="ID_1690635618" MODIFIED="1442995950988" TEXT="&#x539f;&#x7406;">
 <node CREATED="1434932857788" FOLDED="true" ID="ID_895438565" MODIFIED="1442994464810" TEXT="&#x9636;&#x6bb5;&#x5206;&#x7c7b;">
 <node CREATED="1434932861776" FOLDED="true" ID="ID_1634008439" MODIFIED="1442994104710" TEXT="&#x5355;&#x5143;&#x6d4b;&#x8bd5;&#xff1a;&#x5355;&#x5143;&#x6d4b;&#x8bd5;&#x662f;&#x5bf9;&#x8f6f;&#x4ef6;&#x4e2d;&#x7684;&#x57fa;&#x672c;&#x7ec4;&#x6210;&#x5355;&#x4f4d;&#x8fdb;&#x884c;&#x7684;&#x6d4b;&#x8bd5;&#x3002;&#x76ee;&#x7684;&#x662f;&#x68c0;&#x9a8c;&#x8f6f;&#x4ef6;&#x57fa;&#x672c;&#x7ec4;&#x6210;&#x5355;&#x4f4d;&#x7684;&#x6b63;&#x786e;&#x6027;&#x3002;">
@@ -407,8 +411,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1408326594571" FOLDED="true" ID="ID_230003120" MODIFIED="1463323965449" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x6280;&#x672f;&#x57fa;&#x7840;">
-<font NAME="SansSerif" SIZE="21"/>
+<node CREATED="1408326594571" FOLDED="true" ID="ID_230003120" MODIFIED="1484633622020" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x6280;&#x672f;&#x57fa;&#x7840;">
+<font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408327531850" FOLDED="true" ID="ID_1859435901" MODIFIED="1460713019399" TEXT="Algorithms">
 <node CREATED="1425883539799" FOLDED="true" ID="ID_914458489" MODIFIED="1440144909182" TEXT="&#x57fa;&#x7840;">
 <node CREATED="1425883575549" FOLDED="true" ID="ID_215677293" MODIFIED="1426055734142" TEXT="&#x6570;&#x7ec4;">
@@ -12103,9 +12107,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1405906584652" FOLDED="true" ID="ID_541250442" MODIFIED="1463326896087" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x5316;">
-<node CREATED="1411227907316" FOLDED="true" ID="ID_1096892152" MODIFIED="1448870756785" TEXT="&#x7cfb;&#x7edf;&#x5206;&#x6790;">
-<node CREATED="1444630155610" ID="ID_935956613" MODIFIED="1448870321022" TEXT="&#x5e72;&#x7cfb;&#x4eba;">
+<node CREATED="1405906584652" FOLDED="true" ID="ID_541250442" MODIFIED="1484633646829" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x5316;">
+<node CREATED="1411227907316" FOLDED="true" ID="ID_1096892152" MODIFIED="1484633625748" TEXT="&#x7cfb;&#x7edf;&#x5206;&#x6790;">
+<node CREATED="1444630155610" FOLDED="true" ID="ID_935956613" MODIFIED="1484633524402" TEXT="&#x5e72;&#x7cfb;&#x4eba;">
 <node CREATED="1444630657965" ID="ID_726038504" MODIFIED="1444630676247" TEXT="&#x751f;&#x4ea7;&#x8005;">
 <node CREATED="1444630689165" ID="ID_317310724" MODIFIED="1444630691455" TEXT="&#x8bbe;&#x8ba1;"/>
 <node CREATED="1444630691661" ID="ID_145159170" MODIFIED="1444630693547" TEXT="&#x5b9e;&#x73b0;"/>
@@ -12126,7 +12130,7 @@
 <node CREATED="1444630741475" ID="ID_1192752796" MODIFIED="1444630759183" TEXT="&#x7cfb;&#x7edf;&#x7ba1;&#x7406;&#x5458;"/>
 </node>
 </node>
-<node CREATED="1435045904371" FOLDED="true" ID="ID_497180060" MODIFIED="1448870755865" TEXT="&#x7528;&#x4f8b;&#x573a;&#x666f;">
+<node CREATED="1435045904371" FOLDED="true" ID="ID_497180060" MODIFIED="1484633527670" TEXT="&#x7528;&#x4f8b;&#x573a;&#x666f;">
 <node CREATED="1444630925139" ID="ID_803541875" MODIFIED="1444630928647" TEXT="&#x573a;&#x666f;">
 <node CREATED="1444619885247" ID="ID_1887834058" MODIFIED="1444619894307" TEXT="6W2H"/>
 <node CREATED="1442210188925" ID="ID_344215025" MODIFIED="1442210194136" TEXT="&#x53d9;&#x8ff0;&#x6027;"/>
@@ -12166,7 +12170,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1435046385831" ID="ID_1562847234" MODIFIED="1448870328749" TEXT="&#x9700;&#x6c42;&#x5de5;&#x7a0b;">
+<node CREATED="1435046385831" FOLDED="true" ID="ID_1562847234" MODIFIED="1484633523122" TEXT="&#x9700;&#x6c42;&#x5de5;&#x7a0b;">
 <node CREATED="1442210768823" ID="ID_395192947" MODIFIED="1444630939798" TEXT="&#x4fe1;&#x606f;&#x6536;&#x96c6;">
 <node CREATED="1442210908637" ID="ID_1368585865" MODIFIED="1442210912222" TEXT="&#x5206;&#x7c7b;">
 <node CREATED="1442210773925" ID="ID_660759709" MODIFIED="1442210789831" TEXT="&#x4e1a;&#x52a1;"/>
@@ -17079,7 +17083,7 @@
 </node>
 <node CREATED="1414480914958" ID="ID_1838783876" MODIFIED="1414481412193" TEXT="&#x8d22;&#x52a1;&#x5ba1;&#x8ba1;"/>
 </node>
-<node CREATED="1407208280903" FOLDED="true" ID="ID_1364751861" MODIFIED="1463323597257" POSITION="right" TEXT="&#x89e3;&#x51b3;&#x65b9;&#x6848;">
+<node CREATED="1407208280903" FOLDED="true" ID="ID_1364751861" MODIFIED="1484633628915" POSITION="right" TEXT="&#x89e3;&#x51b3;&#x65b9;&#x6848;">
 <node CREATED="1405906028234" ID="ID_106122721" MODIFIED="1405906032105" TEXT="&#x5206;&#x5e03;&#x5f0f;"/>
 <node CREATED="1406178651993" FOLDED="true" ID="ID_316630170" MODIFIED="1460208188022" TEXT="&#x5927;&#x6570;&#x636e;">
 <node CREATED="1413359362663" ID="ID_431455222" MODIFIED="1446797576660" TEXT="&#x5206;&#x5e03;&#x5f0f;&#x670d;&#x52a1;">
@@ -21084,7 +21088,7 @@
 <node CREATED="1418042545769" ID="ID_1420839815" MODIFIED="1418042547866" TEXT="SDN"/>
 </node>
 </node>
-<node CREATED="1420643799650" FOLDED="true" ID="ID_566982720" MODIFIED="1463322808984" POSITION="right" TEXT="&#x6570;&#x636e;&#x79d1;&#x5b66;">
+<node CREATED="1420643799650" FOLDED="true" ID="ID_566982720" MODIFIED="1484633635196" POSITION="right" TEXT="&#x6570;&#x636e;&#x79d1;&#x5b66;">
 <node CREATED="1463321305270" FOLDED="true" ID="ID_212796927" MODIFIED="1463322502840" TEXT="&#x6a5f;&#x5668;&#x5b78;&#x7fd2; (Machine Learning, ML)">
 <node CREATED="1463321305272" ID="ID_812095174" MODIFIED="1463321305272" TEXT="&#x6a21;&#x7cca;&#x7406;&#x8ad6;&#x57fa;&#x790e;"/>
 <node CREATED="1463321305273" ID="ID_126887744" MODIFIED="1463321394946" TEXT="&#x5de8;&#x96c6;&#x555f;&#x767c;&#x5f0f;&#x6f14;&#x7b97;&#x6cd5;">
@@ -21277,7 +21281,7 @@
 <node CREATED="1422926721108" ID="ID_506881748" MODIFIED="1422926721108" TEXT="rarbg"/>
 </node>
 </node>
-<node CREATED="1406180675309" FOLDED="true" ID="ID_899276002" MODIFIED="1460284870023" POSITION="right" TEXT="&#x6846;&#x67b6;">
+<node CREATED="1406180675309" FOLDED="true" ID="ID_899276002" MODIFIED="1484633633636" POSITION="right" TEXT="&#x6846;&#x67b6;">
 <node CREATED="1406180682716" FOLDED="true" ID="ID_930216868" MODIFIED="1444718306990" TEXT="RPC">
 <node CREATED="1406180705804" ID="ID_688771872" MODIFIED="1406180707325" TEXT="  RPC(Remote Procedure Call protoco) &#x662f;&#x5206;&#x5e03;&#x5f0f;&#x662f;&#x7cfb;&#x7edf;&#x7684;&#x57fa;&#x7840;&#xff0c;&#x6bd4;&#x5982;Hadoop&#xff0c;Hbase&#xff0c;&#x7b49;&#xff0c;&#x4ed6;&#x4eec;&#x7684;&#x8282;&#x70b9;&#x4e4b;&#x95f4;&#x901a;&#x4fe1;&#x90fd;&#x662f;&#x901a;&#x8fc7;RPC&#x8c03;&#x7528;&#xff0c;&#x5373;&#x5e95;&#x5c42;&#x662f;socket tcp&#x534f;&#x8bae;&#xff0c;&#x901a;&#x8fc7;RPC&#xff0c;&#x5e94;&#x7528;&#x5c42;&#x53ef;&#x4ee5;&#x4e0d;&#x7ba1;&#x5e95;&#x5c42;&#x5b9e;&#x73b0;&#xff0c;&#x5728;&#x5ba2;&#x6237;&#x7aef;&#x901a;&#x8fc7;&#x8c03;&#x7528;&#x672c;&#x5730;&#x63a5;&#x53e3;&#xff0c;&#x5c31;&#x76f8;&#x5f53;&#x4e8e;&#x8c03;&#x7528;&#x4e86;&#x8fdc;&#x7a0b;&#x7684;&#x670d;&#x52a1;(&#x8fdc;&#x7a0b;&#x7684;&#x63a5;&#x53e3;&#x662f;&#x4e00;&#x4e2a;&#x670d;&#x52a1;)&#x3002;&#x4e00;&#x4e2a;&#x7b80;&#x5355;&#x7684;&#x8fc7;&#x7a0b;&#x5982;&#x4e0b;:  1 &#x5ba2;&#x6237;&#x7aef;&#x7aef;&#x53d1;&#x8d77;&#x8c03;&#x7528;&#xff0c;&#x628a;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#x653e;&#x5165;&#x53d1;&#x9001;&#x961f;&#x5217;&#xff0c;Block&#x4f4f;&#x5f53;&#x524d;&#x7ebf;&#x7a0b;&#xff0c;&#x4fdd;&#x5b58;&#x4e0a;&#x4e0b;&#x6587;&#x3002;  2 RPC&#x6846;&#x67b6;&#x4ece;&#x961f;&#x5217;&#x53d6;&#x51fa;&#x8c03;&#x7528;&#x4fe1;&#x606f;&#xff0c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x5230;&#x670d;&#x52a1;&#x7aef;&#x3002;  3 &#x670d;&#x52a1;&#x7aef;&#x63a5;&#x6536;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x8c03;&#x7528;&#x5bf9;&#x4e8e;&#x7684;&#x65b9;&#x6cd5;&#x3002;&#x628a;&#x8fd4;&#x56de;&#x7ed3;&#x679c;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x53d1;&#x9001;&#x7ed9;&#x5ba2;&#x6237;&#x7aef;&#x3002;  4 &#x5ba2;&#x6237;&#x7aef;&#x63a5;&#x6536;&#x5230;&#x6570;&#x636e;&#xff0c;&#x53cd;&#x5e8f;&#x5217;&#x5316;&#xff0c;&#x6839;&#x636e;&#x8bf7;&#x6c42;&#x552f;&#x4e00;&#x6807;&#x8bc6;&#xff0c;&#x627e;&#x5230;Block&#x4f4f;&#x7ebf;&#x7a0b;&#x7684;&#x4e0a;&#x4e0b;&#x6587;&#xff0c;&#x91ca;&#x653e;&#x8be5;&#x7ebf;&#x7a0b;&#x3002;  5 &#x5ba2;&#x6237;&#x7aef;&#x62ff;&#x5230;&#x7ed3;&#x679c;&#x3002;  Bison &#x662f;&#x4e00;&#x4e2a;JAVA &#x7a0b;&#x95f4;&#x7684;&#x901a;&#x4fe1;&#x6846;&#x67b6;&#xff0c;&#x57fa;&#x4e8e;apache mina &#x5b9e;&#x73b0;&#xff0c;&#x5bf9;mina&#x8fdb;&#x884c;&#x4e86;byteBuffer &#x7f13;&#x51b2;&#x533a;&#x91cd;&#x7528;&#x4ee5;&#x53ca;&#x534a;&#x5305;&#x51fa;&#x5904;&#x65f6;&#x51cf;&#x5c11;&#x62f7;&#x8d1d;&#x3002;  &#x5ba2;&#x6237;&#x7aef;(bison-client) &#x529f;&#x80fd;&#x70b9;  1 &#x4e1a;&#x52a1;&#x5206;&#x7ec4;&#x3002;  2 &#x652f;&#x6301;&#x5206;&#x7ec4;&#x5185;&#x8d1f;&#x8f7d;&#x5747;&#x8861;&#x3002;  3 &#x652f;&#x6301;&#x6a2a;&#x5411;&#x6269;&#x5c55;&#x3002;  &#x670d;&#x52a1;&#x7aef;(bison)  1 &#x652f;&#x6301;&#x70ed;&#x90e8;&#x7f72;  2 &#x652f;&#x6301;&#x9ad8;&#x7528;&#x6027;&#xff1a;&#x9ad8;&#x53ef;&#x7528;&#x7684;&#x4e00;&#x4e2a;&#x57fa;&#x672c;&#x539f;&#x5219;&#xff0c;&#x53ef;&#x4ee5;&#x63a5;&#x53d7;&#x5feb;&#x901f;&#x7684;&#x5931;&#x8d25;&#xff0c;&#x4f46;&#x4e0d;&#x80fd;&#x63a5;&#x53d7;&#x957f;&#x65f6;&#x95f4;&#x7684;&#x7b49;&#x5f85;&#x3002;  3 &#x8d44;&#x6e90;&#x7edf;&#x4e00;&#x7ba1;&#x7406;&#x3002;&#x6570;&#x636e;&#x5e93;&#x8fde;&#x63a5;&#x6c60;&#xff0c;&#x5de5;&#x4f5c;&#x7ebf;&#x7a0b;,&#x7b49;&#x3002;  4 &#x652f;&#x6301;&#x767d;&#x540d;&#x5355;&#xff0c;&#x9ed1;&#x540d;&#x5355;&#x3002;   Githup&#x5730;&#x5740;:https://github.com/gavenpeng/Bison  &#x5206;&#x4eab;&#x7684;&#x76ee;&#x7684;  bison &#x7b80;&#x5355;&#x6613;&#x7528;&#x7684;RPC&#x6846;&#x67b6;&#xff0c;&#x5bf9;&#x5916;&#x5c31;&#x4f9d;&#x8d56;mina&#xff0c;&#x6ca1;&#x6709;&#x592a;&#x591a;&#x7684;&#x914d;&#x7f6e;&#xff0c;&#x5f88;&#x5bb9;&#x6613;&#x90e8;&#x7f72;&#xff0c;&#x5206;&#x4eab;&#x5728;&#x8fd9;&#x91cc;&#x5b8c;&#x5168;&#x662f;&#x4e3a;&#x4e86;&#x76f8;&#x4e92;&#x5b66;&#x4e60;&#x3002;&#x5982;&#x679c;&#x4f60;&#x6709;&#x4ec0;&#x4e48;&#x95ee;&#x9898;&#xff0c;&#x53ef;&#x4ee5;&#x5728;&#x65b0;&#x6d6a;&#x5fae;&#x535a;@&#x6df1;&#x6d77;&#x4e4b;&#x501a;&#x5929;&#x5251;"/>
 </node>
