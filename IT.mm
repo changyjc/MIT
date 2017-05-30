@@ -439,7 +439,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1408326594571" ID="ID_230003120" MODIFIED="1496071797470" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x6280;&#x672f;&#x57fa;&#x7840;">
+<node CREATED="1408326594571" ID="ID_230003120" MODIFIED="1496151447342" POSITION="right" TEXT="&#x4fe1;&#x606f;&#x6280;&#x672f;&#x57fa;&#x7840;">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1408327531850" FOLDED="true" ID="ID_1859435901" MODIFIED="1486691585795" TEXT="Algorithms">
 <node CREATED="1425883539799" FOLDED="true" ID="ID_914458489" MODIFIED="1440144909182" TEXT="&#x57fa;&#x7840;">
@@ -11329,7 +11329,7 @@
 <node CREATED="1435375899791" ID="ID_1402902915" MODIFIED="1435375899791" TEXT="&#x6bb5;&#x540e;&#x8981;&#x7a7a;&#x884c;&#xff0c;&#x53e5;&#x540e;&#x4e24;&#x4e2a;&#x7a7a;&#x683c;"/>
 </node>
 </node>
-<node CREATED="1411264965885" ID="ID_65866357" MODIFIED="1494692620854" TEXT="tool">
+<node CREATED="1411264965885" FOLDED="true" ID="ID_65866357" MODIFIED="1496151479447" TEXT="tool">
 <node CREATED="1411282315142" ID="ID_341880692" MODIFIED="1435376014108" TEXT="vi">
 <node CREATED="1435375184703" FOLDED="true" ID="ID_469182179" MODIFIED="1435376084260" TEXT="&#x7a97;&#x53e3;&#x5206;&#x5272;">
 <node CREATED="1435375231996" ID="ID_32585537" MODIFIED="1435375231996" TEXT="plit&#xff08;&#x5f00;&#x542f;&#x53e6;&#x4e00;&#x4e2a;&#x7a97;&#x53e3;&#x5bdf;&#x770b;&#x540c;&#x4e00;&#x6587;&#x4ef6;&#xff09;"/>
@@ -11569,6 +11569,17 @@
 <node CREATED="1435374754621" MODIFIED="1435374754621" TEXT="sed &apos;s/...$//&apos; lines        &#x5220;&#x9664;&#x6700;&#x540e;&#x4e00;&#x884c;&#x7684;&#x6700;&#x540e;&#x4e09;&#x4e2a;&#x5b57;&#x7b26;"/>
 <node CREATED="1435374754622" ID="ID_1031120043" MODIFIED="1435374754622" TEXT="sed &apos;2,4 c&apos; filename        &#x5c06;2-4&#x884c;&#x7684;&#x5185;&#x5bb9;&#x66ff;&#x6362;&#x4e3a;c&#x540e;&#x7684;&#x6587;&#x672c;"/>
 <node CREATED="1435374754623" ID="ID_848801153" MODIFIED="1435374754623" TEXT="sed &apos;s/line/sentence/gp&apos; filename &#x66ff;&#x6362;"/>
+</node>
+<node CREATED="1496151471029" ID="ID_1485307514" MODIFIED="1496151476796" TEXT="&#x66f4;&#x591a;&#x547d;&#x4ee4;">
+<node CREATED="1496151477305" ID="ID_1890768598" MODIFIED="1496151477305" TEXT="&apos;s//.$//g&apos;         &#x5220;&#x9664;&#x4ee5;&#x53e5;&#x70b9;&#x7ed3;&#x5c3e;&#x884c;"/>
+<node CREATED="1496151477305" ID="ID_1575773846" MODIFIED="1496151477305" TEXT="&apos;-e /abcd/d&apos;       &#x5220;&#x9664;&#x5305;&#x542b;abcd&#x7684;&#x884c;"/>
+<node CREATED="1496151477307" ID="ID_786738254" MODIFIED="1496151477307" TEXT="&apos;s/[][][]*/[]/g&apos;   &#x5220;&#x9664;&#x4e00;&#x4e2a;&#x4ee5;&#x4e0a;&#x7a7a;&#x683c;,&#x7528;&#x4e00;&#x4e2a;&#x7a7a;&#x683c;&#x4ee3;&#x66ff;"/>
+<node CREATED="1496151477307" ID="ID_1812554263" MODIFIED="1496151477307" TEXT="&apos;s/^[][]*//g&apos;      &#x5220;&#x9664;&#x884c;&#x9996;&#x7a7a;&#x683c;"/>
+<node CREATED="1496151477307" ID="ID_1129309035" MODIFIED="1496151477307" TEXT="&apos;s//.[][]*/[]/g&apos;   &#x5220;&#x9664;&#x53e5;&#x53f7;&#x540e;&#x8ddf;&#x4e24;&#x4e2a;&#x6216;&#x66f4;&#x591a;&#x7684;&#x7a7a;&#x683c;,&#x7528;&#x4e00;&#x4e2a;&#x7a7a;&#x683c;&#x4ee3;&#x66ff;"/>
+<node CREATED="1496151477308" ID="ID_1032863067" MODIFIED="1496151477308" TEXT="&apos;/^$/d&apos;            &#x5220;&#x9664;&#x7a7a;&#x884c;"/>
+<node CREATED="1496151477308" ID="ID_1769266635" MODIFIED="1496151477308" TEXT="&apos;s/^.//g&apos;          &#x5220;&#x9664;&#x7b2c;&#x4e00;&#x4e2a;&#x5b57;&#x7b26;,&#x533a;&#x522b;  &apos;s//.//g&apos;&#x5220;&#x9664;&#x6240;&#x6709;&#x7684;&#x53e5;&#x70b9;"/>
+<node CREATED="1496151477309" ID="ID_109382399" MODIFIED="1496151477309" TEXT="&apos;s/COL/(.../)//g&apos;  &#x5220;&#x9664;&#x7d27;&#x8ddf;COL&#x7684;&#x540e;&#x4e09;&#x4e2a;&#x5b57;&#x6bcd;"/>
+<node CREATED="1496151477309" ID="ID_1380368442" MODIFIED="1496151477309" TEXT="&apos;s/^////g&apos;         &#x5220;&#x9664;&#x8def;&#x5f84;&#x4e2d;&#x7b2c;&#x4e00;&#x4e2a;/"/>
 </node>
 </node>
 </node>
@@ -21517,7 +21528,7 @@
 <node CREATED="1418042545769" ID="ID_1420839815" MODIFIED="1418042547866" TEXT="SDN"/>
 </node>
 </node>
-<node CREATED="1420643799650" ID="ID_566982720" MODIFIED="1496026385563" POSITION="right" TEXT="&#x6570;&#x636e;&#x79d1;&#x5b66;">
+<node CREATED="1420643799650" FOLDED="true" ID="ID_566982720" MODIFIED="1496151446502" POSITION="right" TEXT="&#x6570;&#x636e;&#x79d1;&#x5b66;">
 <node CREATED="1463321305270" ID="ID_212796927" MODIFIED="1494732327616" TEXT="&#x6a5f;&#x5668;&#x5b78;&#x7fd2; (Machine Learning, ML)">
 <node CREATED="1463321305272" ID="ID_812095174" MODIFIED="1463321305272" TEXT="&#x6a21;&#x7cca;&#x7406;&#x8ad6;&#x57fa;&#x790e;"/>
 <node CREATED="1463321305273" FOLDED="true" ID="ID_126887744" MODIFIED="1494732532672" TEXT="&#x5de8;&#x96c6;&#x555f;&#x767c;&#x5f0f;&#x6f14;&#x7b97;&#x6cd5;">
